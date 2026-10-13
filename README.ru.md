@@ -9,7 +9,7 @@ Android-приложение для установки приложений `.wg
 
 **⬇️ [Скачать TvInstaller.apk](https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk)** — последняя версия
 · все версии — [Releases](https://github.com/sunic007/tvinstaller/releases)
-· [политика конфиденциальности](https://sunic007.github.io/tvinstaller-privacy/)
+· [политика конфиденциальности](https://sunic007.github.io/tvinstaller/privacy.html)
 · ❤️ [поддержать проект](https://github.com/sponsors/sunic007)
 
 Главное приложение в каталоге — **[Lampa для Samsung](https://github.com/sunic007/lampa-samsung)**: TV Installer
@@ -51,7 +51,7 @@ Android-приложение для установки приложений `.wg
 **Ошибка подписи или установки.** Удалите старую версию приложения на ТВ и установите заново.
 
 **Безопасно ли.** Приложение работает только в вашей домашней сети, данные никуда не отправляет — подробнее в
-[политике конфиденциальности](https://sunic007.github.io/tvinstaller-privacy/).
+[политике конфиденциальности](https://sunic007.github.io/tvinstaller/privacy.html).
 
 ## Поддержать проект
 TV Installer бесплатный. Поддержать развитие можно на **[GitHub Sponsors](https://github.com/sponsors/sunic007)**

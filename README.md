@@ -9,7 +9,7 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 
 **⬇️ [Download TvInstaller.apk](https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk)** — latest version
 · all versions — [Releases](https://github.com/sunic007/tvinstaller/releases)
-· [privacy policy](https://sunic007.github.io/tvinstaller-privacy/)
+· [privacy policy](https://sunic007.github.io/tvinstaller/privacy.html)
 · ❤️ [sponsor the project](https://github.com/sponsors/sunic007)
 
 > The app is available in **English and Russian** (follows your phone language; switch in Settings → Language).
@@ -63,7 +63,7 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 **Signing or installation error.** Remove the old version of the app from the TV and install again.
 
 **Is it safe?** The app talks to the TV only inside your home network. It contacts Samsung only to issue the
-certificate and GitHub only to download apps — see the [privacy policy](https://sunic007.github.io/tvinstaller-privacy/).
+certificate and GitHub only to download apps — see the [privacy policy](https://sunic007.github.io/tvinstaller/privacy.html).
 
 ## Support the project
 
