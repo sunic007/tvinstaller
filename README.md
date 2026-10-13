@@ -13,15 +13,15 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 > The app interface is currently in Russian. The steps below and the built-in animation show exactly what to press.
 
 <p align="center">
-  <img src="docs/screenshots/01.png" width="23%">
-  <img src="docs/screenshots/02.png" width="23%">
-  <img src="docs/screenshots/03.png" width="23%">
-  <img src="docs/screenshots/04.png" width="23%">
+  <img src="docs/screenshots/en/01.png" width="23%">
+  <img src="docs/screenshots/en/02.png" width="23%">
+  <img src="docs/screenshots/en/03.png" width="23%">
+  <img src="docs/screenshots/en/04.png" width="23%">
 </p>
 <p align="center">
-  <img src="docs/screenshots/05.png" width="23%">
-  <img src="docs/screenshots/06.png" width="23%">
-  <img src="docs/screenshots/07.png" width="23%">
+  <img src="docs/screenshots/en/05.png" width="23%">
+  <img src="docs/screenshots/en/06.png" width="23%">
+  <img src="docs/screenshots/en/07.png" width="23%">
 </p>
 
 ## Features
