@@ -1,6 +1,6 @@
 # TV Installer — install apps on Samsung Smart TV from your phone
 
-[![Release](https://img.shields.io/github/v/release/sunic007/tvinstaller?label=release&color=3d8bff)](https://github.com/sunic007/tvinstaller/releases/latest) [![Downloads](https://img.shields.io/github/downloads/sunic007/tvinstaller/total?color=2ea043)](https://github.com/sunic007/tvinstaller/releases) ![Android](https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white) ![Samsung Tizen](https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?logo=samsung&logoColor=white) ![Languages](https://img.shields.io/badge/UI-English%20%7C%20Русский-8a63d2)
+[![Release](https://img.shields.io/github/v/release/sunic007/tvinstaller?label=release&color=3d8bff)](https://github.com/sunic007/tvinstaller/releases/latest) [![Downloads](https://img.shields.io/github/downloads/sunic007/tvinstaller/total?color=2ea043)](https://github.com/sunic007/tvinstaller/releases) ![Android](https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white) ![Tizen TV](https://img.shields.io/badge/Tizen-TV-1428a0) ![Languages](https://img.shields.io/badge/UI-English%20%7C%20Русский-8a63d2)
 
 **English** · [Русский](README.ru.md)
 
@@ -64,6 +64,13 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 
 **Is it safe?** The app talks to the TV only inside your home network. It contacts Samsung only to issue the
 certificate and GitHub only to download apps — see the [privacy policy](https://sunic007.github.io/tvinstaller/privacy.html).
+
+## Disclaimer
+
+TV Installer is an independent project and is not affiliated with or endorsed by Samsung. Samsung and Tizen are
+trademarks of Samsung Electronics. The app uses the same certificate flow as Samsung's Tizen Studio: you sign in to
+your own Samsung account, and the certificate is issued by Samsung for your TV. You are responsible for the apps you
+install; the app does not host or provide any media content.
 
 ## Support the project
 

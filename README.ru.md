@@ -1,6 +1,6 @@
 # TV Installer — установка приложений на Samsung Smart TV с телефона
 
-[![Release](https://img.shields.io/github/v/release/sunic007/tvinstaller?label=release&color=3d8bff)](https://github.com/sunic007/tvinstaller/releases/latest) [![Downloads](https://img.shields.io/github/downloads/sunic007/tvinstaller/total?color=2ea043)](https://github.com/sunic007/tvinstaller/releases) ![Android](https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white) ![Samsung Tizen](https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?logo=samsung&logoColor=white) ![Languages](https://img.shields.io/badge/UI-English%20%7C%20Русский-8a63d2)
+[![Release](https://img.shields.io/github/v/release/sunic007/tvinstaller?label=release&color=3d8bff)](https://github.com/sunic007/tvinstaller/releases/latest) [![Downloads](https://img.shields.io/github/downloads/sunic007/tvinstaller/total?color=2ea043)](https://github.com/sunic007/tvinstaller/releases) ![Android](https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white) ![Tizen TV](https://img.shields.io/badge/Tizen-TV-1428a0) ![Languages](https://img.shields.io/badge/UI-English%20%7C%20Русский-8a63d2)
 
 [English](README.md) · **Русский**
 
@@ -52,6 +52,13 @@ Android-приложение для установки приложений `.wg
 
 **Безопасно ли.** Приложение работает только в вашей домашней сети, данные никуда не отправляет — подробнее в
 [политике конфиденциальности](https://sunic007.github.io/tvinstaller/privacy.html).
+
+## Отказ от ответственности
+
+TV Installer — независимый проект, не связан с Samsung и не одобрен ею. Samsung и Tizen — товарные знаки Samsung
+Electronics. Приложение использует тот же способ получения сертификата, что и Tizen Studio от Samsung: вы входите в
+свой аккаунт Samsung, и сертификат для вашего ТВ выдаёт Samsung. За устанавливаемые приложения отвечает пользователь;
+само приложение не хранит и не предоставляет медиаконтент.
 
 ## Поддержать проект
 TV Installer бесплатный. Поддержать развитие можно на **[GitHub Sponsors](https://github.com/sponsors/sunic007)**
