@@ -1,0 +1,11 @@
+name: 💡 Idea / Идея
+description: Suggest an app for the catalog or a feature / Предложить приложение в каталог или функцию
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Idea / Идея
+      description: What and why / Что и зачем. For apps — a link to its .wgt release / Для приложения — ссылка на релиз .wgt
+    validations:
+      required: true

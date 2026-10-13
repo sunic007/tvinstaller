@@ -1,0 +1,38 @@
+name: 🐞 Bug report / Ошибка
+description: Something doesn't work / Что-то не работает
+labels: [bug]
+body:
+  - type: input
+    id: tv
+    attributes:
+      label: TV model and year / Модель и год ТВ
+      placeholder: UE55BU8500 (2022)
+    validations:
+      required: true
+  - type: input
+    id: tizen
+    attributes:
+      label: Tizen version / Версия Tizen
+      description: TV card → details / Карточка ТВ → подробнее
+      placeholder: "6.5"
+  - type: input
+    id: app
+    attributes:
+      label: TV Installer version and phone / Версия TV Installer и телефон
+      description: Settings, bottom of the screen / Внизу экрана «Настройки»
+      placeholder: 2.2.0, Samsung Galaxy S23, Android 14
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened / Что произошло
+      description: Steps, what you expected, a screenshot / Шаги, что ожидали, скриншот
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Log / Журнал
+      description: Settings → Log → share (please remove anything private) / Настройки → Журнал → поделиться
+      render: text

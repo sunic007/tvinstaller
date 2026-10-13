@@ -1,5 +1,7 @@
 # TV Installer — install apps on Samsung Smart TV from your phone
 
+[![Release](https://img.shields.io/github/v/release/sunic007/tvinstaller?label=release&color=3d8bff)](https://github.com/sunic007/tvinstaller/releases/latest) [![Downloads](https://img.shields.io/github/downloads/sunic007/tvinstaller/total?color=2ea043)](https://github.com/sunic007/tvinstaller/releases) ![Android](https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white) ![Samsung Tizen](https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?logo=samsung&logoColor=white) ![Languages](https://img.shields.io/badge/UI-English%20%7C%20Русский-8a63d2)
+
 **English** · [Русский](README.ru.md)
 
 An Android app that installs `.wgt` apps on **Samsung (Tizen)** Smart TVs straight from your phone — no PC, no
@@ -10,7 +12,7 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 · [privacy policy](https://sunic007.github.io/tvinstaller-privacy/)
 · ❤️ [sponsor the project](https://github.com/sponsors/sunic007)
 
-> The app interface is currently in Russian. The steps below and the built-in animation show exactly what to press.
+> The app is available in **English and Russian** (follows your phone language; switch in Settings → Language).
 
 <p align="center">
   <img src="docs/screenshots/en/01.png" width="23%">
@@ -66,4 +68,4 @@ certificate and GitHub only to download apps — see the [privacy policy](https:
 ## Support the project
 
 TV Installer is free. If it is useful to you, you can support its development on
-**[GitHub Sponsors](https://github.com/sponsors/sunic007)** (in the app: Settings → «Поддержать проект»).
+**[GitHub Sponsors](https://github.com/sponsors/sunic007)** (in the app: Settings → Support the project).

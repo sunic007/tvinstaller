@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>TV Installer — install apps on Samsung Smart TV from your phone</title>
+<meta name="description" content="Free Android app: install .wgt apps (Lampa, Jellyfin, Kodi, Plex, Moonlight…) on Samsung Smart TV (Tizen) from your phone — no PC, no Tizen Studio. Установка приложений на телевизор Samsung с телефона.">
+<meta name="keywords" content="Samsung TV install apps, Tizen sideload, install wgt Samsung TV, Tizen Studio alternative, Samsung developer mode, Lampa Samsung, установка приложений на Samsung TV, wgt Tizen">
+<meta property="og:title" content="TV Installer — install apps on Samsung Smart TV from your phone">
+<meta property="og:description" content="No PC, no Tizen Studio. Finds your TV, gets the Samsung certificate and installs .wgt apps.">
+<meta property="og:image" content="https://sunic007.github.io/tvinstaller/social.png">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="canonical" href="https://sunic007.github.io/tvinstaller/">
+<style>
+  :root { --bg:#0b0f17; --card:#151b26; --text:#eef2f8; --muted:#9aa6b8; --blue:#4d94ff; --green:#2ea043; }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--text); font:16px/1.55 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif; }
+  .wrap { max-width:1080px; margin:0 auto; padding:0 16px; }
+  header { padding:56px 0 24px; text-align:center;
+    background:radial-gradient(ellipse at 50% 120%, rgba(61,139,255,.35), transparent 60%); }
+  h1 { font-size:clamp(30px,6vw,52px); line-height:1.1; margin:0 0 14px; font-weight:800; }
+  h1 span { color:var(--blue); }
+  .lead { color:var(--muted); font-size:18px; max-width:640px; margin:0 auto 26px; }
+  .btn { display:inline-block; background:var(--blue); color:#06101f; font-weight:700; text-decoration:none;
+    padding:14px 26px; border-radius:999px; margin:6px; }
+  .btn.ghost { background:transparent; color:var(--text); border:1px solid #2b3445; }
+  .lang { color:var(--muted); font-size:14px; margin-top:12px; }
+  .shots { display:flex; gap:14px; overflow-x:auto; padding:24px 0; scroll-snap-type:x mandatory; }
+  .shots img { width:240px; flex:none; border-radius:18px; scroll-snap-align:center; }
+  section { padding:28px 0; }
+  h2 { font-size:26px; margin:0 0 16px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)); gap:14px; }
+  .card { background:var(--card); border-radius:18px; padding:18px; }
+  .card b { display:block; margin-bottom:4px; }
+  .card p { margin:0; color:var(--muted); }
+  ol { padding-left:20px; } ol li { margin:8px 0; }
+  code { background:#1d2433; padding:2px 6px; border-radius:6px; }
+  footer { color:var(--muted); text-align:center; padding:32px 0 48px; font-size:14px; }
+  footer a, .ru a { color:var(--blue); }
+  .ru { border-top:1px solid #1f2735; }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>Install apps on <span>Samsung Smart TV</span><br>from your phone</h1>
+    <p class="lead">TV Installer finds your TV on Wi‑Fi, gets the Samsung certificate and installs <code>.wgt</code> apps —
+      no PC, no Tizen Studio. Free.</p>
+    <a class="btn" href="https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk">⬇ Download APK</a>
+    <a class="btn ghost" href="https://github.com/sunic007/tvinstaller">GitHub</a>
+    <div class="lang">Android 7.0+ · English &amp; Russian · <a href="#ru" style="color:inherit">Русский ↓</a></div>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="shots">
+    <img src="screenshots/en/01.png" alt="Finds your TV by itself" loading="lazy">
+    <img src="screenshots/en/02.png" alt="Shows what to press on the TV" loading="lazy">
+    <img src="screenshots/en/03.png" alt="Certificate just once" loading="lazy">
+    <img src="screenshots/en/04.png" alt="Catalog of 45+ TV apps" loading="lazy">
+    <img src="screenshots/en/05.png" alt="Lampa always fresh" loading="lazy">
+    <img src="screenshots/en/06.png" alt="English and Russian" loading="lazy">
+    <img src="screenshots/en/07.png" alt="All in one place" loading="lazy">
+  </div>
+
+  <section>
+    <h2>What it does</h2>
+    <div class="grid">
+      <div class="card"><b>📡 Finds your TV</b><p>Any Samsung Tizen TV on the same Wi‑Fi.</p></div>
+      <div class="card"><b>🎬 Shows what to press</b><p>Animated step-by-step Developer Mode guide, following Samsung's own.</p></div>
+      <div class="card"><b>🔐 Certificate in one tap</b><p>Sign in with your Samsung account once — no PC needed.</p></div>
+      <div class="card"><b>📦 45+ TV apps</b><p>Media centers, players, streaming, IPTV — or your own <code>.wgt</code>.</p></div>
+      <div class="card"><b>🔄 Always up to date</b><p>Lampa comes from its latest GitHub release; the app updates itself too.</p></div>
+      <div class="card"><b>🧾 Install log</b><p>Every step is visible; certificates can be backed up to a file.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>How to start</h2>
+    <ol>
+      <li>On the TV: <b>Apps</b> → scroll down to <b>App Settings</b> → press <code>12345</code> → turn <b>Developer mode</b> on and enter your phone's IP (TV Installer shows it).</li>
+      <li>Restart the TV (hold the power button ~2 s). After the restart <b>App Settings</b> shows <b>DEVELOP MODE</b>.</li>
+      <li>Install <b>TvInstaller.apk</b> on your phone, pick the TV, sign in to Samsung once, choose an app.</li>
+    </ol>
+  </section>
+
+  <section class="ru" id="ru">
+    <h2>По-русски</h2>
+    <p><b>TV Installer</b> — бесплатное Android-приложение: ставит приложения <code>.wgt</code> на телевизоры Samsung (Tizen)
+      прямо с телефона, без компьютера и Tizen Studio. Само находит ТВ, получает сертификат Samsung и устанавливает
+      приложение; анимация показывает, что нажать на пульте. Интерфейс — на русском и английском.</p>
+    <p>Главное приложение каталога — <a href="https://github.com/sunic007/lampa-samsung">Lampa для Samsung</a>
+      с Telegram-ботом и автообновлением.</p>
+    <a class="btn" href="https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk">⬇ Скачать APK</a>
+  </section>
+</div>
+
+<footer>
+  <a href="https://github.com/sunic007/tvinstaller">GitHub</a> ·
+  <a href="https://github.com/sunic007/lampa-samsung">Lampa for Samsung</a> ·
+  <a href="https://sunic007.github.io/tvinstaller-privacy/">Privacy</a> ·
+  <a href="https://github.com/sponsors/sunic007">❤ Sponsor</a>
+</footer>
+</body>
+</html>
