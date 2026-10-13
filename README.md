@@ -11,6 +11,18 @@ Android-приложение для установки приложений `.wg
 Главное приложение в каталоге — **[Lampa для Samsung](https://github.com/sunic007/lampa-samsung)**: TV Installer
 ставит её последнюю версию прямо из релизов GitHub, дальше она обновляется на телевизоре сама.
 
+<p align="center">
+  <img src="docs/screenshots/01.png" width="23%">
+  <img src="docs/screenshots/02.png" width="23%">
+  <img src="docs/screenshots/03.png" width="23%">
+  <img src="docs/screenshots/04.png" width="23%">
+</p>
+<p align="center">
+  <img src="docs/screenshots/05.png" width="23%">
+  <img src="docs/screenshots/06.png" width="23%">
+  <img src="docs/screenshots/07.png" width="23%">
+</p>
+
 ## Что нужно
 
 - Телефон на Android и телевизор Samsung с Tizen — в одной Wi-Fi сети.
