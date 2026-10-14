@@ -21,7 +21,7 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
   <img src="docs/screenshots/en/03.png" width="30%">
 </p>
 <details>
-<summary>More screenshots / Ещё скриншоты / Ko'proq skrinshotlar</summary>
+<summary>More screenshots</summary>
 
 <p align="center">
   <img src="docs/screenshots/en/04.png" width="30%">
@@ -40,7 +40,7 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 - **Finds your TV automatically** on the same Wi‑Fi network; several TVs are supported.
 - **"Can't connect?" wizard** checks Wi‑Fi, the TV, Developer Mode and the address set on the TV step by step — and
   tells you clearly when the TV is set up for another device (only one phone or PC can install on a Samsung TV at a time).
-- **Step-by-step animation** of how to enable Developer Mode on the TV, following Samsung's official guide.
+- **Video guide** on enabling Developer Mode on the TV, in English, Russian and Uzbek.
 - **Samsung certificate just once** — sign in with your Samsung account; no PC or Tizen Studio. A reminder comes a
   month before it expires, renewal is one tap, and certificates can be backed up and **restored from a backup**.
 - **Catalog of 40+ TV apps** — media centers, players, streaming, IPTV — with **Recommended** starter picks; or install
@@ -51,7 +51,6 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 - **[Lampa for Samsung](https://github.com/sunic007/lampa-samsung)** is installed straight from its latest GitHub
   release and then keeps itself up to date on the TV.
 - **Updates itself without a browser**: downloads its new version, verifies it and opens Android's installer.
-- **Three languages**: English, Русский, O'zbekcha.
 
 ## Requirements
 
@@ -64,7 +63,7 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 <p align="center"><a href="https://youtu.be/L6nK4SBWKP0"><img src="docs/video/thumbnails/thumbnail-en.jpg" width="220" alt="English"></a></p>
 
 <details>
-<summary>Other languages / Другие языки / Boshqa tillar</summary>
+<summary>Other languages</summary>
 
 <p align="center"><a href="https://youtu.be/U4VGa0fGYUI"><img src="docs/video/thumbnails/thumbnail-ru.jpg" width="220" alt="Русский"></a> <a href="https://youtu.be/AB0fsIuFSII"><img src="docs/video/thumbnails/thumbnail-uz.jpg" width="220" alt="O'zbekcha"></a></p>
 
