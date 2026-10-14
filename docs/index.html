@@ -39,11 +39,11 @@
   footer { color:var(--muted); text-align:center; padding:32px 0 48px; font-size:14px; }
   footer a, .ru a { color:var(--blue); }
   .ru { border-top:1px solid #1f2735; }
-  .videos { display:grid; gap:18px; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); }
-  .videos figure { margin:0; }
-  .videos .frame { position:relative; padding-top:56.25%; border-radius:10px; overflow:hidden; background:#000; }
-  .videos iframe { position:absolute; inset:0; width:100%; height:100%; border:0; }
-  .videos figcaption { color:#9aa4b2; font-size:14px; margin-top:6px; }
+  .videos { display:grid; gap:16px; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); }
+  .videos .card { display:block; border:1px solid #1f2735; border-radius:10px; overflow:hidden; text-decoration:none; background:#0f141c; }
+  .videos .card img { display:block; width:100%; height:auto; }
+  .videos .card span { display:block; padding:10px 12px; color:#c8d0dc; font-size:15px; }
+  .videos .card:hover { border-color:var(--blue); }
 </style>
 </head>
 <body>
@@ -97,18 +97,9 @@
   <section>
     <h2>Video guide</h2>
     <div class="videos">
-      <figure>
-        <div class="frame"><iframe src="https://www.youtube-nocookie.com/embed/L6nK4SBWKP0" title="Developer mode (English)" allowfullscreen loading="lazy"></iframe></div>
-        <figcaption>English · 1 min</figcaption>
-      </figure>
-      <figure>
-        <div class="frame"><iframe src="https://www.youtube-nocookie.com/embed/U4VGa0fGYUI" title="Режим разработчика (русский)" allowfullscreen loading="lazy"></iframe></div>
-        <figcaption>Русский · 1 мин</figcaption>
-      </figure>
-      <figure>
-        <div class="frame"><iframe src="https://www.youtube-nocookie.com/embed/AB0fsIuFSII" title="Dasturchi rejimi (o'zbekcha)" allowfullscreen loading="lazy"></iframe></div>
-        <figcaption>O'zbekcha · 1 daqiqa</figcaption>
-      </figure>
+      <a class="card" href="https://youtu.be/L6nK4SBWKP0"><img src="video/thumbnails/thumbnail-en.jpg" alt="Developer mode — English" width="640" height="360" loading="lazy"><span>English · 1 min</span></a>
+      <a class="card" href="https://youtu.be/U4VGa0fGYUI"><img src="video/thumbnails/thumbnail-ru.jpg" alt="Режим разработчика — русский" width="640" height="360" loading="lazy"><span>Русский · 1 мин</span></a>
+      <a class="card" href="https://youtu.be/AB0fsIuFSII"><img src="video/thumbnails/thumbnail-uz.jpg" alt="Dasturchi rejimi — o'zbekcha" width="640" height="360" loading="lazy"><span>O'zbekcha · 1 daqiqa</span></a>
     </div>
   </section>
 

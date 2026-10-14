@@ -60,7 +60,7 @@ Android-приложение для установки приложений `.wg
 ## Как установить приложение на ТВ
 **Видео-инструкция (нажмите на обложку):**
 
-[![Русский](docs/video/thumbnails/thumbnail-ru.png)](https://youtu.be/U4VGa0fGYUI) [![English](docs/video/thumbnails/thumbnail-en.png)](https://youtu.be/L6nK4SBWKP0) [![O'zbekcha](docs/video/thumbnails/thumbnail-uz.png)](https://youtu.be/AB0fsIuFSII)
+[![Русский](docs/video/thumbnails/thumbnail-ru.jpg)](https://youtu.be/U4VGa0fGYUI) [![English](docs/video/thumbnails/thumbnail-en.jpg)](https://youtu.be/L6nK4SBWKP0) [![O'zbekcha](docs/video/thumbnails/thumbnail-uz.jpg)](https://youtu.be/AB0fsIuFSII)
 
 
 1. **IP телефона** TV Installer показывает сам — вверху экрана «Телевизоры».
