@@ -2,6 +2,16 @@
 
 [Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk)
 
+## 2.2.4 — simpler settings, self-updating app list / проще настройки, список обновляется сам
+- **EN:** the app list now comes from this repository and refreshes every week, so new builds of Jellyfin, Moonlight and
+  others arrive without a TV Installer update (the copy inside the app is the offline fallback). Settings are simpler:
+  server addresses and catalog sources moved to developer settings (tap the version line 7 times). Your own .wgt:
+  Apps → ⋮ → "Install .wgt" or "Download a .wgt from a link"; remove it from the list on its card.
+- **RU:** список приложений берётся из этого репозитория и обновляется раз в неделю — новые сборки Jellyfin, Moonlight и
+  других приходят без обновления TV Installer (копия внутри приложения — запасная, без интернета). Настройки проще:
+  адреса серверов и источники каталога — в настройках для разработчика (7 нажатий на строку версии). Свой .wgt:
+  «Приложения» → ⋮ → «Установить .wgt» или «Скачать .wgt по ссылке»; убрать из списка — в его карточке.
+
 ## 2.2.3 — clearer and more reliable / понятнее и надёжнее
 - **EN:** variants of one app (Jellyfin, Moonlight, TizenBrew builds) are told apart — only the one really on the TV shows
   as installed, the others say "Another variant is on the TV" and explain what each build is for. A lost connection to
