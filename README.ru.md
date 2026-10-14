@@ -58,7 +58,9 @@ Android-приложение для установки приложений `.wg
 - Бесплатный аккаунт Samsung (для сертификата установки).
 
 ## Как установить приложение на ТВ
-📺 **Видео-инструкция:** Русский: https://youtu.be/U4VGa0fGYUI · O'zbekcha: https://youtu.be/AB0fsIuFSII
+**Видео-инструкция (нажмите на обложку):**
+
+[![Русский](docs/video/thumbnails/thumbnail-ru.png)](https://youtu.be/U4VGa0fGYUI) [![English](docs/video/thumbnails/thumbnail-en.png)](https://youtu.be/L6nK4SBWKP0) [![O'zbekcha](docs/video/thumbnails/thumbnail-uz.png)](https://youtu.be/AB0fsIuFSII)
 
 
 1. **IP телефона** TV Installer показывает сам — вверху экрана «Телевизоры».

@@ -39,6 +39,11 @@
   footer { color:var(--muted); text-align:center; padding:32px 0 48px; font-size:14px; }
   footer a, .ru a { color:var(--blue); }
   .ru { border-top:1px solid #1f2735; }
+  .videos { display:grid; gap:18px; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); }
+  .videos figure { margin:0; }
+  .videos .frame { position:relative; padding-top:56.25%; border-radius:10px; overflow:hidden; background:#000; }
+  .videos iframe { position:absolute; inset:0; width:100%; height:100%; border:0; }
+  .videos figcaption { color:#9aa4b2; font-size:14px; margin-top:6px; }
 </style>
 </head>
 <body>
@@ -87,6 +92,24 @@
       <li>Restart the TV (hold the power button ~2 s). After the restart <b>App Settings</b> shows <b>DEVELOP MODE</b>.</li>
       <li>Install <b>TvInstaller.apk</b> on your phone, pick the TV, sign in to Samsung once, choose an app.</li>
     </ol>
+  </section>
+
+  <section>
+    <h2>Video guide</h2>
+    <div class="videos">
+      <figure>
+        <div class="frame"><iframe src="https://www.youtube-nocookie.com/embed/L6nK4SBWKP0" title="Developer mode (English)" allowfullscreen loading="lazy"></iframe></div>
+        <figcaption>English · 1 min</figcaption>
+      </figure>
+      <figure>
+        <div class="frame"><iframe src="https://www.youtube-nocookie.com/embed/U4VGa0fGYUI" title="Режим разработчика (русский)" allowfullscreen loading="lazy"></iframe></div>
+        <figcaption>Русский · 1 мин</figcaption>
+      </figure>
+      <figure>
+        <div class="frame"><iframe src="https://www.youtube-nocookie.com/embed/AB0fsIuFSII" title="Dasturchi rejimi (o'zbekcha)" allowfullscreen loading="lazy"></iframe></div>
+        <figcaption>O'zbekcha · 1 daqiqa</figcaption>
+      </figure>
+    </div>
   </section>
 
   <section class="ru" id="ru">
