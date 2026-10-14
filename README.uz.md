@@ -56,6 +56,8 @@ imzolaydi va o'rnatadi.
 - Bepul Samsung akkaunti (o'rnatish sertifikati uchun).
 
 ## Televizorga ilova qanday o'rnatiladi
+📺 **Video qo'llanma:** Русский: https://youtu.be/U4VGa0fGYUI · O'zbekcha: https://youtu.be/AB0fsIuFSII
+
 
 1. **Televizorda dasturchi rejimini yoqing:** **Apps** bo'limini oching → pastda **App Settings** → pultda
    `1 2 3 4 5` ni tering → **Developer mode**'ni **On** qiling, telefon IP manzilini kiriting (TV Installer uni

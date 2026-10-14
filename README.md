@@ -55,6 +55,8 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 - A free Samsung account (for the installation certificate).
 
 ## How to install an app on the TV
+📺 **Video guide (2 min):** Русский: https://youtu.be/U4VGa0fGYUI · O'zbekcha: https://youtu.be/AB0fsIuFSII
+
 
 1. **Enable Developer Mode on the TV:** open the **Apps** tab → scroll down to **App Settings** → press `1 2 3 4 5`
    on the remote → switch **Developer mode** to **On**, enter your phone's IP address (TV Installer shows it at the
