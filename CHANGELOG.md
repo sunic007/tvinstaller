@@ -2,6 +2,14 @@
 
 [Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk)
 
+## 2.2.5 — always the newest build / всегда свежая сборка
+- **EN:** right before installing, the app checks GitHub for a newer release than the one in the list and installs it
+  (verified by the SHA-256 GitHub publishes). No internet or GitHub doesn't answer in 6 s — the build from the list is
+  installed as before. If the TV doesn't let the app in right after start, it retries by itself for two minutes.
+- **RU:** перед установкой приложение проверяет на GitHub, нет ли сборки новее, чем в списке, и ставит её (с проверкой
+  SHA-256 от GitHub). Нет интернета или GitHub не ответил за 6 с — ставится сборка из списка, как раньше. Если сразу
+  после запуска телевизор не пустил, приложение само пробует подключиться снова в течение двух минут.
+
 ## 2.2.4 — simpler settings, self-updating app list / проще настройки, список обновляется сам
 - **EN:** the app list now comes from this repository and refreshes every week, so new builds of Jellyfin, Moonlight and
   others arrive without a TV Installer update (the copy inside the app is the offline fallback). Settings are simpler:
