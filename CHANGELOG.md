@@ -2,6 +2,28 @@
 
 [Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk)
 
+## 2.2.6 — big update / большое обновление
+- **EN:**
+  - **O'zbekcha** — the app now speaks Uzbek too (Settings → Language).
+  - **"Can't connect?" wizard** and a clear hint when the TV is set up for another device's address
+    (only one phone/PC can install on a Samsung TV at a time).
+  - **Certificate reminder** a month before it expires, one-tap renewal, and **restore from backup**.
+  - **"Update all"** for apps on the TV, a daily notification about updates, **Recommended** starter apps,
+    **Open / Remove** right in the "On TV" list.
+  - **TV remote** in the menu, **turn the TV on** from the phone (Wake-on-LAN), installing on **several TVs**.
+  - **Self-update without the browser**: the app downloads its new version itself, checks it and opens Android's installer.
+  - Security hardening after an audit; many fixes after testing on a real TV.
+- **RU:**
+  - **O'zbekcha** — приложение теперь и на узбекском (Настройки → Язык).
+  - **Мастер «Не подключается?»** и понятная подсказка, когда ТВ настроен на адрес другого устройства
+    (ставить приложения на Samsung может только один телефон или компьютер за раз).
+  - **Напоминание о сертификате** за месяц до окончания, продление в одно нажатие, **восстановление из резервной копии**.
+  - **«Обновить всё»** для приложений на ТВ, уведомление об обновлениях раз в день, подборка **«Рекомендуем»**,
+    **«Открыть / Удалить»** прямо в списке «На ТВ».
+  - **Пульт** в меню, **включение ТВ с телефона** (Wake-on-LAN), установка на **несколько телевизоров**.
+  - **Самообновление без браузера**: приложение само скачивает новую версию, проверяет её и открывает установку Android.
+  - Усиление безопасности по итогам аудита; много исправлений после тестирования на настоящем ТВ.
+
 ## 2.2.5 — always the newest build / всегда свежая сборка
 - **EN:** right before installing, the app checks GitHub for a newer release than the one in the list and installs it
   (verified by the SHA-256 GitHub publishes). No internet or GitHub doesn't answer in 6 s — the build from the list is
