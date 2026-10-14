@@ -2,6 +2,14 @@
 
 [Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk)
 
+## 2.2.2 — reinstall fix / исправление переустановки
+- **EN:** «Reinstall over it» now really removes an app installed from another source (e.g. Tizen Studio) before
+  installing: the TV's uninstaller needs the full application id. Previously the old app stayed and the install failed
+  with «Author certificate not match».
+- **RU:** «Установить поверх» теперь действительно удаляет приложение, поставленное из другого источника (например, из
+  Tizen Studio): удалению на ТВ нужен полный id приложения. Раньше старая версия оставалась, и установка падала с
+  «Author certificate not match».
+
 ## 2.2.1 — security update / обновление безопасности
 - **EN:** BouncyCastle 1.86 (fixes CVE-2026-17508), JSch 2.28.8, kotlinx-coroutines 1.11, build toolchain update (Gradle 9.8.1, AGP 9.4.1, Kotlin 2.4.21).
   Samsung browser sign-in accepts the token only from Samsung's page (Origin check, HTTPS only). HTTPS downloads can't be
