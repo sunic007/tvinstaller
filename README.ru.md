@@ -61,9 +61,21 @@ Android-приложение для установки приложений `.wg
 - Бесплатный аккаунт Samsung (для сертификата установки).
 
 ## Как установить приложение на ТВ
-**Видео-инструкция (нажмите на обложку):**
+<table>
+<tr>
+<td valign="middle">
 
-<p align="center"><a href="https://youtu.be/U4VGa0fGYUI"><img src="docs/video/thumbnails/thumbnail-ru.jpg" width="220" alt="Русский"></a></p>
+<b>Видео-инструкция</b><br>
+нажмите на обложку, чтобы посмотреть
+
+</td>
+<td align="right" valign="middle">
+
+<a href="https://youtu.be/U4VGa0fGYUI"><img src="docs/video/thumbnails/thumbnail-ru.jpg" width="220" alt="Русский"></a>
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary>Другие языки</summary>

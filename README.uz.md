@@ -60,9 +60,21 @@ imzolaydi va o'rnatadi.
 - Bepul Samsung akkaunti (o'rnatish sertifikati uchun).
 
 ## Televizorga ilova qanday o'rnatiladi
-**Video qo'llanma (muqovani bosing):**
+<table>
+<tr>
+<td valign="middle">
 
-<p align="center"><a href="https://youtu.be/AB0fsIuFSII"><img src="docs/video/thumbnails/thumbnail-uz.jpg" width="220" alt="O'zbekcha"></a></p>
+<b>Video qo'llanma</b><br>
+muqovani bosing va tomosha qiling
+
+</td>
+<td align="right" valign="middle">
+
+<a href="https://youtu.be/AB0fsIuFSII"><img src="docs/video/thumbnails/thumbnail-uz.jpg" width="220" alt="O'zbekcha"></a>
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary>Boshqa tillar</summary>

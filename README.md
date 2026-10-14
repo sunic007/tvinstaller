@@ -58,9 +58,21 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 - A free Samsung account (for the installation certificate).
 
 ## How to install an app on the TV
-**Video guide (click a cover):**
+<table>
+<tr>
+<td valign="middle">
 
-<p align="center"><a href="https://youtu.be/L6nK4SBWKP0"><img src="docs/video/thumbnails/thumbnail-en.jpg" width="220" alt="English"></a></p>
+<b>Video guide</b><br>
+click the cover to watch
+
+</td>
+<td align="right" valign="middle">
+
+<a href="https://youtu.be/L6nK4SBWKP0"><img src="docs/video/thumbnails/thumbnail-en.jpg" width="220" alt="English"></a>
+
+</td>
+</tr>
+</table>
 
 <details>
 <summary>Other languages</summary>
