@@ -9,6 +9,7 @@ Android-приложение для установки приложений `.wg
 
 **⬇️ [Скачать TvInstaller.apk](https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk)** — последняя версия
 · все версии — [Releases](https://github.com/sunic007/tvinstaller/releases)
+· что нового — [CHANGELOG.md](CHANGELOG.md)
 · [политика конфиденциальности](https://sunic007.github.io/tvinstaller/privacy.html)
 · ❤️ [поддержать проект](https://github.com/sponsors/sunic007)
 

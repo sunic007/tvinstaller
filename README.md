@@ -9,6 +9,7 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 
 **⬇️ [Download TvInstaller.apk](https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk)** — latest version
 · all versions — [Releases](https://github.com/sunic007/tvinstaller/releases)
+· what's new — [CHANGELOG.md](CHANGELOG.md)
 · [privacy policy](https://sunic007.github.io/tvinstaller/privacy.html)
 · ❤️ [sponsor the project](https://github.com/sponsors/sunic007)
 
