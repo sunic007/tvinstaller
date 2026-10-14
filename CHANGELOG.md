@@ -2,6 +2,20 @@
 
 [Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk)
 
+## 2.2.3 — clearer and more reliable / понятнее и надёжнее
+- **EN:** variants of one app (Jellyfin, Moonlight, TizenBrew builds) are told apart — only the one really on the TV shows
+  as installed, the others say "Another variant is on the TV" and explain what each build is for. A lost connection to
+  the TV is noticed right away and restored automatically. A TV you have used before is no longer sent back to
+  "prepare this TV" when it is just slow to answer. Uninstall asks for confirmation. After installing: "Open on TV".
+  Installed queue items leave the queue. Lampa updates via "Update to …". Temporary packages are removed from the TV.
+  Descriptions follow the app language; TVs are named by model instead of codes or IPs.
+- **RU:** варианты одного приложения (сборки Jellyfin, Moonlight, TizenBrew) больше не путаются: «Установлено» только у
+  того, что реально стоит, у остальных — «На ТВ стоит другой вариант» и пояснение, чем сборки отличаются. Потеря связи
+  с ТВ видна сразу и восстанавливается сама. Уже подготовленный ТВ, который просто медленно ответил, больше не
+  отправляет «подготовить телевизор». Удаление — с подтверждением. После установки — «Открыть на ТВ». Установленное
+  уходит из очереди. Lampa обновляется кнопкой «Обновить до …». Временные пакеты удаляются с ТВ. Описания — на языке
+  интерфейса; телевизоры названы моделью, а не кодом или IP.
+
 ## 2.2.2 — reinstall fix / исправление переустановки
 - **EN:** «Reinstall over it» now really removes an app installed from another source (e.g. Tizen Studio) before
   installing: the TV's uninstaller needs the full application id. Previously the old app stayed and the install failed
