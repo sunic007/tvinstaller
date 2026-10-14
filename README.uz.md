@@ -58,7 +58,7 @@ imzolaydi va o'rnatadi.
 ## Televizorga ilova qanday o'rnatiladi
 **Video qo'llanma (muqovani bosing):**
 
-[![O'zbekcha](docs/video/thumbnails/thumbnail-uz.jpg)](https://youtu.be/AB0fsIuFSII) [![Русский](docs/video/thumbnails/thumbnail-ru.jpg)](https://youtu.be/U4VGa0fGYUI) [![English](docs/video/thumbnails/thumbnail-en.jpg)](https://youtu.be/L6nK4SBWKP0)
+<p align="center"><a href="https://youtu.be/AB0fsIuFSII"><img src="docs/video/thumbnails/thumbnail-uz.jpg" width="220" alt="O'zbekcha"></a> <a href="https://youtu.be/U4VGa0fGYUI"><img src="docs/video/thumbnails/thumbnail-ru.jpg" width="220" alt="Русский"></a> <a href="https://youtu.be/L6nK4SBWKP0"><img src="docs/video/thumbnails/thumbnail-en.jpg" width="220" alt="English"></a></p>
 
 
 1. **Televizorda dasturchi rejimini yoqing:** **Apps** bo'limini oching → pastda **App Settings** → pultda
