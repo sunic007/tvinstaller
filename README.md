@@ -60,15 +60,24 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 ## How to install an app on the TV
 <table>
 <tr>
-<td valign="middle">
+<td valign="top" width="260">
 
-<b>Video guide</b><br>
-click the cover to watch
+<p align="center"><a href="https://youtu.be/L6nK4SBWKP0"><img src="docs/video/thumbnails/thumbnail-en.jpg" width="220" alt="English"></a></p>
 
 </td>
-<td align="right" valign="middle">
+<td valign="top">
 
-<a href="https://youtu.be/L6nK4SBWKP0"><img src="docs/video/thumbnails/thumbnail-en.jpg" width="220" alt="English"></a>
+1. **Enable Developer Mode on the TV:** open the **Apps** tab → scroll down to **App Settings** → press `1 2 3 4 5`
+   on the remote → switch **Developer mode** to **On**, enter your phone's IP address (TV Installer shows it at the
+   top of the TV screen) and press **OK**.
+2. **Restart the TV:** hold the power button for about 2 seconds, then turn it on again. If your remote is not an
+   original Samsung one, unplug the TV for 10 seconds instead. After the restart, **App Settings** shows
+   **DEVELOP MODE** at the top.
+3. **Install TV Installer** on your phone: download the APK and open it (Android will ask you to allow installs from
+   this source).
+4. In TV Installer pick your **TV**, sign in to **Samsung** once to get the certificate, then choose an app from the
+   catalog or your own `.wgt` file.
+5. Updates install over the previous version; the app's settings on the TV are kept.
 
 </td>
 </tr>
@@ -83,17 +92,7 @@ click the cover to watch
 
 
 
-1. **Enable Developer Mode on the TV:** open the **Apps** tab → scroll down to **App Settings** → press `1 2 3 4 5`
-   on the remote → switch **Developer mode** to **On**, enter your phone's IP address (TV Installer shows it at the
-   top of the TV screen) and press **OK**.
-2. **Restart the TV:** hold the power button for about 2 seconds, then turn it on again. If your remote is not an
-   original Samsung one, unplug the TV for 10 seconds instead. After the restart, **App Settings** shows
-   **DEVELOP MODE** at the top.
-3. **Install TV Installer** on your phone: download the APK and open it (Android will ask you to allow installs from
-   this source).
-4. In TV Installer pick your **TV**, sign in to **Samsung** once to get the certificate, then choose an app from the
-   catalog or your own `.wgt` file.
-5. Updates install over the previous version; the app's settings on the TV are kept.
+
 
 ## FAQ
 
