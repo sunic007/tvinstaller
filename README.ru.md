@@ -84,13 +84,6 @@ Android-приложение для установки приложений `.wg
 </tr>
 </table>
 
-<details>
-<summary>Другие языки</summary>
-
-<p align="center"><a href="https://youtu.be/L6nK4SBWKP0"><img src="docs/video/thumbnails/thumbnail-en.jpg" width="220" alt="English"></a> <a href="https://youtu.be/AB0fsIuFSII"><img src="docs/video/thumbnails/thumbnail-uz.jpg" width="220" alt="O'zbekcha"></a></p>
-
-</details>
-
 
 
 

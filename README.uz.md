@@ -84,13 +84,6 @@ imzolaydi va o'rnatadi.
 </tr>
 </table>
 
-<details>
-<summary>Boshqa tillar</summary>
-
-<p align="center"><a href="https://youtu.be/U4VGa0fGYUI"><img src="docs/video/thumbnails/thumbnail-ru.jpg" width="220" alt="Русский"></a> <a href="https://youtu.be/L6nK4SBWKP0"><img src="docs/video/thumbnails/thumbnail-en.jpg" width="220" alt="English"></a></p>
-
-</details>
-
 
 
 

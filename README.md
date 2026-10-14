@@ -83,13 +83,6 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 </tr>
 </table>
 
-<details>
-<summary>Other languages</summary>
-
-<p align="center"><a href="https://youtu.be/U4VGa0fGYUI"><img src="docs/video/thumbnails/thumbnail-ru.jpg" width="220" alt="Русский"></a> <a href="https://youtu.be/AB0fsIuFSII"><img src="docs/video/thumbnails/thumbnail-uz.jpg" width="220" alt="O'zbekcha"></a></p>
-
-</details>
-
 
 
 
