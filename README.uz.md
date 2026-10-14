@@ -1,8 +1,8 @@
+[English](README.md) · [Русский](README.ru.md) · **O'zbekcha**
+
 # TV Installer — Samsung Smart TV'ga telefondan ilova o'rnatish
 
 [![Release](https://img.shields.io/github/v/release/sunic007/tvinstaller?label=release&color=3d8bff)](https://github.com/sunic007/tvinstaller/releases/latest) [![Downloads](https://img.shields.io/github/downloads/sunic007/tvinstaller/total?color=2ea043)](https://github.com/sunic007/tvinstaller/releases) ![Android](https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white) ![Tizen TV](https://img.shields.io/badge/Tizen-TV-1428a0)
-
-[English](README.md) · [Русский](README.ru.md) · **O'zbekcha**
 
 **Samsung (Tizen)** televizorlariga `.wgt` ilovalarni to'g'ridan-to'g'ri telefondan o'rnatadigan Android ilova —
 kompyuter va Tizen Studio kerak emas. Televizorni Wi‑Fi tarmog'ida o'zi topadi, Samsung sertifikatini oladi, paketni
