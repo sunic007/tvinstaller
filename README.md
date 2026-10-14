@@ -20,6 +20,9 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
   <img src="docs/screenshots/en/02.png" width="30%">
   <img src="docs/screenshots/en/03.png" width="30%">
 </p>
+<details>
+<summary>More screenshots / Ещё скриншоты / Ko'proq skrinshotlar</summary>
+
 <p align="center">
   <img src="docs/screenshots/en/04.png" width="30%">
   <img src="docs/screenshots/en/05.png" width="30%">
@@ -30,6 +33,7 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
   <img src="docs/screenshots/en/08.png" width="30%">
   <img src="docs/screenshots/en/09.png" width="30%">
 </p>
+</details>
 
 ## Features
 

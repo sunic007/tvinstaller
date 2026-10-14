@@ -21,6 +21,9 @@ Android-приложение для установки приложений `.wg
   <img src="docs/screenshots/02.png" width="30%">
   <img src="docs/screenshots/03.png" width="30%">
 </p>
+<details>
+<summary>Ещё скриншоты / More screenshots / Ko'proq skrinshotlar</summary>
+
 <p align="center">
   <img src="docs/screenshots/04.png" width="30%">
   <img src="docs/screenshots/05.png" width="30%">
@@ -31,6 +34,7 @@ Android-приложение для установки приложений `.wg
   <img src="docs/screenshots/08.png" width="30%">
   <img src="docs/screenshots/09.png" width="30%">
 </p>
+</details>
 
 ## Возможности
 

@@ -22,6 +22,9 @@ imzolaydi va o'rnatadi.
   <img src="docs/screenshots/uz/02.png" width="30%">
   <img src="docs/screenshots/uz/03.png" width="30%">
 </p>
+<details>
+<summary>Ko'proq skrinshotlar / Ещё скриншоты / More screenshots</summary>
+
 <p align="center">
   <img src="docs/screenshots/uz/04.png" width="30%">
   <img src="docs/screenshots/uz/05.png" width="30%">
@@ -32,6 +35,7 @@ imzolaydi va o'rnatadi.
   <img src="docs/screenshots/uz/08.png" width="30%">
   <img src="docs/screenshots/uz/09.png" width="30%">
 </p>
+</details>
 
 ## Imkoniyatlar
 
