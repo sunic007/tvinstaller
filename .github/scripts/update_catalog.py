@@ -58,7 +58,7 @@ def latest_release(repo, cache):
     return cache[repo]
 
 
-def refresh(entry, cache):
+def refresh(entry, cache, taken=()):
     m = ASSET_URL.match(entry.get("package_url") or "")
     if not m:
         return "not on GitHub"
@@ -69,7 +69,11 @@ def refresh(entry, cache):
     tag = rel.get("tag_name") or ""
     if tag == old_tag:
         return "up to date"
-    candidates = [a for a in rel.get("assets", []) if shape(a["name"]) == shape(old_name)]
+    assets = rel.get("assets", [])
+    # Same name first; otherwise numbers may change - but never take a file another entry uses
+    # (upstream dropped "Jellyfin-10.10.z.wgt", and "10.11.z" has the same shape).
+    candidates = [a for a in assets if a["name"] == old_name] or \
+        [a for a in assets if shape(a["name"]) == shape(old_name) and (repo, a["name"]) not in taken]
     if len(candidates) != 1:
         return f"{tag}: no single matching file ({len(candidates)})"
     asset = candidates[0]
@@ -92,8 +96,10 @@ def main():
         data = json.load(f)
     cache, changed = {}, 0
     for entry in data["services"]:
+        others = [ASSET_URL.match(e.get("package_url") or "") for e in data["services"] if e is not entry]
+        taken = {(m.group(1), m.group(3)) for m in others if m}
         try:
-            result = refresh(entry, cache)
+            result = refresh(entry, cache, taken)
         except Exception as e:  # one broken repository must not stop the rest
             result = f"error: {e}"
         if result.startswith("updated"):
