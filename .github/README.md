@@ -5,11 +5,11 @@
 <p align="center">
 <a href="https://github.com/sunic007/tvinstaller/releases/latest"><img src="https://img.shields.io/github/v/release/sunic007/tvinstaller?style=flat-square&label=release&color=2f81f7" alt="release"></a>
 <a href="https://github.com/sunic007/tvinstaller/releases"><img src="https://img.shields.io/github/downloads/sunic007/tvinstaller/total?style=flat-square&color=2ea043" alt="downloads"></a>
-<img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+">
-<img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV">
+<a href="#"><img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+"></a>
+<a href="#"><img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV"></a>
 </p>
 
-<p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-en.svg" height="40" align="middle" alt="Download APK"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://flagcdn.com/h60/gb.png" height="30" align="middle" alt=""> <b>English</b>&nbsp;&nbsp;&nbsp;<a href="README.ru.md"><img src="https://flagcdn.com/h60/ru.png" height="30" align="middle" alt=""> Русский</a>&nbsp;&nbsp;&nbsp;<a href="README.uz.md"><img src="https://flagcdn.com/h60/uz.png" height="30" align="middle" alt=""> O'zbekcha</a></p>
+<p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-en.svg" height="40" align="middle" alt="Download APK"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://flagcdn.com/h60/gb.png" height="30" align="middle" alt=""></a> <b>English</b>&nbsp;&nbsp;&nbsp;<a href="README.ru.md"><img src="https://flagcdn.com/h60/ru.png" height="30" align="middle" alt=""> Русский</a>&nbsp;&nbsp;&nbsp;<a href="README.uz.md"><img src="https://flagcdn.com/h60/uz.png" height="30" align="middle" alt=""> O'zbekcha</a></p>
 
 <p align="center"><sub>Free · Android 7.0+ · <a href="CHANGELOG.md">What's new</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Privacy</a></sub></p>
 
