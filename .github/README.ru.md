@@ -1,115 +1,111 @@
 <div align="center">
 
-<img src="../docs/icon.png" width="96" alt="TV Installer">
+<img src="../docs/icon.png" width="104" alt="TV Installer">
 
 # TV Installer
 
-Установка приложений на <b>Samsung Smart TV</b> прямо с телефона — без компьютера и Tizen Studio
+Установка приложений на <b>Samsung Smart TV</b> прямо с Android-телефона.<br>Без компьютера, Tizen Studio и проводов.
 
-[![Release](https://img.shields.io/github/v/release/sunic007/tvinstaller?label=release&color=3d8bff)](https://github.com/sunic007/tvinstaller/releases/latest) [![Downloads](https://img.shields.io/github/downloads/sunic007/tvinstaller/total?color=2ea043)](https://github.com/sunic007/tvinstaller/releases) ![Android](https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white) ![Tizen TV](https://img.shields.io/badge/Tizen-TV-1428a0)
+<a href="https://github.com/sunic007/tvinstaller/releases/latest"><img src="https://img.shields.io/github/v/release/sunic007/tvinstaller?style=flat-square&label=release&color=2f81f7" alt="release"></a>
+<a href="https://github.com/sunic007/tvinstaller/releases"><img src="https://img.shields.io/github/downloads/sunic007/tvinstaller/total?style=flat-square&color=2ea043" alt="downloads"></a>
+<img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+">
+<img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square&logo=samsung&logoColor=white" alt="Samsung Tizen TV">
 
-<a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="https://img.shields.io/badge/Скачать-SunicTvInstaller.apk-3d8bff?style=for-the-badge&logo=android&logoColor=white" alt="Скачать SunicTvInstaller.apk"></a>
+<br><br>
 
-[Что нового](CHANGELOG.md) · [Все версии](https://github.com/sunic007/tvinstaller/releases) · [Конфиденциальность](https://sunic007.github.io/tvinstaller/privacy.html) · ❤️ [Поддержать](https://github.com/sponsors/sunic007)
+<a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-ru.svg" height="56" alt="СКАЧАТЬ ДЛЯ ANDROID"></a>
 
-[English](README.md) · **Русский** · [O'zbekcha](README.uz.md)
+<sub>Бесплатно · Android 7.0+ · English, Русский, O'zbekcha · <a href="CHANGELOG.md">Что нового</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Конфиденциальность</a></sub>
+
+<sub><a href="README.md">English</a> · <b>Русский</b> · <a href="README.uz.md">O'zbekcha</a></sub>
 
 </div>
 
+<br>
+
 ## Как это работает
 
-<table>
-<tr>
-<td width="300" align="center" valign="top"><img src="../docs/demo/demo-ru.gif" width="280" alt="Вход, видеоинструкция, подключение телевизора и установка приложения"></td>
-<td valign="top">
+<img src="../docs/demo/demo-ru.gif" width="250" align="right" alt="Вход, видеоинструкция, подключение телевизора и установка приложения">
 
-📲 <b>1. Установите приложение</b><br>Скачайте <b>SunicTvInstaller.apk</b> и откройте его на Android-телефоне.
+1. <b>Установите TV Installer</b> — скачайте APK по кнопке выше и откройте его на телефоне.
+2. <b>Войдите в аккаунт Samsung</b> — один раз. Сертификат для телевизора Samsung выдаст сам.
+3. <b>Подготовьте телевизор</b> — включите режим разработчика с адресом телефона. <a href="https://youtu.be/U4VGa0fGYUI">Видео на 1 минуту</a>.
+4. <b>Подключитесь</b> — приложение само найдёт телевизор в вашей сети Wi‑Fi.
+5. <b>Установите</b> — выберите приложение из каталога (40+) и нажмите <b>Установить</b>.
 
-🔑 <b>2. Войдите в аккаунт Samsung</b><br>Один раз. Сертификат для телевизора Samsung выдаст сам.
+> [!TIP]
+> **Режим разработчика на ТВ**<br>
+> <b>Apps</b> → <b>App Settings</b> → на пульте <code>1 2 3 4 5</code> → <b>Developer mode: On</b> → IP телефона (он есть в приложении) → <b>OK</b> → перезагрузите телевизор.
 
-📺 <b>3. Подготовьте телевизор</b><br>Включите режим разработчика с адресом телефона — в приложении есть видео на 1 минуту.
+<br clear="right">
 
-🔍 <b>4. Подключитесь</b><br>Приложение само найдёт телевизор в вашей сети Wi‑Fi.
-
-✅ <b>5. Установите</b><br>Выберите приложение из каталога (40+) и нажмите <b>Установить</b>.
-
-Интерфейс на <b>русском, английском и узбекском</b> — по языку телефона.
-
-<table>
-<tr>
-<td width="170"><a href="https://youtu.be/U4VGa0fGYUI"><img src="../docs/video/thumbnails/play-ru.jpg" width="160" alt="video"></a></td>
-<td>▶ <b>Режим разработчика</b> — видео 1 мин<br>
-<sub>Apps → App Settings<br>→ <code>1 2 3 4 5</code> → Developer mode <b>On</b><br>→ IP телефона → <b>OK</b><br>→ перезагрузите ТВ</sub></td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+## Скриншоты
 
 <p align="center">
-  <img src="../docs/screenshots/01.png" width="30%">
-  <img src="../docs/screenshots/02.png" width="30%">
-  <img src="../docs/screenshots/03.png" width="30%">
+  <img src="../docs/screenshots/01.png" width="32%" alt="">
+  <img src="../docs/screenshots/02.png" width="32%" alt="">
+  <img src="../docs/screenshots/03.png" width="32%" alt="">
 </p>
+
 <details>
-<summary>Ещё скриншоты</summary>
-
+<summary><b>Ещё скриншоты</b></summary>
+<br>
 <p align="center">
-  <img src="../docs/screenshots/04.png" width="30%">
-  <img src="../docs/screenshots/05.png" width="30%">
-  <img src="../docs/screenshots/06.png" width="30%">
-</p>
-<p align="center">
-  <img src="../docs/screenshots/07.png" width="30%">
-  <img src="../docs/screenshots/08.png" width="30%">
-  <img src="../docs/screenshots/09.png" width="30%">
+  <img src="../docs/screenshots/04.png" width="32%" alt="">
+  <img src="../docs/screenshots/05.png" width="32%" alt="">
+  <img src="../docs/screenshots/06.png" width="32%" alt="">
+  <img src="../docs/screenshots/07.png" width="32%" alt="">
+  <img src="../docs/screenshots/08.png" width="32%" alt="">
+  <img src="../docs/screenshots/09.png" width="32%" alt="">
 </p>
 </details>
 
 ## Возможности
 
-- **Сам находит телевизор** в той же сети Wi-Fi; можно работать с несколькими ТВ.
-- **Мастер «Не подключается?»** по шагам проверяет Wi-Fi, телевизор, режим разработчика и адрес, указанный на ТВ, и
-  прямо говорит, если ТВ настроен на другое устройство (ставить приложения на Samsung может только один телефон или
-  компьютер за раз).
-- **Видео-инструкция** по включению режима разработчика на ТВ — на русском, English и O'zbekcha.
-- **Сертификат Samsung один раз** — вход в аккаунт Samsung, без компьютера и Tizen Studio. За месяц до окончания
-  придёт напоминание, продление — в одно нажатие; есть резервная копия и **восстановление из неё**.
-- **Каталог из 40+ приложений** — медиатеки, плееры, стриминг, IPTV — и подборка **«Рекомендуем»**; можно поставить
-  и свой `.wgt` из файла или по ссылке. Для вариантов одного приложения
-  (сборки Jellyfin, Moonlight) объяснено, чем они отличаются.
-- **Установка в одно касание**, каждый шаг виден, потом — **«Открыть на ТВ»**. В списке **«На ТВ»** — **«Открыть /
-  Удалить»** и **«Обновить всё»**; раз в день приходит уведомление, если вышли обновления.
-- **Пульт** в телефоне и **включение телевизора с телефона** (Wake-on-LAN).
-- **[Lampa для Samsung](https://github.com/sunic007/lampa-samsung)** ставится из последнего релиза на GitHub и дальше
-  обновляется на телевизоре сама.
-- **Самообновление без браузера**: приложение само скачивает новую версию, проверяет её и открывает установку Android.
+- <b>Сам находит телевизор</b> — в той же сети Wi‑Fi; можно работать с несколькими ТВ.
+- <b>Мастер «Не подключается?»</b> — по шагам проверяет Wi‑Fi, телевизор, режим разработчика и адрес на ТВ и прямо говорит, если телевизор настроен на другое устройство.
+- <b>Сертификат Samsung один раз</b> — через аккаунт Samsung. Напоминание за месяц до окончания, продление в одно нажатие, резервная копия и восстановление.
+- <b>Каталог из 40+ приложений</b> — медиатеки, плееры, стриминг, IPTV и подборка «Рекомендуем» — или свой файл <code>.wgt</code> и ссылка.
+- <b>Установка в одно касание</b> — с каждым шагом на экране. В списке «На ТВ» — «Открыть», «Удалить» и «Обновить всё», раз в день — уведомление об обновлениях.
+- <b>Пульт</b> — в телефоне и включение телевизора по сети (Wake‑on‑LAN).
+- <b><a href="https://github.com/sunic007/lampa-samsung">Lampa для Samsung</a></b> — устанавливается из последнего релиза на GitHub и дальше обновляется на телевизоре сама.
+- <b>Обновляется само</b> — без браузера: скачивает новую версию, проверяет её и открывает установку Android.
 
 ## Что нужно
 
-- Телефон на Android 7.0+ и телевизор Samsung с Tizen — в одной Wi-Fi сети (не гостевой).
-- Бесплатный аккаунт Samsung (для сертификата установки).
+- Телефон на Android 7.0+ и телевизор Samsung с Tizen в одной сети Wi‑Fi (не гостевой).
+- Бесплатный аккаунт Samsung — для сертификата установки.
 
 ## Частые вопросы
 
-**ТВ не находится или не подключается.** Откройте меню ⋮ → «Не подключается?» — мастер проверит всё по
-шагам. Проверьте также, что телефон и ТВ в одной сети, а в режиме разработчика на ТВ указан IP именно
-телефона. После смены IP — снова перезагрузите ТВ.
+<details>
+<summary><b>Телевизор не находится или не подключается</b></summary>
+<br>
 
-**Ошибка подписи или установки.** Удалите старую версию приложения на ТВ и установите заново.
+Откройте меню ⋮ → <b>Не подключается?</b> — мастер проверит всё по шагам. Убедитесь, что телефон и телевизор в одной сети, а в режиме разработчика на ТВ указан IP <i>именно этого</i> телефона. Если IP телефона сменился, введите его заново и перезагрузите телевизор.
 
-**Безопасно ли.** С телевизором приложение общается только внутри домашней сети; к Samsung обращается только за
-сертификатом, к GitHub — за приложениями. Подробнее — в
-[политике конфиденциальности](https://sunic007.github.io/tvinstaller/privacy.html).
+</details>
 
-## Отказ от ответственности
+<details>
+<summary><b>Ошибка подписи или установки</b></summary>
+<br>
 
-TV Installer — независимый проект, не связан с Samsung и не одобрен ею. Samsung и Tizen — товарные знаки Samsung
-Electronics. Приложение использует тот же способ получения сертификата, что и Tizen Studio от Samsung: вы входите в
-свой аккаунт Samsung, и сертификат для вашего ТВ выдаёт Samsung. За устанавливаемые приложения отвечает пользователь;
-само приложение не хранит и не предоставляет медиаконтент.
+Удалите старую версию приложения с телевизора и установите его заново.
+
+</details>
+
+<details>
+<summary><b>Это безопасно?</b></summary>
+<br>
+
+С телевизором приложение общается только внутри домашней сети. К Samsung оно обращается только за сертификатом, к GitHub — только за приложениями. Подробнее — в <a href="https://sunic007.github.io/tvinstaller/privacy.html">политике конфиденциальности</a>.
+
+</details>
 
 ## Поддержать проект
-TV Installer бесплатный. Поддержать развитие можно на **[GitHub Sponsors](https://github.com/sponsors/sunic007)**
-(в приложении: «Настройки → Поддержать проект»).
+
+TV Installer бесплатный. Если он вам помог, поддержать развитие можно на <a href="https://github.com/sponsors/sunic007"><b>GitHub Sponsors</b></a>.
+
+---
+
+<sub>TV Installer — независимый проект, не связан с Samsung и не одобрен ею. Samsung и Tizen — товарные знаки Samsung Electronics. Приложение получает сертификат тем же способом, что и Tizen Studio от Samsung: вы входите в свой аккаунт Samsung, и сертификат для вашего телевизора выдаёт Samsung. За устанавливаемые приложения отвечает пользователь; само приложение не хранит и не предоставляет медиаконтент.</sub>
