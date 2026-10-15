@@ -2,6 +2,10 @@
 
 [Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)
 
+## 2.3.1 — cleaner TV list / список телевизоров без лишнего
+- **EN:** setup steps (1–4) and the phone's address are shown only while a TV is being set up; with ready TVs the screen goes straight to the list.
+- **RU:** шаги настройки (1–4) и адрес телефона видны только при настройке телевизора; когда ТВ готовы, экран сразу показывает список.
+
 ## 2.3.0 — new app ID / новое имя приложения
 - **EN:** the app is now `com.sunicapps.tvinstaller` (registered with Android developer verification). Existing installs move over by themselves: TV Installer updates to 2.2.9, installs the new app and hands over Samsung certificates, TVs, saved packages and settings; then you can remove the old one. Each TV asks once more to allow the connection.
 - **RU:** приложение теперь `com.sunicapps.tvinstaller` (зарегистрировано в проверке разработчиков Android). Установленные переезжают сами: TV Installer обновится до 2.2.9, поставит новое приложение и передаст ему сертификаты Samsung, телевизоры, сохранённые пакеты и настройки; старое затем можно удалить. Каждый ТВ один раз заново спросит разрешение на подключение.
