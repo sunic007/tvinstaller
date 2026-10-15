@@ -2,6 +2,10 @@
 
 [Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)
 
+## 2.3.4 — clearer wording / понятные тексты
+- **EN:** all texts in English, Russian and Uzbek reviewed: same terms everywhere, no jargon. The TV list header now says what to do with the address: "Enter on your TV: <IP>". Fixed: the sign-in screen could be skipped when a broken saved sign-in was left from before.
+- **RU:** все тексты на русском, английском и узбекском проверены: единые термины, без жаргона. В шапке списка телевизоров теперь понятно, что делать с адресом: «Введите на ТВ: <IP>». Исправлено: экран входа мог не появиться, если от прошлых версий остался повреждённый сохранённый вход.
+
 ## 2.3.3 — sign-in screen and new splash / экран входа и новая заставка
 - **EN:**
   - **Sign-in screen at launch:** sign in to your Samsung account in one tap, or choose "I'll sign in later".
