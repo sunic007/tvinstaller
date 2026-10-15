@@ -7,6 +7,7 @@
 <a href="https://github.com/sunic007/tvinstaller/releases"><img src="https://img.shields.io/github/downloads/sunic007/tvinstaller/total?style=flat-square&color=2ea043" alt="downloads"></a>
 <picture><img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+"></picture>
 <picture><img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV"></picture>
+<a href="https://t.me/sunicapps"><img src="https://img.shields.io/badge/Telegram-help-26a5e4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 <p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-uz.svg" height="40" align="middle" alt="APK'ni yuklab olish"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README.md"><img src="https://flagcdn.com/h60/gb.png" height="30" align="middle" alt=""> English</a>&nbsp;&nbsp;&nbsp;<a href="README.ru.md"><img src="https://flagcdn.com/h60/ru.png" height="30" align="middle" alt=""> Русский</a>&nbsp;&nbsp;&nbsp;<picture><img src="https://flagcdn.com/h60/uz.png" height="30" align="middle" alt=""></picture> <b>O'zbekcha</b></p>
@@ -108,7 +109,7 @@ Ilova televizor bilan faqat uy tarmog'ingiz ichida ishlaydi. Samsung'ga faqat se
 
 <div align="justify">
 
-TV Installer, uning skrinshotlari yoki matnlarini o'z loyihangiz, yig'mangiz, maqola yoki videongizda ishlatmoqchimisiz? Marhamat — faqat <b>ushbu repozitoriyga havolani qoldiring</b> va <b>menga xabar bering</b>: <a href="https://github.com/sunic007/tvinstaller/discussions">Muhokamalar</a>da yozing yoki <a href="https://github.com/sunic007/tvinstaller/issues/new/choose">issue</a> oching. Ilova, nom va dizaynga barcha huquqlar himoyalangan.
+TV Installer, uning skrinshotlari yoki matnlarini o'z loyihangiz, yig'mangiz, maqola yoki videongizda ishlatmoqchimisiz? Marhamat — faqat <b>ushbu repozitoriyga havolani qoldiring</b> va <b>menga xabar bering</b>: <a href="https://t.me/sunicapps">Telegram guruhiga</a> yozing yoki <a href="https://github.com/sunic007/tvinstaller/issues/new/choose">issue</a> oching. Ilova, nom va dizaynga barcha huquqlar himoyalangan.
 
 </div>
 

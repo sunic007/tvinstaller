@@ -2,6 +2,10 @@
 
 [Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)
 
+## 2.3.5 — понятный каталог и помощь в Telegram / clear catalog and Telegram help
+- **EN:** every Samsung app in the catalog now explains what it is and what you need for it ("Details"). New in Settings: "Questions and help" (Telegram group), "News" (channel) and "Report a problem" — sends the log to the developer.
+- **RU:** у каждого приложения в каталоге понятное описание: что это и что для него нужно («Подробнее»). В настройках — «Вопросы и помощь» (группа в Telegram), «Новости» (канал) и «Сообщить о проблеме» — журнал разработчику.
+
 ## 2.3.4 — clearer wording / понятные тексты
 - **EN:** all texts in English, Russian and Uzbek reviewed: same terms everywhere, no jargon. The TV list header now says what to do with the address: "Enter on your TV: <IP>". Fixed: the sign-in screen could be skipped when a broken saved sign-in was left from before.
 - **RU:** все тексты на русском, английском и узбекском проверены: единые термины, без жаргона. В шапке списка телевизоров теперь понятно, что делать с адресом: «Введите на ТВ: <IP>». Исправлено: экран входа мог не появиться, если от прошлых версий остался повреждённый сохранённый вход.

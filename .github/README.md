@@ -7,6 +7,7 @@
 <a href="https://github.com/sunic007/tvinstaller/releases"><img src="https://img.shields.io/github/downloads/sunic007/tvinstaller/total?style=flat-square&color=2ea043" alt="downloads"></a>
 <picture><img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+"></picture>
 <picture><img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV"></picture>
+<a href="https://t.me/sunicapps"><img src="https://img.shields.io/badge/Telegram-help-26a5e4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
 </p>
 
 <p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-en.svg" height="40" align="middle" alt="Download APK"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<picture><img src="https://flagcdn.com/h60/gb.png" height="30" align="middle" alt=""></picture> <b>English</b>&nbsp;&nbsp;&nbsp;<a href="README.ru.md"><img src="https://flagcdn.com/h60/ru.png" height="30" align="middle" alt=""> Русский</a>&nbsp;&nbsp;&nbsp;<a href="README.uz.md"><img src="https://flagcdn.com/h60/uz.png" height="30" align="middle" alt=""> O'zbekcha</a></p>
@@ -108,7 +109,7 @@ The app talks to the TV only inside your home network. It contacts Samsung only 
 
 <div align="justify">
 
-Want to use TV Installer, its screenshots or texts in your project, build, article or video? You are welcome to — please <b>keep a link to this repository</b> and <b>let me know</b>: write in <a href="https://github.com/sunic007/tvinstaller/discussions">Discussions</a> or open an <a href="https://github.com/sunic007/tvinstaller/issues/new/choose">issue</a>. All rights to the app, its name and design are reserved.
+Want to use TV Installer, its screenshots or texts in your project, build, article or video? You are welcome to — please <b>keep a link to this repository</b> and <b>let me know</b>: write in the <a href="https://t.me/sunicapps">Telegram group</a> or open an <a href="https://github.com/sunic007/tvinstaller/issues/new/choose">issue</a>. All rights to the app, its name and design are reserved.
 
 </div>
 
