@@ -1,6 +1,14 @@
 # Changelog / История изменений
 
-[Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk)
+[Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)
+
+## 2.3.0 — new app ID / новое имя приложения
+- **EN:** the app is now `com.sunicapps.tvinstaller` (registered with Android developer verification). Existing installs move over by themselves: TV Installer updates to 2.2.9, installs the new app and hands over Samsung certificates, TVs, saved packages and settings; then you can remove the old one. Each TV asks once more to allow the connection.
+- **RU:** приложение теперь `com.sunicapps.tvinstaller` (зарегистрировано в проверке разработчиков Android). Установленные переезжают сами: TV Installer обновится до 2.2.9, поставит новое приложение и передаст ему сертификаты Samsung, телевизоры, сохранённые пакеты и настройки; старое затем можно удалить. Каждый ТВ один раз заново спросит разрешение на подключение.
+
+## 2.2.8 — remote buttons / кнопки пульта
+- **EN:** the installer no longer strips `tv.inputdevice`, `tv.audio`, `tv.display`, `tv.channel` — Play/Pause, rewind, Channel ± and colour buttons reach installed apps again (reinstall the app to get them).
+- **RU:** установщик больше не удаляет `tv.inputdevice`, `tv.audio`, `tv.display`, `tv.channel` — Play/Pause, перемотка, «Канал ±» и цветные кнопки снова доходят до приложений (переустановите приложение).
 
 ## 2.2.6 — big update / большое обновление
 - **EN:**

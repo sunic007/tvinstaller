@@ -8,7 +8,7 @@
 kompyuter va Tizen Studio kerak emas. Televizorni Wi‑Fi tarmog'ida o'zi topadi, Samsung sertifikatini oladi, paketni
 imzolaydi va o'rnatadi.
 
-**⬇️ [TvInstaller.apk'ni yuklab olish](https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk)** — oxirgi versiya
+**⬇️ [SunicTvInstaller.apk'ni yuklab olish](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)** — oxirgi versiya
 · barcha versiyalar — [Releases](https://github.com/sunic007/tvinstaller/releases)
 · yangiliklar — [CHANGELOG.md](CHANGELOG.md)
 · [maxfiylik siyosati](https://sunic007.github.io/tvinstaller/privacy.html)

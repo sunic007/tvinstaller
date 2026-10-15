@@ -7,7 +7,7 @@
 Android-приложение для установки приложений `.wgt` на телевизоры **Samsung (Tizen)** прямо с телефона — без компьютера
 и Tizen Studio. Подписывает пакет само и ставит его на ТВ по Wi-Fi.
 
-**⬇️ [Скачать TvInstaller.apk](https://github.com/sunic007/tvinstaller/releases/latest/download/TvInstaller.apk)** — последняя версия
+**⬇️ [Скачать SunicTvInstaller.apk](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)** — последняя версия
 · все версии — [Releases](https://github.com/sunic007/tvinstaller/releases)
 · что нового — [CHANGELOG.md](CHANGELOG.md)
 · [политика конфиденциальности](https://sunic007.github.io/tvinstaller/privacy.html)
