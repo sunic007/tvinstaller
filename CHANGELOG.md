@@ -2,6 +2,18 @@
 
 [Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)
 
+## 2.3.3 — sign-in screen and new splash / экран входа и новая заставка
+- **EN:**
+  - **Sign-in screen at launch:** sign in to your Samsung account in one tap, or choose "I'll sign in later".
+  - **New splash:** the TV switches on, the caption goes English → Russian → Uzbek; the app opens faster, without a long dark screen.
+  - **Setup steps:** finished steps disappear (numbers 1–4 stay), and the bar hides once the TV is ready.
+  - TVs that are off no longer show as "not found" cards; labels shrink to fit instead of breaking mid-word.
+- **RU:**
+  - **Экран входа при запуске:** вход в аккаунт Samsung в одно нажатие или «Авторизуюсь позже».
+  - **Новая заставка:** телевизор «включается», подпись по очереди на английском, русском и узбекском; приложение открывается быстрее, без долгого тёмного экрана.
+  - **Шаги настройки:** выполненные шаги исчезают (номера 1–4 сохраняются), а когда ТВ готов, полосы нет.
+  - Выключенные телевизоры больше не показываются карточками «Не найден»; подписи уменьшаются, а не рвутся посреди слова.
+
 ## 2.3.1 — cleaner TV list / список телевизоров без лишнего
 - **EN:** setup steps (1–4) and the phone's address are shown only while a TV is being set up; with ready TVs the screen goes straight to the list.
 - **RU:** шаги настройки (1–4) и адрес телефона видны только при настройке телевизора; когда ТВ готовы, экран сразу показывает список.
