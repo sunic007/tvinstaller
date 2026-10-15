@@ -8,11 +8,54 @@ on:
   workflow_dispatch:
     inputs:
       tag:
-        description: 'Тег релиза (например v2.3.5)'
-        required: true
+        description: 'Тег релиза (например v2.3.5) — пост о релизе'
+        required: false
+      text:
+        description: 'Или свой текст поста'
+        required: false
+      pin:
+        description: 'Закрепить свой пост'
+        type: boolean
+        default: false
+      delete:
+        description: 'Удалить посты канала: номера через пробел (из ссылки t.me/sunicapps_uzb/N)'
+        required: false
 
 jobs:
+  manage:
+    if: github.event_name == 'workflow_dispatch' && (inputs.text != '' || inputs.delete != '')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Own post / delete posts
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHANNEL: '@sunicapps_uzb'
+          TEXT: ${{ inputs.text }}
+          PIN: ${{ inputs.pin }}
+          DELETE: ${{ inputs.delete }}
+        run: |
+          python3 - <<'PY'
+          import json, os, urllib.parse, urllib.request
+          def tg(method, **kw):
+              kw['chat_id'] = os.environ['CHANNEL']
+              data = urllib.parse.urlencode(kw).encode()
+              try:
+                  return json.load(urllib.request.urlopen('https://api.telegram.org/bot%s/%s' % (os.environ['TOKEN'], method), data))
+              except urllib.error.HTTPError as e:
+                  return json.load(e)
+          for n in os.environ['DELETE'].split():
+              print('delete', n, tg('deleteMessage', message_id=n).get('ok'))
+          text = os.environ['TEXT'].replace('\\n', '\n')        # в форме GitHub одна строка: \n — перенос
+          if text:
+              res = tg('sendMessage', text=text, disable_web_page_preview='true')
+              print('post', res.get('ok'), res.get('description', ''))
+              if res.get('ok') and os.environ['PIN'] == 'true':
+                  pin = tg('pinChatMessage', message_id=res['result']['message_id'], disable_notification='true')
+                  print('pin', pin.get('ok'), pin.get('description', ''))
+          PY
+
   post:
+    if: github.event_name == 'release' || inputs.tag != ''
     runs-on: ubuntu-latest
     steps:
       - name: Post to Telegram
