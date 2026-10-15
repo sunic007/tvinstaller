@@ -2,6 +2,10 @@
 
 [Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)
 
+## 2.3.6 — privacy and reliability / приватность и надёжность
+- **EN:** "Report a problem" now hides email addresses and the last part of IP addresses in the log. The system Back gesture shows the predictive-back preview on Android 13+. The privacy policy is updated: what stays on your home network and what goes over the internet. Nothing else changes in how the app works.
+- **RU:** «Сообщить о проблеме» теперь скрывает в журнале адреса почты и последнюю часть IP-адресов. Жест «Назад» на Android 13+ показывает предпросмотр. Обновлена политика конфиденциальности: что остаётся в домашней сети, а что идёт через интернет. В остальном приложение работает как раньше.
+
 ## 2.3.5 — понятный каталог и помощь в Telegram / clear catalog and Telegram help
 - **EN:** every Samsung app in the catalog now explains what it is and what you need for it ("Details"). New in Settings: "Questions and help" (Telegram group), "News" (channel) and "Report a problem" — sends the log to the developer.
 - **RU:** у каждого приложения в каталоге понятное описание: что это и что для него нужно («Подробнее»). В настройках — «Вопросы и помощь» (группа в Telegram), «Новости» (канал) и «Сообщить о проблеме» — журнал разработчику.
