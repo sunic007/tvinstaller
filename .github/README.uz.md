@@ -23,13 +23,15 @@
 <td width="300" align="center" valign="top"><img src="../docs/demo/demo-uz.gif" width="280" alt="Kirish, video qo'llanma, televizorni ulash va ilovani o'rnatish"></td>
 <td valign="top">
 
-<table>
-<tr><td width="44" align="center">📲</td><td><b>1. Ilovani o'rnating</b><br><b>SunicTvInstaller.apk</b>ni yuklab oling va Android telefonda oching.</td></tr>
-<tr><td width="44" align="center">🔑</td><td><b>2. Samsung hisobiga kiring</b><br>Bir marta. Televizor uchun sertifikatni Samsung o'zi beradi.</td></tr>
-<tr><td width="44" align="center">📺</td><td><b>3. Televizorni tayyorlang</b><br>Dasturchi rejimini telefon manzili bilan yoqing — ilovada 2 daqiqalik video bor.</td></tr>
-<tr><td width="44" align="center">🔍</td><td><b>4. Ulaning</b><br>Ilova televizorni Wi‑Fi tarmog'ingizda o'zi topadi.</td></tr>
-<tr><td width="44" align="center">✅</td><td><b>5. O'rnating</b><br>Katalogdan (40+) ilovani tanlang va <b>O'rnatish</b>ni bosing.</td></tr>
-</table>
+📲 <b>1. Ilovani o'rnating</b><br><b>SunicTvInstaller.apk</b>ni yuklab oling va Android telefonda oching.
+
+🔑 <b>2. Samsung hisobiga kiring</b><br>Bir marta. Televizor uchun sertifikatni Samsung o'zi beradi.
+
+📺 <b>3. Televizorni tayyorlang</b><br>Dasturchi rejimini telefon manzili bilan yoqing — ilovada 2 daqiqalik video bor.
+
+🔍 <b>4. Ulaning</b><br>Ilova televizorni Wi‑Fi tarmog'ingizda o'zi topadi.
+
+✅ <b>5. O'rnating</b><br>Katalogdan (40+) ilovani tanlang va <b>O'rnatish</b>ni bosing.
 
 Interfeys <b>o'zbek, rus va ingliz</b> tillarida — telefon tiliga moslashadi.
 

@@ -23,13 +23,15 @@ Install apps on <b>Samsung Smart TV</b> straight from your phone — no PC, no T
 <td width="300" align="center" valign="top"><img src="../docs/demo/demo-en.gif" width="280" alt="Sign in, watch the guide, connect the TV and install an app"></td>
 <td valign="top">
 
-<table>
-<tr><td width="44" align="center">📲</td><td><b>1. Install the app</b><br>Download <b>SunicTvInstaller.apk</b> and open it on your Android phone.</td></tr>
-<tr><td width="44" align="center">🔑</td><td><b>2. Sign in to Samsung</b><br>Once. The certificate for your TV is issued by Samsung automatically.</td></tr>
-<tr><td width="44" align="center">📺</td><td><b>3. Prepare the TV</b><br>Turn on Developer Mode with your phone's address — a 2‑minute video guide is inside.</td></tr>
-<tr><td width="44" align="center">🔍</td><td><b>4. Connect</b><br>The app finds the TV on your Wi‑Fi by itself.</td></tr>
-<tr><td width="44" align="center">✅</td><td><b>5. Install</b><br>Pick an app from the catalog of 40+ and tap <b>Install</b>.</td></tr>
-</table>
+📲 <b>1. Install the app</b><br>Download <b>SunicTvInstaller.apk</b> and open it on your Android phone.
+
+🔑 <b>2. Sign in to Samsung</b><br>Once. The certificate for your TV is issued by Samsung automatically.
+
+📺 <b>3. Prepare the TV</b><br>Turn on Developer Mode with your phone's address — a 2‑minute video guide is inside.
+
+🔍 <b>4. Connect</b><br>The app finds the TV on your Wi‑Fi by itself.
+
+✅ <b>5. Install</b><br>Pick an app from the catalog of 40+ and tap <b>Install</b>.
 
 The app speaks <b>English, Russian and Uzbek</b> and follows your phone language.
 
