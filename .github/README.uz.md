@@ -29,7 +29,7 @@
   <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/01.png" width="140" alt=""></a>
   <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/02.png" width="140" alt=""></a>
   <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/03.png" width="140" alt=""></a>
-  <a href="https://youtu.be/AB0fsIuFSII"><img src="../docs/screenshots/uz/10.png" width="140" alt="video"></a>
+  <a href="https://youtu.be/AB0fsIuFSII"><img src="../docs/screenshots/uz/10.gif" width="140" alt="video"></a>
 </p>
 
 <br clear="right">

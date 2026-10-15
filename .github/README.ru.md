@@ -29,7 +29,7 @@
   <a href="#как-это-работает"><img src="../docs/screenshots/01.png" width="140" alt=""></a>
   <a href="#как-это-работает"><img src="../docs/screenshots/02.png" width="140" alt=""></a>
   <a href="#как-это-работает"><img src="../docs/screenshots/03.png" width="140" alt=""></a>
-  <a href="https://youtu.be/U4VGa0fGYUI"><img src="../docs/screenshots/10.png" width="140" alt="video"></a>
+  <a href="https://youtu.be/U4VGa0fGYUI"><img src="../docs/screenshots/10.gif" width="140" alt="video"></a>
 </p>
 
 <br clear="right">

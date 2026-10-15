@@ -29,7 +29,7 @@
   <a href="#how-it-works"><img src="../docs/screenshots/en/01.png" width="140" alt=""></a>
   <a href="#how-it-works"><img src="../docs/screenshots/en/02.png" width="140" alt=""></a>
   <a href="#how-it-works"><img src="../docs/screenshots/en/03.png" width="140" alt=""></a>
-  <a href="https://youtu.be/L6nK4SBWKP0"><img src="../docs/screenshots/en/10.png" width="140" alt="video"></a>
+  <a href="https://youtu.be/L6nK4SBWKP0"><img src="../docs/screenshots/en/10.gif" width="140" alt="video"></a>
 </p>
 
 <br clear="right">
