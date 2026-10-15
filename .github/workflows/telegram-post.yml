@@ -1,0 +1,49 @@
+name: Telegram post
+
+# Новый релиз — пост в канал новостей (@sunicapps_uzb): название, раздел «что нового» на русском и ссылка.
+# Нужен секрет TELEGRAM_BOT_TOKEN — бот-публикатор, админ канала с правом «Публикация сообщений».
+on:
+  release:
+    types: [published]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Тег релиза (например v2.3.5)'
+        required: true
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Post to Telegram
+        env:
+          TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          CHANNEL: '@sunicapps_uzb'
+          GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          TAG: ${{ github.event.release.tag_name || inputs.tag }}
+        run: |
+          if [ -z "$TOKEN" ]; then echo "Нет секрета TELEGRAM_BOT_TOKEN — пропускаю"; exit 0; fi
+          gh release view "$TAG" -R "$REPO" --json name,body,url > rel.json
+          python3 - <<'PY'
+          import json, os, re, urllib.parse, urllib.request
+          r = json.load(open('rel.json', encoding='utf-8'))
+          body = r.get('body') or ''
+          m = re.search(r'\*\*RU\*\*\s*\n(.*?)(?:\n\s*\*\*[A-Z]{2}\*\*|\Z)', body, re.S)
+          notes = (m.group(1) if m else body).strip()
+          notes = re.sub(r'\*\*(.+?)\*\*', r'\1', notes)            # без разметки GitHub
+          notes = re.sub(r'`([^`]*)`', r'\1', notes)
+          notes = re.sub(r'^\s*[-*]\s+', '• ', notes, flags=re.M)
+          repo = os.environ['REPO']
+          app = 'TV Installer' if repo.endswith('tvinstaller') else 'Lampa для Samsung'
+          dl = ('https://github.com/%s/releases/latest/download/SunicTvInstaller.apk' % repo) if repo.endswith('tvinstaller') \
+               else ('https://github.com/%s/releases/latest/download/samsung.wgt' % repo)
+          tail = '\n\n⬇️ Скачать: ' + dl + '\n📄 Подробнее: ' + r['url'] + '\n💬 Вопросы: @sunicapps'
+          if not repo.endswith('tvinstaller'):
+              tail = '\n\nLampa на ТВ обновится сама.' + tail
+          text = '🆕 ' + app + ' — ' + r['name'] + '\n\n' + notes
+          text = text[:4096 - len(tail)] + tail
+          data = urllib.parse.urlencode({'chat_id': os.environ['CHANNEL'], 'text': text, 'disable_web_page_preview': 'true'}).encode()
+          res = json.load(urllib.request.urlopen('https://api.telegram.org/bot%s/sendMessage' % os.environ['TOKEN'], data))
+          print('ok' if res.get('ok') else res)
+          PY
