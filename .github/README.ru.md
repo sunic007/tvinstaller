@@ -1,15 +1,15 @@
-<a href="#как-это-работает"><img src="../docs/logo.png" width="210" align="left" alt="TV Installer"></a>
+<a><img src="../docs/logo.png" width="210" align="left" alt="TV Installer"></a>
 
 <p align="center">Установка приложений на <b>Samsung Smart TV</b> прямо с Android-телефона.<br>Без компьютера, Tizen Studio и проводов.</p>
 
 <p align="center">
 <a href="https://github.com/sunic007/tvinstaller/releases/latest"><img src="https://img.shields.io/github/v/release/sunic007/tvinstaller?style=flat-square&label=release&color=2f81f7" alt="release"></a>
 <a href="https://github.com/sunic007/tvinstaller/releases"><img src="https://img.shields.io/github/downloads/sunic007/tvinstaller/total?style=flat-square&color=2ea043" alt="downloads"></a>
-<a href="#"><img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+"></a>
-<a href="#"><img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV"></a>
+<a><img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+"></a>
+<a><img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV"></a>
 </p>
 
-<p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-ru.svg" height="40" align="middle" alt="Скачать APK"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README.md"><img src="https://flagcdn.com/h60/gb.png" height="30" align="middle" alt=""> English</a>&nbsp;&nbsp;&nbsp;<a href="#"><img src="https://flagcdn.com/h60/ru.png" height="30" align="middle" alt=""></a> <b>Русский</b>&nbsp;&nbsp;&nbsp;<a href="README.uz.md"><img src="https://flagcdn.com/h60/uz.png" height="30" align="middle" alt=""> O'zbekcha</a></p>
+<p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-ru.svg" height="40" align="middle" alt="Скачать APK"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README.md"><img src="https://flagcdn.com/h60/gb.png" height="30" align="middle" alt=""> English</a>&nbsp;&nbsp;&nbsp;<a><img src="https://flagcdn.com/h60/ru.png" height="30" align="middle" alt=""></a> <b>Русский</b>&nbsp;&nbsp;&nbsp;<a href="README.uz.md"><img src="https://flagcdn.com/h60/uz.png" height="30" align="middle" alt=""> O'zbekcha</a></p>
 
 <p align="center"><sub>Бесплатно · Android 7.0+ · <a href="CHANGELOG.md">Что нового</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Конфиденциальность</a></sub></p>
 
@@ -28,23 +28,23 @@
 </div>
 
 <p align="center">
-  <a href="#как-это-работает"><img src="../docs/screenshots/01.png" width="19.4%" alt=""></a>
-  <a href="#как-это-работает"><img src="../docs/screenshots/02.png" width="19.4%" alt=""></a>
-  <a href="#как-это-работает"><img src="../docs/screenshots/03.png" width="19.4%" alt=""></a>
+  <a><img src="../docs/screenshots/01.png" width="19.4%" alt=""></a>
+  <a><img src="../docs/screenshots/02.png" width="19.4%" alt=""></a>
+  <a><img src="../docs/screenshots/03.png" width="19.4%" alt=""></a>
   <a href="https://youtu.be/U4VGa0fGYUI"><img src="../docs/screenshots/10.gif" width="19.4%" alt="video"></a>
-  <a href="#как-это-работает"><img src="../docs/demo/demo-ru.gif" width="16.2%" alt="Вход, видеоинструкция, подключение телевизора и установка приложения"></a>
+  <a><img src="../docs/demo/demo-ru.gif" width="16.2%" alt="Вход, видеоинструкция, подключение телевизора и установка приложения"></a>
 </p>
 
 <details>
 <summary><b>Ещё скриншоты</b></summary>
 <br>
 <p align="center">
-  <a href="#как-это-работает"><img src="../docs/screenshots/04.png" width="32%" alt=""></a>
-  <a href="#как-это-работает"><img src="../docs/screenshots/05.png" width="32%" alt=""></a>
-  <a href="#как-это-работает"><img src="../docs/screenshots/06.png" width="32%" alt=""></a>
-  <a href="#как-это-работает"><img src="../docs/screenshots/07.png" width="32%" alt=""></a>
-  <a href="#как-это-работает"><img src="../docs/screenshots/08.png" width="32%" alt=""></a>
-  <a href="#как-это-работает"><img src="../docs/screenshots/09.png" width="32%" alt=""></a>
+  <a><img src="../docs/screenshots/04.png" width="32%" alt=""></a>
+  <a><img src="../docs/screenshots/05.png" width="32%" alt=""></a>
+  <a><img src="../docs/screenshots/06.png" width="32%" alt=""></a>
+  <a><img src="../docs/screenshots/07.png" width="32%" alt=""></a>
+  <a><img src="../docs/screenshots/08.png" width="32%" alt=""></a>
+  <a><img src="../docs/screenshots/09.png" width="32%" alt=""></a>
 </p>
 </details>
 
