@@ -17,11 +17,15 @@
 
 ## Qanday ishlaydi
 
+<div align="justify">
+
 1. <b>TV Installer'ni o'rnating</b> — yuqoridagi tugma orqali APK'ni yuklab oling va telefonda oching.
 2. <b>Samsung hisobiga kiring</b> — bir marta. Televizor uchun sertifikatni Samsung o'zi beradi.
 3. <b>Televizorni tayyorlang</b> — dasturchi rejimini telefon manzili bilan yoqing. <a href="https://youtu.be/AB0fsIuFSII">1 daqiqalik video</a>.
 4. <b>Ulaning</b> — ilova televizorni Wi‑Fi tarmog'ingizda o'zi topadi.
 5. <b>O'rnating</b> — katalogdan (40+) ilovani tanlang va <b>O'rnatish</b>ni bosing.
+
+</div>
 
 <p align="center">
   <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/01.png" width="19.4%" alt=""></a>
@@ -46,6 +50,8 @@
 
 ## Imkoniyatlar
 
+<div align="justify">
+
 - <b>Televizorni o'zi topadi</b> — bir xil Wi‑Fi tarmog'ida; bir nechta televizor bilan ishlash mumkin.
 - <b>«Ulanmayaptimi?» yordamchisi</b> — Wi‑Fi, televizor, dasturchi rejimi va televizordagi manzilni bosqichma-bosqich tekshiradi va televizor boshqa qurilmaga sozlangan bo'lsa, buni aniq aytadi.
 - <b>Samsung sertifikati bir marta</b> — Samsung hisobi orqali. Muddati tugashidan bir oy oldin eslatma, bir bosishda yangilash, zaxira nusxa va tiklash.
@@ -55,41 +61,57 @@
 - <b><a href="https://github.com/sunic007/lampa-samsung">Lampa for Samsung</a></b> — GitHub'dagi oxirgi relizdan o'rnatiladi va keyin televizorda o'zi yangilanadi.
 - <b>O'zini yangilaydi</b> — brauzersiz: yangi versiyani yuklab oladi, tekshiradi va Android o'rnatuvchisini ochadi.
 
+</div>
+
 ## Nima kerak
+
+<div align="justify">
 
 - Android 7.0+ telefon va Tizen'li Samsung Smart TV — bir xil Wi‑Fi tarmog'ida (mehmon tarmog'i emas).
 - Bepul Samsung hisobi — o'rnatish sertifikati uchun.
+
+</div>
 
 ## Ko'p beriladigan savollar
 
 <details>
 <summary><b>Televizor topilmayapti yoki ulanmayapti</b></summary>
 <br>
+<div align="justify">
 
 ⋮ menyusi → <b>Ulanmayaptimi?</b> — yordamchi hammasini bosqichma-bosqich tekshiradi. Telefon va televizor bir tarmoqda ekanini va televizordagi dasturchi rejimida <i>aynan shu</i> telefonning IP manzili yozilganini tekshiring. IP o'zgargan bo'lsa, uni qayta kiriting va televizorni qayta yoqing.
 
+</div>
 </details>
 
 <details>
 <summary><b>Imzolash yoki o'rnatish xatosi</b></summary>
 <br>
+<div align="justify">
 
 Ilovaning eski versiyasini televizordan o'chirib, qaytadan o'rnating.
 
+</div>
 </details>
 
 <details>
 <summary><b>Xavfsizmi?</b></summary>
 <br>
+<div align="justify">
 
 Ilova televizor bilan faqat uy tarmog'ingiz ichida ishlaydi. Samsung'ga faqat sertifikat uchun, GitHub'ga esa ilovalarni yuklab olish uchun murojaat qiladi — batafsil <a href="https://sunic007.github.io/tvinstaller/privacy.html">maxfiylik siyosatida</a>.
 
+</div>
 </details>
 
 ## Loyihani qo'llab-quvvatlash
 
+<div align="justify">
+
 TV Installer bepul. Foydali bo'lsa, rivojlanishini <a href="https://github.com/sponsors/sunic007"><b>GitHub Sponsors</b></a> orqali qo'llab-quvvatlashingiz mumkin.
+
+</div>
 
 ---
 
-<sub>TV Installer — mustaqil loyiha, Samsung bilan bog'liq emas va u tomonidan tasdiqlanmagan. Samsung va Tizen — Samsung Electronics'ning savdo belgilari. Ilova sertifikatni Samsung'ning Tizen Studio'si kabi usulda oladi: siz o'z Samsung hisobingizga kirasiz, sertifikatni televizoringiz uchun Samsung beradi. O'rnatilgan ilovalar uchun foydalanuvchi javobgar; ilovaning o'zi hech qanday media kontentni saqlamaydi va taqdim etmaydi.</sub>
+<div align="justify"><sub>TV Installer — mustaqil loyiha, Samsung bilan bog'liq emas va u tomonidan tasdiqlanmagan. Samsung va Tizen — Samsung Electronics'ning savdo belgilari. Ilova sertifikatni Samsung'ning Tizen Studio'si kabi usulda oladi: siz o'z Samsung hisobingizga kirasiz, sertifikatni televizoringiz uchun Samsung beradi. O'rnatilgan ilovalar uchun foydalanuvchi javobgar; ilovaning o'zi hech qanday media kontentni saqlamaydi va taqdim etmaydi.</sub></div>

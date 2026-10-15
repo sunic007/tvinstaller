@@ -17,11 +17,15 @@
 
 ## How it works
 
+<div align="justify">
+
 1. <b>Install TV Installer</b> — download the APK above and open it on your phone.
 2. <b>Sign in to Samsung</b> — once. Samsung issues the certificate for your TV automatically.
 3. <b>Prepare the TV</b> — turn on Developer Mode with your phone's address. <a href="https://youtu.be/L6nK4SBWKP0">Watch the 1‑minute guide</a>.
 4. <b>Connect</b> — the app finds the TV on your Wi‑Fi by itself.
 5. <b>Install</b> — pick an app from the catalog of 40+ and tap <b>Install</b>.
+
+</div>
 
 <p align="center">
   <a href="#how-it-works"><img src="../docs/screenshots/en/01.png" width="19.4%" alt=""></a>
@@ -46,6 +50,8 @@
 
 ## Features
 
+<div align="justify">
+
 - <b>Finds your TV</b> — on the same Wi‑Fi automatically; several TVs are supported.
 - <b>"Can't connect?" wizard</b> — checks Wi‑Fi, the TV, Developer Mode and the address on the TV step by step, and says clearly when the TV is set up for another device.
 - <b>Samsung certificate just once</b> — via your Samsung account. A reminder a month before it expires, renewal in one tap, backup and restore.
@@ -55,41 +61,57 @@
 - <b><a href="https://github.com/sunic007/lampa-samsung">Lampa for Samsung</a></b> — is installed from its latest GitHub release and then keeps itself up to date on the TV.
 - <b>Updates itself</b> — without a browser: downloads the new version, verifies it and opens Android's installer.
 
+</div>
+
 ## Requirements
+
+<div align="justify">
 
 - An Android 7.0+ phone and a Samsung Smart TV with Tizen on the same Wi‑Fi network (not a guest network).
 - A free Samsung account — for the installation certificate.
+
+</div>
 
 ## FAQ
 
 <details>
 <summary><b>The TV is not found or won't connect</b></summary>
 <br>
+<div align="justify">
 
 Open the ⋮ menu → <b>Can't connect?</b> — the wizard checks everything step by step. Make sure the phone and the TV are on the same network and that Developer Mode on the TV has <i>this phone's</i> IP. If the phone's IP changed, enter it again and restart the TV.
 
+</div>
 </details>
 
 <details>
 <summary><b>Signing or installation error</b></summary>
 <br>
+<div align="justify">
 
 Remove the old version of the app from the TV and install it again.
 
+</div>
 </details>
 
 <details>
 <summary><b>Is it safe?</b></summary>
 <br>
+<div align="justify">
 
 The app talks to the TV only inside your home network. It contacts Samsung only to issue the certificate and GitHub only to download apps — see the <a href="https://sunic007.github.io/tvinstaller/privacy.html">privacy policy</a>.
 
+</div>
 </details>
 
 ## Support the project
 
+<div align="justify">
+
 TV Installer is free. If it helps you, you can support its development on <a href="https://github.com/sponsors/sunic007"><b>GitHub Sponsors</b></a>.
+
+</div>
 
 ---
 
-<sub>TV Installer is an independent project and is not affiliated with or endorsed by Samsung. Samsung and Tizen are trademarks of Samsung Electronics. The app uses the same certificate flow as Samsung's Tizen Studio: you sign in to your own Samsung account and Samsung issues the certificate for your TV. You are responsible for the apps you install; the app does not host or provide any media content.</sub>
+<div align="justify"><sub>TV Installer is an independent project and is not affiliated with or endorsed by Samsung. Samsung and Tizen are trademarks of Samsung Electronics. The app uses the same certificate flow as Samsung's Tizen Studio: you sign in to your own Samsung account and Samsung issues the certificate for your TV. You are responsible for the apps you install; the app does not host or provide any media content.</sub></div>
