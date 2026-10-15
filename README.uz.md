@@ -47,7 +47,7 @@ imzolaydi va o'rnatadi.
 - **«Ulanmayaptimi?» yordamchisi** Wi‑Fi, televizor, dasturchi rejimi va televizordagi manzilni bosqichma-bosqich
   tekshiradi. Televizor boshqa qurilmaga sozlangan bo'lsa, buni aniq aytadi (Samsung televizoriga bir vaqtda faqat
   bitta telefon yoki kompyuter ilova o'rnata oladi).
-- **Sertifikat bir marta olinadi** — Samsung akkaunti orqali, kompyutersiz. Muddati tugashidan bir oy oldin eslatma
+- **Sertifikat bir marta olinadi** — Samsung hisobi orqali, kompyutersiz. Muddati tugashidan bir oy oldin eslatma
   keladi, yangilash — bir bosishda; zaxira nusxa saqlash va **zaxiradan tiklash** mumkin.
 - **40+ ilovali katalog** — mediatekalar, pleyerlar, striming, IPTV — va **«Tavsiya etamiz»** to'plami. O'zingizning
   `.wgt` faylingizni yoki havolani ham o'rnatish mumkin.
@@ -106,7 +106,7 @@ esa ilovalarni yuklab olish uchun murojaat qiladi — batafsil [maxfiylik siyosa
 
 TV Installer — mustaqil loyiha, Samsung bilan bog'liq emas va u tomonidan tasdiqlanmagan. Samsung va Tizen — Samsung
 Electronics'ning savdo belgilari. Ilova Samsung'ning Tizen Studio'si kabi sertifikat olish usulidan foydalanadi: siz
-o'z Samsung akkauntingizga kirasiz, sertifikatni televizoringiz uchun Samsung beradi. O'rnatilgan ilovalar uchun
+o'z Samsung hisobingizga kirasiz, sertifikatni televizoringiz uchun Samsung beradi. O'rnatilgan ilovalar uchun
 foydalanuvchi javobgar; ilovaning o'zi hech qanday media kontentni saqlamaydi va taqdim etmaydi.
 
 ## Loyihani qo'llab-quvvatlash
