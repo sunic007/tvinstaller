@@ -25,9 +25,6 @@
 4. <b>Ulaning</b> — ilova televizorni Wi‑Fi tarmog'ingizda o'zi topadi.
 5. <b>O'rnating</b> — katalogdan (40+) ilovani tanlang va <b>O'rnatish</b>ni bosing.
 
-> **Televizorda dasturchi rejimi**<br>
-> <b>Apps</b> → <b>App Settings</b> → pultda <code>1 2 3 4 5</code> → <b>Developer mode: On</b> → telefon IP manzili (ilovada ko'rsatilgan) → <b>OK</b> → televizorni qayta yoqing.
-
 <p>
   <img src="../docs/screenshots/uz/01.png" width="150" alt="">
   <img src="../docs/screenshots/uz/02.png" width="150" alt="">

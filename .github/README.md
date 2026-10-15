@@ -25,9 +25,6 @@
 4. <b>Connect</b> — the app finds the TV on your Wi‑Fi by itself.
 5. <b>Install</b> — pick an app from the catalog of 40+ and tap <b>Install</b>.
 
-> **Developer Mode on the TV**<br>
-> <b>Apps</b> → <b>App Settings</b> → press <code>1 2 3 4 5</code> on the remote → <b>Developer mode: On</b> → enter the phone's IP (shown in the app) → <b>OK</b> → restart the TV.
-
 <p>
   <img src="../docs/screenshots/en/01.png" width="150" alt="">
   <img src="../docs/screenshots/en/02.png" width="150" alt="">
