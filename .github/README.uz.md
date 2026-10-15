@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV">
 </p>
 
-<p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-uz.svg" height="40" alt="APK'ni yuklab olish"></a>&nbsp;&nbsp;&nbsp;<a href="README.md"><img src="https://flagcdn.com/h80/gb.png" height="40" alt="English" title="English"></a>&nbsp;<a href="README.ru.md"><img src="https://flagcdn.com/h80/ru.png" height="40" alt="Русский" title="Русский"></a>&nbsp;<img src="https://flagcdn.com/h80/uz.png" height="40" alt="O'zbekcha" title="O'zbekcha"></p>
+<p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-uz.svg" height="40" align="middle" alt="APK'ni yuklab olish"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="README.md"><img src="https://flagcdn.com/h60/gb.png" height="30" align="middle" alt=""> English</a>&nbsp;&nbsp;&nbsp;<a href="README.ru.md"><img src="https://flagcdn.com/h60/ru.png" height="30" align="middle" alt=""> Русский</a>&nbsp;&nbsp;&nbsp;<img src="https://flagcdn.com/h60/uz.png" height="30" align="middle" alt=""> <b>O'zbekcha</b></p>
 
 <p align="center"><sub>Bepul · Android 7.0+ · <a href="CHANGELOG.md">Yangiliklar</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Maxfiylik</a></sub></p>
 
