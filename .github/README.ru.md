@@ -9,11 +9,9 @@
 <img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV">
 </p>
 
-<p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-ru.svg" height="40" alt="Скачать APK"></a></p>
+<p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-ru.svg" height="40" alt="Скачать APK"></a>&nbsp;&nbsp;&nbsp;<a href="README.md"><img src="https://flagcdn.com/h80/gb.png" height="40" alt="English" title="English"></a>&nbsp;<img src="https://flagcdn.com/h80/ru.png" height="40" alt="Русский" title="Русский">&nbsp;<a href="README.uz.md"><img src="https://flagcdn.com/h80/uz.png" height="40" alt="O'zbekcha" title="O'zbekcha"></a></p>
 
 <p align="center"><sub>Бесплатно · Android 7.0+ · <a href="CHANGELOG.md">Что нового</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Конфиденциальность</a></sub></p>
-
-<p align="center"><a href="README.md"><img src="https://flagcdn.com/24x18/gb.png" width="24" height="18" alt="English"> English</a> &nbsp;·&nbsp; <img src="https://flagcdn.com/24x18/ru.png" width="24" height="18" alt="Русский"> <b>Русский</b> &nbsp;·&nbsp; <a href="README.uz.md"><img src="https://flagcdn.com/24x18/uz.png" width="24" height="18" alt="O'zbekcha"> O'zbekcha</a></p>
 
 <br clear="left">
 
