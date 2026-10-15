@@ -17,6 +17,10 @@ imzolaydi va o'rnatadi.
 > Ilova **o'zbek, rus va ingliz** tillarida ishlaydi: telefon tiliga moslashadi, tilni Sozlamalar → Язык · Language ·
 > Til bo'limida o'zgartirish mumkin.
 
+## Qanday ishlaydi
+
+<p align="center"><img src="docs/demo/demo-uz.gif" width="300" alt="Kirish, video qo'llanma, televizorni ulash va ilovani o'rnatish"></p>
+
 <p align="center">
   <img src="docs/screenshots/uz/01.png" width="30%">
   <img src="docs/screenshots/uz/02.png" width="30%">
@@ -57,7 +61,7 @@ imzolaydi va o'rnatadi.
 ## Nima kerak
 
 - Android 7.0+ telefon va Tizen'li Samsung Smart TV — bir xil Wi‑Fi tarmog'ida (mehmon tarmog'i emas).
-- Bepul Samsung akkaunti (o'rnatish sertifikati uchun).
+- Bepul Samsung hisobi (o'rnatish sertifikati uchun).
 
 ## Televizorga ilova qanday o'rnatiladi
 <table>

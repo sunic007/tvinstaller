@@ -16,6 +16,10 @@ Android-приложение для установки приложений `.wg
 Главное приложение в каталоге — **[Lampa для Samsung](https://github.com/sunic007/lampa-samsung)**: TV Installer
 ставит её последнюю версию прямо из релизов GitHub, дальше она обновляется на телевизоре сама.
 
+## Как это работает
+
+<p align="center"><img src="docs/demo/demo-ru.gif" width="300" alt="Вход, видеоинструкция, подключение телевизора и установка приложения"></p>
+
 <p align="center">
   <img src="docs/screenshots/01.png" width="30%">
   <img src="docs/screenshots/02.png" width="30%">

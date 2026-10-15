@@ -15,6 +15,10 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 
 > The app speaks **English, Russian and Uzbek (O'zbekcha)** — it follows your phone language; switch in Settings → Language.
 
+## How it works
+
+<p align="center"><img src="docs/demo/demo-en.gif" width="300" alt="Sign in, watch the guide, connect the TV and install an app"></p>
+
 <p align="center">
   <img src="docs/screenshots/en/01.png" width="30%">
   <img src="docs/screenshots/en/02.png" width="30%">
