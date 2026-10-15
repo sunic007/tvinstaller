@@ -27,13 +27,17 @@
 
 🔑 <b>2. Samsung hisobiga kiring</b><br>Bir marta. Televizor uchun sertifikatni Samsung o'zi beradi.
 
-📺 <b>3. Televizorni tayyorlang</b><br>Dasturchi rejimini telefon manzili bilan yoqing — ilovada 2 daqiqalik video bor.
+📺 <b>3. Televizorni tayyorlang</b><br>Dasturchi rejimini telefon manzili bilan yoqing — ilovada 1 daqiqalik video bor.
 
 🔍 <b>4. Ulaning</b><br>Ilova televizorni Wi‑Fi tarmog'ingizda o'zi topadi.
 
 ✅ <b>5. O'rnating</b><br>Katalogdan (40+) ilovani tanlang va <b>O'rnatish</b>ni bosing.
 
 Interfeys <b>o'zbek, rus va ingliz</b> tillarida — telefon tiliga moslashadi.
+
+<a href="https://youtu.be/AB0fsIuFSII"><img src="../docs/video/thumbnails/thumbnail-uz.jpg" width="300" alt="video"></a><br>
+▶ <b>Televizorda dasturchi rejimi</b> — 1 daqiqalik video<br>
+<sub>Apps → App Settings → <code>1 2 3 4 5</code> → Developer mode <b>On</b> → telefon IP manzili → <b>OK</b> → televizorni qayta yoqing</sub>
 
 </td>
 </tr>
@@ -80,34 +84,6 @@ Interfeys <b>o'zbek, rus va ingliz</b> tillarida — telefon tiliga moslashadi.
 
 - Android 7.0+ telefon va Tizen'li Samsung Smart TV — bir xil Wi‑Fi tarmog'ida (mehmon tarmog'i emas).
 - Bepul Samsung hisobi (o'rnatish sertifikati uchun).
-
-## Televizorga ilova qanday o'rnatiladi
-<table>
-<tr>
-<td valign="top" width="260">
-
-<p align="center"><a href="https://youtu.be/AB0fsIuFSII"><img src="../docs/video/thumbnails/thumbnail-uz.jpg" width="220" alt="O'zbekcha"></a></p>
-
-</td>
-<td valign="top">
-
-1. **Televizorda dasturchi rejimini yoqing:** **Apps** bo'limini oching → pastda **App Settings** → pultda
-   `1 2 3 4 5` ni tering → **Developer mode**'ni **On** qiling, telefon IP manzilini kiriting (TV Installer uni
-   «Televizorlar» ekranining tepasida ko'rsatadi) va **OK** ni bosing.
-2. **Televizorni qayta yoqing:** yoqish tugmasini ~2 soniya bosib turing. Qayta yoqilgandan keyin **App Settings**
-   tepasida **DEVELOP MODE** yozuvi chiqadi.
-3. **TV Installer'ni** telefonga o'rnating: APK'ni yuklab oling va oching (Android bu manbadan o'rnatishga ruxsat
-   so'raydi).
-4. TV Installer'da **televizorni** tanlang, sertifikat uchun bir marta **Samsung**'ga kiring va katalogdan ilova yoki
-   o'z `.wgt` faylingizni tanlang.
-5. Yangi versiyalar eskisining ustidan o'rnatiladi, ilovaning televizordagi sozlamalari saqlanadi.
-
-</td>
-</tr>
-</table>
-
-
-
 
 ## Ko'p beriladigan savollar
 
