@@ -35,11 +35,13 @@
 
 Interfeys <b>o'zbek, rus va ingliz</b> tillarida — telefon tiliga moslashadi.
 
-<p><a href="https://youtu.be/AB0fsIuFSII"><img src="../docs/video/thumbnails/thumbnail-uz.jpg" width="160" align="left" alt="video"></a>
-▶ <b>Dasturchi rejimi</b> — 1 daqiqalik video<br>
-<sub>Apps → App Settings<br>→ <code>1 2 3 4 5</code> → Developer mode <b>On</b><br>→ telefon IP manzili → <b>OK</b> → televizorni qayta yoqing</sub></p>
-
-<br clear="left">
+<table>
+<tr>
+<td width="170"><a href="https://youtu.be/AB0fsIuFSII"><img src="../docs/video/thumbnails/play-uz.jpg" width="160" alt="video"></a></td>
+<td>▶ <b>Dasturchi rejimi</b> — 1 daqiqalik video<br>
+<sub>Apps → App Settings<br>→ <code>1 2 3 4 5</code> → Developer mode <b>On</b><br>→ telefon IP manzili → <b>OK</b><br>→ televizorni qayta yoqing</sub></td>
+</tr>
+</table>
 
 </td>
 </tr>
