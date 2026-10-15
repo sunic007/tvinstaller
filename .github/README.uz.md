@@ -1,43 +1,59 @@
-[English](README.md) · [Русский](README.ru.md) · **O'zbekcha**
+<div align="center">
 
-# TV Installer — Samsung Smart TV'ga telefondan ilova o'rnatish
+<img src="../docs/icon.png" width="96" alt="TV Installer">
+
+# TV Installer
+
+<b>Samsung Smart TV</b>ga ilovalarni to'g'ridan-to'g'ri telefondan o'rnatish — kompyuter va Tizen Studio'siz
 
 [![Release](https://img.shields.io/github/v/release/sunic007/tvinstaller?label=release&color=3d8bff)](https://github.com/sunic007/tvinstaller/releases/latest) [![Downloads](https://img.shields.io/github/downloads/sunic007/tvinstaller/total?color=2ea043)](https://github.com/sunic007/tvinstaller/releases) ![Android](https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white) ![Tizen TV](https://img.shields.io/badge/Tizen-TV-1428a0)
 
-**Samsung (Tizen)** televizorlariga `.wgt` ilovalarni to'g'ridan-to'g'ri telefondan o'rnatadigan Android ilova —
-kompyuter va Tizen Studio kerak emas. Televizorni Wi‑Fi tarmog'ida o'zi topadi, Samsung sertifikatini oladi, paketni
-imzolaydi va o'rnatadi.
+<a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="https://img.shields.io/badge/Yuklab_olish-SunicTvInstaller.apk-3d8bff?style=for-the-badge&logo=android&logoColor=white" alt="Yuklab olish SunicTvInstaller.apk"></a>
 
-**⬇️ [SunicTvInstaller.apk'ni yuklab olish](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)** — oxirgi versiya
-· barcha versiyalar — [Releases](https://github.com/sunic007/tvinstaller/releases)
-· yangiliklar — [CHANGELOG.md](CHANGELOG.md)
-· [maxfiylik siyosati](https://sunic007.github.io/tvinstaller/privacy.html)
-· ❤️ [loyihani qo'llab-quvvatlash](https://github.com/sponsors/sunic007)
+[Yangiliklar](CHANGELOG.md) · [Barcha versiyalar](https://github.com/sunic007/tvinstaller/releases) · [Maxfiylik](https://sunic007.github.io/tvinstaller/privacy.html) · ❤️ [Qo'llab-quvvatlash](https://github.com/sponsors/sunic007)
 
-> Ilova **o'zbek, rus va ingliz** tillarida ishlaydi: telefon tiliga moslashadi, tilni Sozlamalar → Язык · Language ·
-> Til bo'limida o'zgartirish mumkin.
+[English](README.md) · [Русский](README.ru.md) · **O'zbekcha**
+
+</div>
 
 ## Qanday ishlaydi
 
-<p align="center"><img src="docs/demo/demo-uz.gif" width="300" alt="Kirish, video qo'llanma, televizorni ulash va ilovani o'rnatish"></p>
+<table>
+<tr>
+<td width="300" align="center" valign="top"><img src="../docs/demo/demo-uz.gif" width="280" alt="Kirish, video qo'llanma, televizorni ulash va ilovani o'rnatish"></td>
+<td valign="top">
+
+<table>
+<tr><td width="44" align="center">📲</td><td><b>1. Ilovani o'rnating</b><br><b>SunicTvInstaller.apk</b>ni yuklab oling va Android telefonda oching.</td></tr>
+<tr><td width="44" align="center">🔑</td><td><b>2. Samsung hisobiga kiring</b><br>Bir marta. Televizor uchun sertifikatni Samsung o'zi beradi.</td></tr>
+<tr><td width="44" align="center">📺</td><td><b>3. Televizorni tayyorlang</b><br>Dasturchi rejimini telefon manzili bilan yoqing — ilovada 2 daqiqalik video bor.</td></tr>
+<tr><td width="44" align="center">🔍</td><td><b>4. Ulaning</b><br>Ilova televizorni Wi‑Fi tarmog'ingizda o'zi topadi.</td></tr>
+<tr><td width="44" align="center">✅</td><td><b>5. O'rnating</b><br>Katalogdan (40+) ilovani tanlang va <b>O'rnatish</b>ni bosing.</td></tr>
+</table>
+
+Interfeys <b>o'zbek, rus va ingliz</b> tillarida — telefon tiliga moslashadi.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="docs/screenshots/uz/01.png" width="30%">
-  <img src="docs/screenshots/uz/02.png" width="30%">
-  <img src="docs/screenshots/uz/03.png" width="30%">
+  <img src="../docs/screenshots/uz/01.png" width="30%">
+  <img src="../docs/screenshots/uz/02.png" width="30%">
+  <img src="../docs/screenshots/uz/03.png" width="30%">
 </p>
 <details>
 <summary>Ko'proq skrinshotlar</summary>
 
 <p align="center">
-  <img src="docs/screenshots/uz/04.png" width="30%">
-  <img src="docs/screenshots/uz/05.png" width="30%">
-  <img src="docs/screenshots/uz/06.png" width="30%">
+  <img src="../docs/screenshots/uz/04.png" width="30%">
+  <img src="../docs/screenshots/uz/05.png" width="30%">
+  <img src="../docs/screenshots/uz/06.png" width="30%">
 </p>
 <p align="center">
-  <img src="docs/screenshots/uz/07.png" width="30%">
-  <img src="docs/screenshots/uz/08.png" width="30%">
-  <img src="docs/screenshots/uz/09.png" width="30%">
+  <img src="../docs/screenshots/uz/07.png" width="30%">
+  <img src="../docs/screenshots/uz/08.png" width="30%">
+  <img src="../docs/screenshots/uz/09.png" width="30%">
 </p>
 </details>
 
@@ -68,7 +84,7 @@ imzolaydi va o'rnatadi.
 <tr>
 <td valign="top" width="260">
 
-<p align="center"><a href="https://youtu.be/AB0fsIuFSII"><img src="docs/video/thumbnails/thumbnail-uz.jpg" width="220" alt="O'zbekcha"></a></p>
+<p align="center"><a href="https://youtu.be/AB0fsIuFSII"><img src="../docs/video/thumbnails/thumbnail-uz.jpg" width="220" alt="O'zbekcha"></a></p>
 
 </td>
 <td valign="top">

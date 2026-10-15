@@ -1,42 +1,59 @@
+<div align="center">
+
+<img src="../docs/icon.png" width="96" alt="TV Installer">
+
+# TV Installer
+
+Установка приложений на <b>Samsung Smart TV</b> прямо с телефона — без компьютера и Tizen Studio
+
+[![Release](https://img.shields.io/github/v/release/sunic007/tvinstaller?label=release&color=3d8bff)](https://github.com/sunic007/tvinstaller/releases/latest) [![Downloads](https://img.shields.io/github/downloads/sunic007/tvinstaller/total?color=2ea043)](https://github.com/sunic007/tvinstaller/releases) ![Android](https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white) ![Tizen TV](https://img.shields.io/badge/Tizen-TV-1428a0)
+
+<a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="https://img.shields.io/badge/Скачать-SunicTvInstaller.apk-3d8bff?style=for-the-badge&logo=android&logoColor=white" alt="Скачать SunicTvInstaller.apk"></a>
+
+[Что нового](CHANGELOG.md) · [Все версии](https://github.com/sunic007/tvinstaller/releases) · [Конфиденциальность](https://sunic007.github.io/tvinstaller/privacy.html) · ❤️ [Поддержать](https://github.com/sponsors/sunic007)
+
 [English](README.md) · **Русский** · [O'zbekcha](README.uz.md)
 
-# TV Installer — установка приложений на Samsung Smart TV с телефона
-
-[![Release](https://img.shields.io/github/v/release/sunic007/tvinstaller?label=release&color=3d8bff)](https://github.com/sunic007/tvinstaller/releases/latest) [![Downloads](https://img.shields.io/github/downloads/sunic007/tvinstaller/total?color=2ea043)](https://github.com/sunic007/tvinstaller/releases) ![Android](https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white) ![Tizen TV](https://img.shields.io/badge/Tizen-TV-1428a0) ![Languages](https://img.shields.io/badge/UI-English%20%7C%20Русский%20%7C%20O'zbekcha-8a63d2)
-
-Android-приложение для установки приложений `.wgt` на телевизоры **Samsung (Tizen)** прямо с телефона — без компьютера
-и Tizen Studio. Подписывает пакет само и ставит его на ТВ по Wi-Fi.
-
-**⬇️ [Скачать SunicTvInstaller.apk](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)** — последняя версия
-· все версии — [Releases](https://github.com/sunic007/tvinstaller/releases)
-· что нового — [CHANGELOG.md](CHANGELOG.md)
-· [политика конфиденциальности](https://sunic007.github.io/tvinstaller/privacy.html)
-· ❤️ [поддержать проект](https://github.com/sponsors/sunic007)
-
-Главное приложение в каталоге — **[Lampa для Samsung](https://github.com/sunic007/lampa-samsung)**: TV Installer
-ставит её последнюю версию прямо из релизов GitHub, дальше она обновляется на телевизоре сама.
+</div>
 
 ## Как это работает
 
-<p align="center"><img src="docs/demo/demo-ru.gif" width="300" alt="Вход, видеоинструкция, подключение телевизора и установка приложения"></p>
+<table>
+<tr>
+<td width="300" align="center" valign="top"><img src="../docs/demo/demo-ru.gif" width="280" alt="Вход, видеоинструкция, подключение телевизора и установка приложения"></td>
+<td valign="top">
+
+<table>
+<tr><td width="44" align="center">📲</td><td><b>1. Установите приложение</b><br>Скачайте <b>SunicTvInstaller.apk</b> и откройте его на Android-телефоне.</td></tr>
+<tr><td width="44" align="center">🔑</td><td><b>2. Войдите в аккаунт Samsung</b><br>Один раз. Сертификат для телевизора Samsung выдаст сам.</td></tr>
+<tr><td width="44" align="center">📺</td><td><b>3. Подготовьте телевизор</b><br>Включите режим разработчика с адресом телефона — в приложении есть видео на 2 минуты.</td></tr>
+<tr><td width="44" align="center">🔍</td><td><b>4. Подключитесь</b><br>Приложение само найдёт телевизор в вашей сети Wi‑Fi.</td></tr>
+<tr><td width="44" align="center">✅</td><td><b>5. Установите</b><br>Выберите приложение из каталога (40+) и нажмите <b>Установить</b>.</td></tr>
+</table>
+
+Интерфейс на <b>русском, английском и узбекском</b> — по языку телефона.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="docs/screenshots/01.png" width="30%">
-  <img src="docs/screenshots/02.png" width="30%">
-  <img src="docs/screenshots/03.png" width="30%">
+  <img src="../docs/screenshots/01.png" width="30%">
+  <img src="../docs/screenshots/02.png" width="30%">
+  <img src="../docs/screenshots/03.png" width="30%">
 </p>
 <details>
 <summary>Ещё скриншоты</summary>
 
 <p align="center">
-  <img src="docs/screenshots/04.png" width="30%">
-  <img src="docs/screenshots/05.png" width="30%">
-  <img src="docs/screenshots/06.png" width="30%">
+  <img src="../docs/screenshots/04.png" width="30%">
+  <img src="../docs/screenshots/05.png" width="30%">
+  <img src="../docs/screenshots/06.png" width="30%">
 </p>
 <p align="center">
-  <img src="docs/screenshots/07.png" width="30%">
-  <img src="docs/screenshots/08.png" width="30%">
-  <img src="docs/screenshots/09.png" width="30%">
+  <img src="../docs/screenshots/07.png" width="30%">
+  <img src="../docs/screenshots/08.png" width="30%">
+  <img src="../docs/screenshots/09.png" width="30%">
 </p>
 </details>
 
@@ -69,7 +86,7 @@ Android-приложение для установки приложений `.wg
 <tr>
 <td valign="top" width="260">
 
-<p align="center"><a href="https://youtu.be/U4VGa0fGYUI"><img src="docs/video/thumbnails/thumbnail-ru.jpg" width="220" alt="Русский"></a></p>
+<p align="center"><a href="https://youtu.be/U4VGa0fGYUI"><img src="../docs/video/thumbnails/thumbnail-ru.jpg" width="220" alt="Русский"></a></p>
 
 </td>
 <td valign="top">

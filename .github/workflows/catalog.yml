@@ -28,7 +28,7 @@ jobs:
       - name: Update to the latest releases
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python tools/update_catalog.py docs/catalog.json
+        run: python .github/scripts/update_catalog.py docs/catalog.json
 
       - name: Check the file still parses
         run: python -c "import json; d=json.load(open('docs/catalog.json', encoding='utf-8')); assert len(d['services']) > 50"

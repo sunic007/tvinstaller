@@ -13,7 +13,7 @@ without a digest is skipped and the entry keeps its previous, verified build.
 Entries are never added or removed here - only refreshed. Everything else
 (title, description, category, package id, icon) stays as it was.
 
-Usage: GITHUB_TOKEN=... python tools/update_catalog.py [docs/catalog.json]
+Usage: GITHUB_TOKEN=... python .github/scripts/update_catalog.py [docs/catalog.json]
 """
 import json
 import os

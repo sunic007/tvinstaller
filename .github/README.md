@@ -1,41 +1,59 @@
+<div align="center">
+
+<img src="../docs/icon.png" width="96" alt="TV Installer">
+
+# TV Installer
+
+Install apps on <b>Samsung Smart TV</b> straight from your phone — no PC, no Tizen Studio
+
+[![Release](https://img.shields.io/github/v/release/sunic007/tvinstaller?label=release&color=3d8bff)](https://github.com/sunic007/tvinstaller/releases/latest) [![Downloads](https://img.shields.io/github/downloads/sunic007/tvinstaller/total?color=2ea043)](https://github.com/sunic007/tvinstaller/releases) ![Android](https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white) ![Tizen TV](https://img.shields.io/badge/Tizen-TV-1428a0)
+
+<a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="https://img.shields.io/badge/Download-SunicTvInstaller.apk-3d8bff?style=for-the-badge&logo=android&logoColor=white" alt="Download SunicTvInstaller.apk"></a>
+
+[What's new](CHANGELOG.md) · [All versions](https://github.com/sunic007/tvinstaller/releases) · [Privacy](https://sunic007.github.io/tvinstaller/privacy.html) · ❤️ [Sponsor](https://github.com/sponsors/sunic007)
+
 **English** · [Русский](README.ru.md) · [O'zbekcha](README.uz.md)
 
-# TV Installer — install apps on Samsung Smart TV from your phone
-
-[![Release](https://img.shields.io/github/v/release/sunic007/tvinstaller?label=release&color=3d8bff)](https://github.com/sunic007/tvinstaller/releases/latest) [![Downloads](https://img.shields.io/github/downloads/sunic007/tvinstaller/total?color=2ea043)](https://github.com/sunic007/tvinstaller/releases) ![Android](https://img.shields.io/badge/Android-7.0%2B-3ddc84?logo=android&logoColor=white) ![Tizen TV](https://img.shields.io/badge/Tizen-TV-1428a0) ![Languages](https://img.shields.io/badge/UI-English%20%7C%20Русский%20%7C%20O'zbekcha-8a63d2)
-
-An Android app that installs `.wgt` apps on **Samsung (Tizen)** Smart TVs straight from your phone — no PC, no
-Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for it, signs the package and installs it.
-
-**⬇️ [Download SunicTvInstaller.apk](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)** — latest version
-· all versions — [Releases](https://github.com/sunic007/tvinstaller/releases)
-· what's new — [CHANGELOG.md](CHANGELOG.md)
-· [privacy policy](https://sunic007.github.io/tvinstaller/privacy.html)
-· ❤️ [sponsor the project](https://github.com/sponsors/sunic007)
-
-> The app speaks **English, Russian and Uzbek (O'zbekcha)** — it follows your phone language; switch in Settings → Language.
+</div>
 
 ## How it works
 
-<p align="center"><img src="docs/demo/demo-en.gif" width="300" alt="Sign in, watch the guide, connect the TV and install an app"></p>
+<table>
+<tr>
+<td width="300" align="center" valign="top"><img src="../docs/demo/demo-en.gif" width="280" alt="Sign in, watch the guide, connect the TV and install an app"></td>
+<td valign="top">
+
+<table>
+<tr><td width="44" align="center">📲</td><td><b>1. Install the app</b><br>Download <b>SunicTvInstaller.apk</b> and open it on your Android phone.</td></tr>
+<tr><td width="44" align="center">🔑</td><td><b>2. Sign in to Samsung</b><br>Once. The certificate for your TV is issued by Samsung automatically.</td></tr>
+<tr><td width="44" align="center">📺</td><td><b>3. Prepare the TV</b><br>Turn on Developer Mode with your phone's address — a 2‑minute video guide is inside.</td></tr>
+<tr><td width="44" align="center">🔍</td><td><b>4. Connect</b><br>The app finds the TV on your Wi‑Fi by itself.</td></tr>
+<tr><td width="44" align="center">✅</td><td><b>5. Install</b><br>Pick an app from the catalog of 40+ and tap <b>Install</b>.</td></tr>
+</table>
+
+The app speaks <b>English, Russian and Uzbek</b> and follows your phone language.
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <img src="docs/screenshots/en/01.png" width="30%">
-  <img src="docs/screenshots/en/02.png" width="30%">
-  <img src="docs/screenshots/en/03.png" width="30%">
+  <img src="../docs/screenshots/en/01.png" width="30%">
+  <img src="../docs/screenshots/en/02.png" width="30%">
+  <img src="../docs/screenshots/en/03.png" width="30%">
 </p>
 <details>
 <summary>More screenshots</summary>
 
 <p align="center">
-  <img src="docs/screenshots/en/04.png" width="30%">
-  <img src="docs/screenshots/en/05.png" width="30%">
-  <img src="docs/screenshots/en/06.png" width="30%">
+  <img src="../docs/screenshots/en/04.png" width="30%">
+  <img src="../docs/screenshots/en/05.png" width="30%">
+  <img src="../docs/screenshots/en/06.png" width="30%">
 </p>
 <p align="center">
-  <img src="docs/screenshots/en/07.png" width="30%">
-  <img src="docs/screenshots/en/08.png" width="30%">
-  <img src="docs/screenshots/en/09.png" width="30%">
+  <img src="../docs/screenshots/en/07.png" width="30%">
+  <img src="../docs/screenshots/en/08.png" width="30%">
+  <img src="../docs/screenshots/en/09.png" width="30%">
 </p>
 </details>
 
@@ -66,7 +84,7 @@ Tizen Studio. It finds the TV on your Wi‑Fi, gets the Samsung certificate for 
 <tr>
 <td valign="top" width="260">
 
-<p align="center"><a href="https://youtu.be/L6nK4SBWKP0"><img src="docs/video/thumbnails/thumbnail-en.jpg" width="220" alt="English"></a></p>
+<p align="center"><a href="https://youtu.be/L6nK4SBWKP0"><img src="../docs/video/thumbnails/thumbnail-en.jpg" width="220" alt="English"></a></p>
 
 </td>
 <td valign="top">
