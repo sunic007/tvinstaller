@@ -29,9 +29,9 @@
 </div>
 
 <p align="center">
-  <picture><img src="../docs/screenshots/uz/01.png" width="19.4%" alt=""></picture>
-  <picture><img src="../docs/screenshots/uz/02.png" width="19.4%" alt=""></picture>
-  <picture><img src="../docs/screenshots/uz/03.png" width="19.4%" alt=""></picture>
+  <picture><img src="../docs/screenshots/uz/01.png" width="19.4%" alt="Televizorni o'zi topadi — Bir xil Wi‑Fi tarmog'idagi Samsung Smart TV"></picture>
+  <picture><img src="../docs/screenshots/uz/02.png" width="19.4%" alt="Ulanmayaptimi? Yordam beramiz — Wi‑Fi, televizor va dasturchi rejimini tekshiradi"></picture>
+  <picture><img src="../docs/screenshots/uz/03.png" width="19.4%" alt="Sertifikat bir marta — Samsung hisobi orqali, muddatini eslatamiz"></picture>
   <a href="https://youtu.be/AB0fsIuFSII"><img src="../docs/screenshots/uz/10.gif" width="19.4%" alt="video"></a>
   <picture><img src="../docs/demo/demo-uz.gif" width="16.2%" alt="Kirish, video qo'llanma, televizorni ulash va ilovani o'rnatish"></picture>
 </p>
@@ -40,12 +40,12 @@
 <summary><b>Ko'proq skrinshotlar</b></summary>
 <br>
 <p align="center">
-  <picture><img src="../docs/screenshots/uz/04.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/uz/05.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/uz/06.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/uz/07.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/uz/08.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/uz/09.png" width="32%" alt=""></picture>
+  <picture><img src="../docs/screenshots/uz/04.png" width="32%" alt="40+ ilova bitta katalogda — Mediatekalar, pleyerlar, IPTV va tavsiyalar"></picture>
+  <picture><img src="../docs/screenshots/uz/05.png" width="32%" alt="Bir bosishda o'rnatish — Har bir qadam ko'rinadi — «O'rnatildi»gacha"></picture>
+  <picture><img src="../docs/screenshots/uz/06.png" width="32%" alt="Ilovalaringiz qo'l ostida — Ochish, o'chirish va «Hammasini yangilash»"></picture>
+  <picture><img src="../docs/screenshots/uz/07.png" width="32%" alt="Pult telefoningizda — Televizorni telefondan yoqish ham mumkin"></picture>
+  <picture><img src="../docs/screenshots/uz/08.png" width="32%" alt="Lampa — doim yangi — Televizorda ishga tushganda o'zi yangilanadi"></picture>
+  <picture><img src="../docs/screenshots/uz/09.png" width="32%" alt="Endi O'zbekcha ham — Русский, English va O'zbekcha — tanlang"></picture>
 </p>
 </details>
 
@@ -123,4 +123,4 @@ TV Installer bepul. Foydali bo'lsa, rivojlanishini <a href="https://github.com/s
 
 ---
 
-<div align="justify"><sub>TV Installer — mustaqil loyiha, Samsung bilan bog'liq emas va u tomonidan tasdiqlanmagan. Samsung va Tizen — Samsung Electronics'ning savdo belgilari. Ilova sertifikatni Samsung'ning Tizen Studio'si kabi usulda oladi: siz o'z Samsung hisobingizga kirasiz, sertifikatni televizoringiz uchun Samsung beradi. O'rnatilgan ilovalar uchun foydalanuvchi javobgar; ilovaning o'zi hech qanday media kontentni saqlamaydi va taqdim etmaydi.</sub></div>
+<div align="justify"><sub>TV Installer — mustaqil loyiha, Samsung bilan bog'liq emas va u tomonidan tasdiqlanmagan. Samsung va Tizen — Samsung Electronics'ning savdo belgilari. Katalogdagi ilovalar nomlari va belgilari ularning egalariga tegishli; ilovalarni mustaqil dasturchilar yaratgan. Ilova sertifikatni Samsung'ning Tizen Studio'si kabi usulda oladi: siz o'z Samsung hisobingizga kirasiz, sertifikatni televizoringiz uchun Samsung beradi. O'rnatilgan ilovalar uchun foydalanuvchi javobgar; ilovaning o'zi hech qanday media kontentni saqlamaydi va taqdim etmaydi.</sub></div>

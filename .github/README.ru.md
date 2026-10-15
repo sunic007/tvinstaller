@@ -29,9 +29,9 @@
 </div>
 
 <p align="center">
-  <picture><img src="../docs/screenshots/01.png" width="19.4%" alt=""></picture>
-  <picture><img src="../docs/screenshots/02.png" width="19.4%" alt=""></picture>
-  <picture><img src="../docs/screenshots/03.png" width="19.4%" alt=""></picture>
+  <picture><img src="../docs/screenshots/01.png" width="19.4%" alt="Находит ваш телевизор сам — Samsung Smart TV в той же сети Wi‑Fi"></picture>
+  <picture><img src="../docs/screenshots/02.png" width="19.4%" alt="Не подключается? Подскажем — Проверит Wi‑Fi, телевизор и режим разработчика"></picture>
+  <picture><img src="../docs/screenshots/03.png" width="19.4%" alt="Сертификат один раз — Через аккаунт Samsung, о продлении напомним"></picture>
   <a href="https://youtu.be/U4VGa0fGYUI"><img src="../docs/screenshots/10.gif" width="19.4%" alt="video"></a>
   <picture><img src="../docs/demo/demo-ru.gif" width="16.2%" alt="Вход, видеоинструкция, подключение телевизора и установка приложения"></picture>
 </p>
@@ -40,12 +40,12 @@
 <summary><b>Ещё скриншоты</b></summary>
 <br>
 <p align="center">
-  <picture><img src="../docs/screenshots/04.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/05.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/06.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/07.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/08.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/09.png" width="32%" alt=""></picture>
+  <picture><img src="../docs/screenshots/04.png" width="32%" alt="Каталог из 40+ приложений — Медиатеки, плееры, IPTV и «Рекомендуем»"></picture>
+  <picture><img src="../docs/screenshots/05.png" width="32%" alt="Установка в одно касание — Каждый шаг виден — до «Установлено»"></picture>
+  <picture><img src="../docs/screenshots/06.png" width="32%" alt="Всё, что на ТВ, под рукой — Открыть, удалить и «Обновить всё» — в одном списке"></picture>
+  <picture><img src="../docs/screenshots/07.png" width="32%" alt="Пульт прямо в телефоне — И включение телевизора с телефона"></picture>
+  <picture><img src="../docs/screenshots/08.png" width="32%" alt="Lampa — всегда свежая — Обновляется сама при запуске на ТВ"></picture>
+  <picture><img src="../docs/screenshots/09.png" width="32%" alt="Теперь и O'zbekcha — Русский, English и O'zbekcha — на выбор"></picture>
 </p>
 </details>
 
@@ -123,4 +123,4 @@ TV Installer бесплатный. Если он вам помог, поддер
 
 ---
 
-<div align="justify"><sub>TV Installer — независимый проект, не связан с Samsung и не одобрен ею. Samsung и Tizen — товарные знаки Samsung Electronics. Приложение получает сертификат тем же способом, что и Tizen Studio от Samsung: вы входите в свой аккаунт Samsung, и сертификат для вашего телевизора выдаёт Samsung. За устанавливаемые приложения отвечает пользователь; само приложение не хранит и не предоставляет медиаконтент.</sub></div>
+<div align="justify"><sub>TV Installer — независимый проект, не связан с Samsung и не одобрен ею. Samsung и Tizen — товарные знаки Samsung Electronics. Названия и значки приложений в каталоге принадлежат их владельцам; сами приложения сделаны независимыми разработчиками. Приложение получает сертификат тем же способом, что и Tizen Studio от Samsung: вы входите в свой аккаунт Samsung, и сертификат для вашего телевизора выдаёт Samsung. За устанавливаемые приложения отвечает пользователь; само приложение не хранит и не предоставляет медиаконтент.</sub></div>

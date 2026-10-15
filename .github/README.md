@@ -29,9 +29,9 @@
 </div>
 
 <p align="center">
-  <picture><img src="../docs/screenshots/en/01.png" width="19.4%" alt=""></picture>
-  <picture><img src="../docs/screenshots/en/02.png" width="19.4%" alt=""></picture>
-  <picture><img src="../docs/screenshots/en/03.png" width="19.4%" alt=""></picture>
+  <picture><img src="../docs/screenshots/en/01.png" width="19.4%" alt="Finds your TV by itself — Samsung Smart TV on the same Wi‑Fi"></picture>
+  <picture><img src="../docs/screenshots/en/02.png" width="19.4%" alt="Can't connect? We'll help — Checks Wi‑Fi, the TV and Developer Mode"></picture>
+  <picture><img src="../docs/screenshots/en/03.png" width="19.4%" alt="Certificate just once — Via your Samsung account, with a renewal reminder"></picture>
   <a href="https://youtu.be/L6nK4SBWKP0"><img src="../docs/screenshots/en/10.gif" width="19.4%" alt="video"></a>
   <picture><img src="../docs/demo/demo-en.gif" width="16.2%" alt="Sign in, watch the guide, connect the TV and install an app"></picture>
 </p>
@@ -40,12 +40,12 @@
 <summary><b>More screenshots</b></summary>
 <br>
 <p align="center">
-  <picture><img src="../docs/screenshots/en/04.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/en/05.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/en/06.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/en/07.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/en/08.png" width="32%" alt=""></picture>
-  <picture><img src="../docs/screenshots/en/09.png" width="32%" alt=""></picture>
+  <picture><img src="../docs/screenshots/en/04.png" width="32%" alt="Catalog of 40+ TV apps — Media centers, players, IPTV and our picks"></picture>
+  <picture><img src="../docs/screenshots/en/05.png" width="32%" alt="Install in one tap — Every step is shown — right up to “Installed”"></picture>
+  <picture><img src="../docs/screenshots/en/06.png" width="32%" alt="Your TV apps at hand — Open, Remove and “Update all” in one list"></picture>
+  <picture><img src="../docs/screenshots/en/07.png" width="32%" alt="TV remote in your phone — And turn the TV on from the phone"></picture>
+  <picture><img src="../docs/screenshots/en/08.png" width="32%" alt="Lampa — always fresh — Updates itself when started on the TV"></picture>
+  <picture><img src="../docs/screenshots/en/09.png" width="32%" alt="Three languages — Русский, English and O'zbekcha"></picture>
 </p>
 </details>
 
@@ -123,4 +123,4 @@ TV Installer is free. If it helps you, you can support its development on <a hre
 
 ---
 
-<div align="justify"><sub>TV Installer is an independent project and is not affiliated with or endorsed by Samsung. Samsung and Tizen are trademarks of Samsung Electronics. The app uses the same certificate flow as Samsung's Tizen Studio: you sign in to your own Samsung account and Samsung issues the certificate for your TV. You are responsible for the apps you install; the app does not host or provide any media content.</sub></div>
+<div align="justify"><sub>TV Installer is an independent project and is not affiliated with or endorsed by Samsung. Samsung and Tizen are trademarks of Samsung Electronics. App names and icons in the catalog belong to their owners; the apps are made by independent developers. The app uses the same certificate flow as Samsung's Tizen Studio: you sign in to your own Samsung account and Samsung issues the certificate for your TV. You are responsible for the apps you install; the app does not host or provide any media content.</sub></div>
