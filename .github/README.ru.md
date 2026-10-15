@@ -26,9 +26,10 @@
 5. <b>Установите</b> — выберите приложение из каталога (40+) и нажмите <b>Установить</b>.
 
 <p>
-  <img src="../docs/screenshots/01.png" width="150" alt="">
-  <img src="../docs/screenshots/02.png" width="150" alt="">
-  <img src="../docs/screenshots/03.png" width="150" alt="">
+  <img src="../docs/screenshots/01.png" width="140" alt="">
+  <img src="../docs/screenshots/02.png" width="140" alt="">
+  <img src="../docs/screenshots/03.png" width="140" alt="">
+  <a href="https://youtu.be/U4VGa0fGYUI"><img src="../docs/screenshots/10.png" width="140" alt="video"></a>
 </p>
 
 <br clear="right">

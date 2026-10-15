@@ -26,9 +26,10 @@
 5. <b>O'rnating</b> — katalogdan (40+) ilovani tanlang va <b>O'rnatish</b>ni bosing.
 
 <p>
-  <img src="../docs/screenshots/uz/01.png" width="150" alt="">
-  <img src="../docs/screenshots/uz/02.png" width="150" alt="">
-  <img src="../docs/screenshots/uz/03.png" width="150" alt="">
+  <img src="../docs/screenshots/uz/01.png" width="140" alt="">
+  <img src="../docs/screenshots/uz/02.png" width="140" alt="">
+  <img src="../docs/screenshots/uz/03.png" width="140" alt="">
+  <a href="https://youtu.be/AB0fsIuFSII"><img src="../docs/screenshots/uz/10.png" width="140" alt="video"></a>
 </p>
 
 <br clear="right">

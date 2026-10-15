@@ -26,9 +26,10 @@
 5. <b>Install</b> — pick an app from the catalog of 40+ and tap <b>Install</b>.
 
 <p>
-  <img src="../docs/screenshots/en/01.png" width="150" alt="">
-  <img src="../docs/screenshots/en/02.png" width="150" alt="">
-  <img src="../docs/screenshots/en/03.png" width="150" alt="">
+  <img src="../docs/screenshots/en/01.png" width="140" alt="">
+  <img src="../docs/screenshots/en/02.png" width="140" alt="">
+  <img src="../docs/screenshots/en/03.png" width="140" alt="">
+  <a href="https://youtu.be/L6nK4SBWKP0"><img src="../docs/screenshots/en/10.png" width="140" alt="video"></a>
 </p>
 
 <br clear="right">
