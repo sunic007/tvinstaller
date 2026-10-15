@@ -9,9 +9,9 @@
 <a href="https://github.com/sunic007/tvinstaller/releases/latest"><img src="https://img.shields.io/github/v/release/sunic007/tvinstaller?style=flat-square&label=release&color=2f81f7" alt="release"></a>
 <a href="https://github.com/sunic007/tvinstaller/releases"><img src="https://img.shields.io/github/downloads/sunic007/tvinstaller/total?style=flat-square&color=2ea043" alt="downloads"></a>
 <img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+">
-<img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square&logo=samsung&logoColor=white" alt="Samsung Tizen TV">
+<img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV">
 
-<br><br>
+<br>
 
 <a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-ru.svg" height="56" alt="СКАЧАТЬ ДЛЯ ANDROID"></a>
 
@@ -33,7 +33,6 @@
 4. <b>Подключитесь</b> — приложение само найдёт телевизор в вашей сети Wi‑Fi.
 5. <b>Установите</b> — выберите приложение из каталога (40+) и нажмите <b>Установить</b>.
 
-> [!TIP]
 > **Режим разработчика на ТВ**<br>
 > <b>Apps</b> → <b>App Settings</b> → на пульте <code>1 2 3 4 5</code> → <b>Developer mode: On</b> → IP телефона (он есть в приложении) → <b>OK</b> → перезагрузите телевизор.
 

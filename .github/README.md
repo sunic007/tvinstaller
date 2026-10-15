@@ -9,9 +9,9 @@ Install apps on <b>Samsung Smart TV</b> straight from your Android phone.<br>No 
 <a href="https://github.com/sunic007/tvinstaller/releases/latest"><img src="https://img.shields.io/github/v/release/sunic007/tvinstaller?style=flat-square&label=release&color=2f81f7" alt="release"></a>
 <a href="https://github.com/sunic007/tvinstaller/releases"><img src="https://img.shields.io/github/downloads/sunic007/tvinstaller/total?style=flat-square&color=2ea043" alt="downloads"></a>
 <img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+">
-<img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square&logo=samsung&logoColor=white" alt="Samsung Tizen TV">
+<img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV">
 
-<br><br>
+<br>
 
 <a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-en.svg" height="56" alt="DOWNLOAD FOR ANDROID"></a>
 
@@ -33,7 +33,6 @@ Install apps on <b>Samsung Smart TV</b> straight from your Android phone.<br>No 
 4. <b>Connect</b> — the app finds the TV on your Wi‑Fi by itself.
 5. <b>Install</b> — pick an app from the catalog of 40+ and tap <b>Install</b>.
 
-> [!TIP]
 > **Developer Mode on the TV**<br>
 > <b>Apps</b> → <b>App Settings</b> → press <code>1 2 3 4 5</code> on the remote → <b>Developer mode: On</b> → enter the phone's IP (shown in the app) → <b>OK</b> → restart the TV.
 

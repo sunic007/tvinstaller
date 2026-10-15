@@ -9,9 +9,9 @@
 <a href="https://github.com/sunic007/tvinstaller/releases/latest"><img src="https://img.shields.io/github/v/release/sunic007/tvinstaller?style=flat-square&label=release&color=2f81f7" alt="release"></a>
 <a href="https://github.com/sunic007/tvinstaller/releases"><img src="https://img.shields.io/github/downloads/sunic007/tvinstaller/total?style=flat-square&color=2ea043" alt="downloads"></a>
 <img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+">
-<img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square&logo=samsung&logoColor=white" alt="Samsung Tizen TV">
+<img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV">
 
-<br><br>
+<br>
 
 <a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-uz.svg" height="56" alt="ANDROID UCHUN YUKLAB OLISH"></a>
 
@@ -33,7 +33,6 @@
 4. <b>Ulaning</b> — ilova televizorni Wi‑Fi tarmog'ingizda o'zi topadi.
 5. <b>O'rnating</b> — katalogdan (40+) ilovani tanlang va <b>O'rnatish</b>ni bosing.
 
-> [!TIP]
 > **Televizorda dasturchi rejimi**<br>
 > <b>Apps</b> → <b>App Settings</b> → pultda <code>1 2 3 4 5</code> → <b>Developer mode: On</b> → telefon IP manzili (ilovada ko'rsatilgan) → <b>OK</b> → televizorni qayta yoqing.
 
