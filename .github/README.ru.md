@@ -1,4 +1,4 @@
-<img src="../docs/logo.png" width="210" align="left" alt="TV Installer">
+<a href="#как-это-работает"><img src="../docs/logo.png" width="210" align="left" alt="TV Installer"></a>
 
 <p align="center">Установка приложений на <b>Samsung Smart TV</b> прямо с Android-телефона.<br>Без компьютера, Tizen Studio и проводов.</p>
 
@@ -17,7 +17,7 @@
 
 ## Как это работает
 
-<img src="../docs/demo/demo-ru.gif" width="238" align="right" alt="Вход, видеоинструкция, подключение телевизора и установка приложения">
+<a href="#как-это-работает"><img src="../docs/demo/demo-ru.gif" width="238" align="right" alt="Вход, видеоинструкция, подключение телевизора и установка приложения"></a>
 
 1. <b>Установите TV Installer</b> — скачайте APK по кнопке выше и откройте его на телефоне.
 2. <b>Войдите в аккаунт Samsung</b> — один раз. Сертификат для телевизора Samsung выдаст сам.
@@ -26,9 +26,9 @@
 5. <b>Установите</b> — выберите приложение из каталога (40+) и нажмите <b>Установить</b>.
 
 <p>
-  <img src="../docs/screenshots/01.png" width="140" alt="">
-  <img src="../docs/screenshots/02.png" width="140" alt="">
-  <img src="../docs/screenshots/03.png" width="140" alt="">
+  <a href="#как-это-работает"><img src="../docs/screenshots/01.png" width="140" alt=""></a>
+  <a href="#как-это-работает"><img src="../docs/screenshots/02.png" width="140" alt=""></a>
+  <a href="#как-это-работает"><img src="../docs/screenshots/03.png" width="140" alt=""></a>
   <a href="https://youtu.be/U4VGa0fGYUI"><img src="../docs/screenshots/10.png" width="140" alt="video"></a>
 </p>
 
@@ -38,12 +38,12 @@
 <summary><b>Ещё скриншоты</b></summary>
 <br>
 <p align="center">
-  <img src="../docs/screenshots/04.png" width="32%" alt="">
-  <img src="../docs/screenshots/05.png" width="32%" alt="">
-  <img src="../docs/screenshots/06.png" width="32%" alt="">
-  <img src="../docs/screenshots/07.png" width="32%" alt="">
-  <img src="../docs/screenshots/08.png" width="32%" alt="">
-  <img src="../docs/screenshots/09.png" width="32%" alt="">
+  <a href="#как-это-работает"><img src="../docs/screenshots/04.png" width="32%" alt=""></a>
+  <a href="#как-это-работает"><img src="../docs/screenshots/05.png" width="32%" alt=""></a>
+  <a href="#как-это-работает"><img src="../docs/screenshots/06.png" width="32%" alt=""></a>
+  <a href="#как-это-работает"><img src="../docs/screenshots/07.png" width="32%" alt=""></a>
+  <a href="#как-это-работает"><img src="../docs/screenshots/08.png" width="32%" alt=""></a>
+  <a href="#как-это-работает"><img src="../docs/screenshots/09.png" width="32%" alt=""></a>
 </p>
 </details>
 

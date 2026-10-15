@@ -1,4 +1,4 @@
-<img src="../docs/logo.png" width="210" align="left" alt="TV Installer">
+<a href="#how-it-works"><img src="../docs/logo.png" width="210" align="left" alt="TV Installer"></a>
 
 <p align="center">Install apps on <b>Samsung Smart TV</b> straight from your Android phone.<br>No PC, no Tizen Studio, no cables.</p>
 
@@ -17,7 +17,7 @@
 
 ## How it works
 
-<img src="../docs/demo/demo-en.gif" width="238" align="right" alt="Sign in, watch the guide, connect the TV and install an app">
+<a href="#how-it-works"><img src="../docs/demo/demo-en.gif" width="213" align="right" alt="Sign in, watch the guide, connect the TV and install an app"></a>
 
 1. <b>Install TV Installer</b> — download the APK above and open it on your phone.
 2. <b>Sign in to Samsung</b> — once. Samsung issues the certificate for your TV automatically.
@@ -26,9 +26,9 @@
 5. <b>Install</b> — pick an app from the catalog of 40+ and tap <b>Install</b>.
 
 <p>
-  <img src="../docs/screenshots/en/01.png" width="140" alt="">
-  <img src="../docs/screenshots/en/02.png" width="140" alt="">
-  <img src="../docs/screenshots/en/03.png" width="140" alt="">
+  <a href="#how-it-works"><img src="../docs/screenshots/en/01.png" width="140" alt=""></a>
+  <a href="#how-it-works"><img src="../docs/screenshots/en/02.png" width="140" alt=""></a>
+  <a href="#how-it-works"><img src="../docs/screenshots/en/03.png" width="140" alt=""></a>
   <a href="https://youtu.be/L6nK4SBWKP0"><img src="../docs/screenshots/en/10.png" width="140" alt="video"></a>
 </p>
 
@@ -38,12 +38,12 @@
 <summary><b>More screenshots</b></summary>
 <br>
 <p align="center">
-  <img src="../docs/screenshots/en/04.png" width="32%" alt="">
-  <img src="../docs/screenshots/en/05.png" width="32%" alt="">
-  <img src="../docs/screenshots/en/06.png" width="32%" alt="">
-  <img src="../docs/screenshots/en/07.png" width="32%" alt="">
-  <img src="../docs/screenshots/en/08.png" width="32%" alt="">
-  <img src="../docs/screenshots/en/09.png" width="32%" alt="">
+  <a href="#how-it-works"><img src="../docs/screenshots/en/04.png" width="32%" alt=""></a>
+  <a href="#how-it-works"><img src="../docs/screenshots/en/05.png" width="32%" alt=""></a>
+  <a href="#how-it-works"><img src="../docs/screenshots/en/06.png" width="32%" alt=""></a>
+  <a href="#how-it-works"><img src="../docs/screenshots/en/07.png" width="32%" alt=""></a>
+  <a href="#how-it-works"><img src="../docs/screenshots/en/08.png" width="32%" alt=""></a>
+  <a href="#how-it-works"><img src="../docs/screenshots/en/09.png" width="32%" alt=""></a>
 </p>
 </details>
 

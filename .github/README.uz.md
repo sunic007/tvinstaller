@@ -1,4 +1,4 @@
-<img src="../docs/logo.png" width="210" align="left" alt="TV Installer">
+<a href="#qanday-ishlaydi"><img src="../docs/logo.png" width="210" align="left" alt="TV Installer"></a>
 
 <p align="center"><b>Samsung Smart TV</b>ga ilovalarni to'g'ridan-to'g'ri Android telefondan o'rnating.<br>Kompyuter, Tizen Studio va simlarsiz.</p>
 
@@ -17,7 +17,7 @@
 
 ## Qanday ishlaydi
 
-<img src="../docs/demo/demo-uz.gif" width="238" align="right" alt="Kirish, video qo'llanma, televizorni ulash va ilovani o'rnatish">
+<a href="#qanday-ishlaydi"><img src="../docs/demo/demo-uz.gif" width="224" align="right" alt="Kirish, video qo'llanma, televizorni ulash va ilovani o'rnatish"></a>
 
 1. <b>TV Installer'ni o'rnating</b> — yuqoridagi tugma orqali APK'ni yuklab oling va telefonda oching.
 2. <b>Samsung hisobiga kiring</b> — bir marta. Televizor uchun sertifikatni Samsung o'zi beradi.
@@ -26,9 +26,9 @@
 5. <b>O'rnating</b> — katalogdan (40+) ilovani tanlang va <b>O'rnatish</b>ni bosing.
 
 <p>
-  <img src="../docs/screenshots/uz/01.png" width="140" alt="">
-  <img src="../docs/screenshots/uz/02.png" width="140" alt="">
-  <img src="../docs/screenshots/uz/03.png" width="140" alt="">
+  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/01.png" width="140" alt=""></a>
+  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/02.png" width="140" alt=""></a>
+  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/03.png" width="140" alt=""></a>
   <a href="https://youtu.be/AB0fsIuFSII"><img src="../docs/screenshots/uz/10.png" width="140" alt="video"></a>
 </p>
 
@@ -38,12 +38,12 @@
 <summary><b>Ko'proq skrinshotlar</b></summary>
 <br>
 <p align="center">
-  <img src="../docs/screenshots/uz/04.png" width="32%" alt="">
-  <img src="../docs/screenshots/uz/05.png" width="32%" alt="">
-  <img src="../docs/screenshots/uz/06.png" width="32%" alt="">
-  <img src="../docs/screenshots/uz/07.png" width="32%" alt="">
-  <img src="../docs/screenshots/uz/08.png" width="32%" alt="">
-  <img src="../docs/screenshots/uz/09.png" width="32%" alt="">
+  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/04.png" width="32%" alt=""></a>
+  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/05.png" width="32%" alt=""></a>
+  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/06.png" width="32%" alt=""></a>
+  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/07.png" width="32%" alt=""></a>
+  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/08.png" width="32%" alt=""></a>
+  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/09.png" width="32%" alt=""></a>
 </p>
 </details>
 
