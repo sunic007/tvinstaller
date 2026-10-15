@@ -35,9 +35,21 @@ Install apps on <b>Samsung Smart TV</b> straight from your phone — no PC, no T
 
 The app speaks <b>English, Russian and Uzbek</b> and follows your phone language.
 
-<a href="https://youtu.be/L6nK4SBWKP0"><img src="../docs/video/thumbnails/thumbnail-en.jpg" width="300" alt="video"></a><br>
-▶ <b>Developer Mode on the TV</b> — 1‑minute video<br>
-<sub>Apps → App Settings → <code>1 2 3 4 5</code> → Developer mode <b>On</b> → phone's IP → <b>OK</b> → restart the TV</sub>
+<a href="https://youtu.be/L6nK4SBWKP0"><img src="../docs/video/thumbnails/thumbnail-en.jpg" width="240" align="left" alt="video"></a>
+
+▶ <b>Developer Mode on the TV</b> — 1‑minute video
+
+<sub>
+Apps<br>
+→ App Settings<br>
+→ <code>1 2 3 4 5</code><br>
+→ Developer mode <b>On</b><br>
+→ phone's IP<br>
+→ <b>OK</b><br>
+→ restart the TV
+</sub>
+
+<br clear="left">
 
 </td>
 </tr>
