@@ -11,7 +11,9 @@
 
 <p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-uz.svg" height="52" alt="ANDROID UCHUN YUKLAB OLISH"></a></p>
 
-<p align="center"><sub>Bepul · Android 7.0+ · English, Русский, O'zbekcha · <a href="CHANGELOG.md">Yangiliklar</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Maxfiylik</a></sub><br><sub><a href="README.md">English</a> · <a href="README.ru.md">Русский</a> · <b>O'zbekcha</b></sub></p>
+<p align="center"><sub>Bepul · Android 7.0+ · English, Русский, O'zbekcha · <a href="CHANGELOG.md">Yangiliklar</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Maxfiylik</a></sub></p>
+
+<p align="center"><a href="README.md"><img src="https://flagcdn.com/24x18/gb.png" width="24" height="18" alt="English"> English</a> &nbsp;·&nbsp; <a href="README.ru.md"><img src="https://flagcdn.com/24x18/ru.png" width="24" height="18" alt="Русский"> Русский</a> &nbsp;·&nbsp; <img src="https://flagcdn.com/24x18/uz.png" width="24" height="18" alt="O'zbekcha"> <b>O'zbekcha</b></p>
 
 <br clear="left">
 
