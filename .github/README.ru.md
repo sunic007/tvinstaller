@@ -17,22 +17,19 @@
 
 ## Как это работает
 
-<a href="#как-это-работает"><img src="../docs/demo/demo-ru.gif" width="238" align="right" alt="Вход, видеоинструкция, подключение телевизора и установка приложения"></a>
-
 1. <b>Установите TV Installer</b> — скачайте APK по кнопке выше и откройте его на телефоне.
 2. <b>Войдите в аккаунт Samsung</b> — один раз. Сертификат для телевизора Samsung выдаст сам.
 3. <b>Подготовьте телевизор</b> — включите режим разработчика с адресом телефона. <a href="https://youtu.be/U4VGa0fGYUI">Видео на 1 минуту</a>.
 4. <b>Подключитесь</b> — приложение само найдёт телевизор в вашей сети Wi‑Fi.
 5. <b>Установите</b> — выберите приложение из каталога (40+) и нажмите <b>Установить</b>.
 
-<p>
-  <a href="#как-это-работает"><img src="../docs/screenshots/01.png" width="140" alt=""></a>
-  <a href="#как-это-работает"><img src="../docs/screenshots/02.png" width="140" alt=""></a>
-  <a href="#как-это-работает"><img src="../docs/screenshots/03.png" width="140" alt=""></a>
-  <a href="https://youtu.be/U4VGa0fGYUI"><img src="../docs/screenshots/10.gif" width="140" alt="video"></a>
+<p align="center">
+  <a href="#как-это-работает"><img src="../docs/screenshots/01.png" width="19.4%" alt=""></a>
+  <a href="#как-это-работает"><img src="../docs/screenshots/02.png" width="19.4%" alt=""></a>
+  <a href="#как-это-работает"><img src="../docs/screenshots/03.png" width="19.4%" alt=""></a>
+  <a href="https://youtu.be/U4VGa0fGYUI"><img src="../docs/screenshots/10.gif" width="19.4%" alt="video"></a>
+  <a href="#как-это-работает"><img src="../docs/demo/demo-ru.gif" width="16.2%" alt="Вход, видеоинструкция, подключение телевизора и установка приложения"></a>
 </p>
-
-<br clear="right">
 
 <details>
 <summary><b>Ещё скриншоты</b></summary>

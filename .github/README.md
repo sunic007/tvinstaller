@@ -17,22 +17,19 @@
 
 ## How it works
 
-<a href="#how-it-works"><img src="../docs/demo/demo-en.gif" width="213" align="right" alt="Sign in, watch the guide, connect the TV and install an app"></a>
-
 1. <b>Install TV Installer</b> — download the APK above and open it on your phone.
 2. <b>Sign in to Samsung</b> — once. Samsung issues the certificate for your TV automatically.
 3. <b>Prepare the TV</b> — turn on Developer Mode with your phone's address. <a href="https://youtu.be/L6nK4SBWKP0">Watch the 1‑minute guide</a>.
 4. <b>Connect</b> — the app finds the TV on your Wi‑Fi by itself.
 5. <b>Install</b> — pick an app from the catalog of 40+ and tap <b>Install</b>.
 
-<p>
-  <a href="#how-it-works"><img src="../docs/screenshots/en/01.png" width="140" alt=""></a>
-  <a href="#how-it-works"><img src="../docs/screenshots/en/02.png" width="140" alt=""></a>
-  <a href="#how-it-works"><img src="../docs/screenshots/en/03.png" width="140" alt=""></a>
-  <a href="https://youtu.be/L6nK4SBWKP0"><img src="../docs/screenshots/en/10.gif" width="140" alt="video"></a>
+<p align="center">
+  <a href="#how-it-works"><img src="../docs/screenshots/en/01.png" width="19.4%" alt=""></a>
+  <a href="#how-it-works"><img src="../docs/screenshots/en/02.png" width="19.4%" alt=""></a>
+  <a href="#how-it-works"><img src="../docs/screenshots/en/03.png" width="19.4%" alt=""></a>
+  <a href="https://youtu.be/L6nK4SBWKP0"><img src="../docs/screenshots/en/10.gif" width="19.4%" alt="video"></a>
+  <a href="#how-it-works"><img src="../docs/demo/demo-en.gif" width="16.2%" alt="Sign in, watch the guide, connect the TV and install an app"></a>
 </p>
-
-<br clear="right">
 
 <details>
 <summary><b>More screenshots</b></summary>

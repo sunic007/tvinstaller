@@ -17,22 +17,19 @@
 
 ## Qanday ishlaydi
 
-<a href="#qanday-ishlaydi"><img src="../docs/demo/demo-uz.gif" width="224" align="right" alt="Kirish, video qo'llanma, televizorni ulash va ilovani o'rnatish"></a>
-
 1. <b>TV Installer'ni o'rnating</b> — yuqoridagi tugma orqali APK'ni yuklab oling va telefonda oching.
 2. <b>Samsung hisobiga kiring</b> — bir marta. Televizor uchun sertifikatni Samsung o'zi beradi.
 3. <b>Televizorni tayyorlang</b> — dasturchi rejimini telefon manzili bilan yoqing. <a href="https://youtu.be/AB0fsIuFSII">1 daqiqalik video</a>.
 4. <b>Ulaning</b> — ilova televizorni Wi‑Fi tarmog'ingizda o'zi topadi.
 5. <b>O'rnating</b> — katalogdan (40+) ilovani tanlang va <b>O'rnatish</b>ni bosing.
 
-<p>
-  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/01.png" width="140" alt=""></a>
-  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/02.png" width="140" alt=""></a>
-  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/03.png" width="140" alt=""></a>
-  <a href="https://youtu.be/AB0fsIuFSII"><img src="../docs/screenshots/uz/10.gif" width="140" alt="video"></a>
+<p align="center">
+  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/01.png" width="19.4%" alt=""></a>
+  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/02.png" width="19.4%" alt=""></a>
+  <a href="#qanday-ishlaydi"><img src="../docs/screenshots/uz/03.png" width="19.4%" alt=""></a>
+  <a href="https://youtu.be/AB0fsIuFSII"><img src="../docs/screenshots/uz/10.gif" width="19.4%" alt="video"></a>
+  <a href="#qanday-ishlaydi"><img src="../docs/demo/demo-uz.gif" width="16.2%" alt="Kirish, video qo'llanma, televizorni ulash va ilovani o'rnatish"></a>
 </p>
-
-<br clear="right">
 
 <details>
 <summary><b>Ko'proq skrinshotlar</b></summary>
