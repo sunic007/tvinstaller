@@ -28,15 +28,13 @@
 > **Режим разработчика на ТВ**<br>
 > <b>Apps</b> → <b>App Settings</b> → на пульте <code>1 2 3 4 5</code> → <b>Developer mode: On</b> → IP телефона (он есть в приложении) → <b>OK</b> → перезагрузите телевизор.
 
-<br clear="right">
-
-## Скриншоты
-
-<p align="center">
-  <img src="../docs/screenshots/01.png" width="32%" alt="">
-  <img src="../docs/screenshots/02.png" width="32%" alt="">
-  <img src="../docs/screenshots/03.png" width="32%" alt="">
+<p>
+  <img src="../docs/screenshots/01.png" width="150" alt="">
+  <img src="../docs/screenshots/02.png" width="150" alt="">
+  <img src="../docs/screenshots/03.png" width="150" alt="">
 </p>
+
+<br clear="right">
 
 <details>
 <summary><b>Ещё скриншоты</b></summary>

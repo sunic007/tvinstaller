@@ -28,15 +28,13 @@
 > **Developer Mode on the TV**<br>
 > <b>Apps</b> → <b>App Settings</b> → press <code>1 2 3 4 5</code> on the remote → <b>Developer mode: On</b> → enter the phone's IP (shown in the app) → <b>OK</b> → restart the TV.
 
-<br clear="right">
-
-## Screenshots
-
-<p align="center">
-  <img src="../docs/screenshots/en/01.png" width="32%" alt="">
-  <img src="../docs/screenshots/en/02.png" width="32%" alt="">
-  <img src="../docs/screenshots/en/03.png" width="32%" alt="">
+<p>
+  <img src="../docs/screenshots/en/01.png" width="150" alt="">
+  <img src="../docs/screenshots/en/02.png" width="150" alt="">
+  <img src="../docs/screenshots/en/03.png" width="150" alt="">
 </p>
+
+<br clear="right">
 
 <details>
 <summary><b>More screenshots</b></summary>

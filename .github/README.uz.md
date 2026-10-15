@@ -28,15 +28,13 @@
 > **Televizorda dasturchi rejimi**<br>
 > <b>Apps</b> → <b>App Settings</b> → pultda <code>1 2 3 4 5</code> → <b>Developer mode: On</b> → telefon IP manzili (ilovada ko'rsatilgan) → <b>OK</b> → televizorni qayta yoqing.
 
-<br clear="right">
-
-## Skrinshotlar
-
-<p align="center">
-  <img src="../docs/screenshots/uz/01.png" width="32%" alt="">
-  <img src="../docs/screenshots/uz/02.png" width="32%" alt="">
-  <img src="../docs/screenshots/uz/03.png" width="32%" alt="">
+<p>
+  <img src="../docs/screenshots/uz/01.png" width="150" alt="">
+  <img src="../docs/screenshots/uz/02.png" width="150" alt="">
+  <img src="../docs/screenshots/uz/03.png" width="150" alt="">
 </p>
+
+<br clear="right">
 
 <details>
 <summary><b>Ko'proq skrinshotlar</b></summary>
