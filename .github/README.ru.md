@@ -35,17 +35,14 @@
 
 Интерфейс на <b>русском, английском и узбекском</b> — по языку телефона.
 
-<a href="https://youtu.be/U4VGa0fGYUI"><img src="../docs/video/thumbnails/thumbnail-ru.jpg" width="240" align="left" alt="video"></a>
+<a href="https://youtu.be/U4VGa0fGYUI"><img src="../docs/video/thumbnails/thumbnail-ru.jpg" width="170" align="left" alt="video"></a>
 
 ▶ <b>Режим разработчика на ТВ</b> — видео на 1 минуту
 
 <sub>
-Apps<br>
-→ App Settings<br>
-→ <code>1 2 3 4 5</code><br>
-→ Developer mode <b>On</b><br>
-→ IP телефона<br>
-→ <b>OK</b><br>
+Apps → App Settings<br>
+→ <code>1 2 3 4 5</code> → Developer mode <b>On</b><br>
+→ IP телефона → <b>OK</b><br>
 → перезагрузите ТВ
 </sub>
 
