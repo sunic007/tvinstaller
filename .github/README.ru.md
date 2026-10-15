@@ -104,6 +104,14 @@
 </div>
 </details>
 
+## Использование проекта
+
+<div align="justify">
+
+Хотите использовать TV Installer, его скриншоты или тексты в своём проекте, сборке, статье или видео? Пожалуйста, — только <b>оставьте ссылку на этот репозиторий</b> и <b>сообщите мне</b>: напишите в <a href="https://github.com/sunic007/tvinstaller/discussions">Обсуждениях</a> или откройте <a href="https://github.com/sunic007/tvinstaller/issues/new/choose">issue</a>. Все права на приложение, название и оформление сохранены.
+
+</div>
+
 ## Поддержать проект
 
 <div align="justify">

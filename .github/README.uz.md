@@ -104,6 +104,14 @@ Ilova televizor bilan faqat uy tarmog'ingiz ichida ishlaydi. Samsung'ga faqat se
 </div>
 </details>
 
+## Loyihadan foydalanish
+
+<div align="justify">
+
+TV Installer, uning skrinshotlari yoki matnlarini o'z loyihangiz, yig'mangiz, maqola yoki videongizda ishlatmoqchimisiz? Marhamat — faqat <b>ushbu repozitoriyga havolani qoldiring</b> va <b>menga xabar bering</b>: <a href="https://github.com/sunic007/tvinstaller/discussions">Muhokamalar</a>da yozing yoki <a href="https://github.com/sunic007/tvinstaller/issues/new/choose">issue</a> oching. Ilova, nom va dizaynga barcha huquqlar himoyalangan.
+
+</div>
+
 ## Loyihani qo'llab-quvvatlash
 
 <div align="justify">

@@ -104,6 +104,14 @@ The app talks to the TV only inside your home network. It contacts Samsung only 
 </div>
 </details>
 
+## Using this project
+
+<div align="justify">
+
+Want to use TV Installer, its screenshots or texts in your project, build, article or video? You are welcome to — please <b>keep a link to this repository</b> and <b>let me know</b>: write in <a href="https://github.com/sunic007/tvinstaller/discussions">Discussions</a> or open an <a href="https://github.com/sunic007/tvinstaller/issues/new/choose">issue</a>. All rights to the app, its name and design are reserved.
+
+</div>
+
 ## Support the project
 
 <div align="justify">
