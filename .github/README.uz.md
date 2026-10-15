@@ -17,7 +17,7 @@
 
 ## Qanday ishlaydi
 
-<img src="../docs/demo/demo-uz.gif" width="250" align="right" alt="Kirish, video qo'llanma, televizorni ulash va ilovani o'rnatish">
+<img src="../docs/demo/demo-uz.gif" width="238" align="right" alt="Kirish, video qo'llanma, televizorni ulash va ilovani o'rnatish">
 
 1. <b>TV Installer'ni o'rnating</b> — yuqoridagi tugma orqali APK'ni yuklab oling va telefonda oching.
 2. <b>Samsung hisobiga kiring</b> — bir marta. Televizor uchun sertifikatni Samsung o'zi beradi.

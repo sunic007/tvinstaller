@@ -17,7 +17,7 @@
 
 ## How it works
 
-<img src="../docs/demo/demo-en.gif" width="250" align="right" alt="Sign in, watch the guide, connect the TV and install an app">
+<img src="../docs/demo/demo-en.gif" width="238" align="right" alt="Sign in, watch the guide, connect the TV and install an app">
 
 1. <b>Install TV Installer</b> — download the APK above and open it on your phone.
 2. <b>Sign in to Samsung</b> — once. Samsung issues the certificate for your TV automatically.
