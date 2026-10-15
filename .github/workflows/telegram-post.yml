@@ -34,6 +34,7 @@ jobs:
           notes = re.sub(r'\*\*(.+?)\*\*', r'\1', notes)            # без разметки GitHub
           notes = re.sub(r'`([^`]*)`', r'\1', notes)
           notes = re.sub(r'^\s*[-*]\s+', '• ', notes, flags=re.M)
+          notes = re.sub(r'(?m)^Download .*\n?', '', notes).strip()   # строка про файлы для GitHub — в канале есть «Скачать»
           repo = os.environ['REPO']
           app = 'TV Installer' if repo.endswith('tvinstaller') else 'Lampa для Samsung'
           dl = ('https://github.com/%s/releases/latest/download/SunicTvInstaller.apk' % repo) if repo.endswith('tvinstaller') \
@@ -41,7 +42,8 @@ jobs:
           tail = '\n\n⬇️ Скачать: ' + dl + '\n📄 Подробнее: ' + r['url'] + '\n💬 Вопросы: @sunicapps'
           if not repo.endswith('tvinstaller'):
               tail = '\n\nLampa на ТВ обновится сама.' + tail
-          text = '🆕 ' + app + ' — ' + r['name'] + '\n\n' + notes
+          name = re.sub(r'^' + re.escape(app) + r'\s*', '', r['name'])   # «TV Installer 2.3.5 — …» без повтора названия
+          text = '🆕 ' + app + ' ' + name + '\n\n' + notes
           text = text[:4096 - len(tail)] + tail
           data = urllib.parse.urlencode({'chat_id': os.environ['CHANNEL'], 'text': text, 'disable_web_page_preview': 'true'}).encode()
           res = json.load(urllib.request.urlopen('https://api.telegram.org/bot%s/sendMessage' % os.environ['TOKEN'], data))
