@@ -1,27 +1,19 @@
-<div align="center">
+<img src="../docs/logo.png" width="210" align="left" alt="TV Installer">
 
-<img src="../docs/icon.png" width="104" alt="TV Installer">
+<p align="center"><b>Samsung Smart TV</b>ga ilovalarni to'g'ridan-to'g'ri Android telefondan o'rnating.<br>Kompyuter, Tizen Studio va simlarsiz.</p>
 
-# TV Installer
-
-<b>Samsung Smart TV</b>ga ilovalarni to'g'ridan-to'g'ri Android telefondan o'rnating.<br>Kompyuter, Tizen Studio va simlarsiz.
-
+<p align="center">
 <a href="https://github.com/sunic007/tvinstaller/releases/latest"><img src="https://img.shields.io/github/v/release/sunic007/tvinstaller?style=flat-square&label=release&color=2f81f7" alt="release"></a>
 <a href="https://github.com/sunic007/tvinstaller/releases"><img src="https://img.shields.io/github/downloads/sunic007/tvinstaller/total?style=flat-square&color=2ea043" alt="downloads"></a>
 <img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+">
 <img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV">
+</p>
 
-<br>
+<p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-uz.svg" height="52" alt="ANDROID UCHUN YUKLAB OLISH"></a></p>
 
-<a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-uz.svg" height="56" alt="ANDROID UCHUN YUKLAB OLISH"></a>
+<p align="center"><sub>Bepul · Android 7.0+ · English, Русский, O'zbekcha · <a href="CHANGELOG.md">Yangiliklar</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Maxfiylik</a></sub><br><sub><a href="README.md">English</a> · <a href="README.ru.md">Русский</a> · <b>O'zbekcha</b></sub></p>
 
-<sub>Bepul · Android 7.0+ · English, Русский, O'zbekcha · <a href="CHANGELOG.md">Yangiliklar</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Maxfiylik</a></sub>
-
-<sub><a href="README.md">English</a> · <a href="README.ru.md">Русский</a> · <b>O'zbekcha</b></sub>
-
-</div>
-
-<br>
+<br clear="left">
 
 ## Qanday ishlaydi
 

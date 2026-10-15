@@ -1,27 +1,19 @@
-<div align="center">
+<img src="../docs/logo.png" width="210" align="left" alt="TV Installer">
 
-<img src="../docs/icon.png" width="104" alt="TV Installer">
+<p align="center">Install apps on <b>Samsung Smart TV</b> straight from your Android phone.<br>No PC, no Tizen Studio, no cables.</p>
 
-# TV Installer
-
-Install apps on <b>Samsung Smart TV</b> straight from your Android phone.<br>No PC, no Tizen Studio, no cables.
-
+<p align="center">
 <a href="https://github.com/sunic007/tvinstaller/releases/latest"><img src="https://img.shields.io/github/v/release/sunic007/tvinstaller?style=flat-square&label=release&color=2f81f7" alt="release"></a>
 <a href="https://github.com/sunic007/tvinstaller/releases"><img src="https://img.shields.io/github/downloads/sunic007/tvinstaller/total?style=flat-square&color=2ea043" alt="downloads"></a>
 <img src="https://img.shields.io/badge/Android-7.0%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android 7.0+">
 <img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV">
+</p>
 
-<br>
+<p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-en.svg" height="52" alt="DOWNLOAD FOR ANDROID"></a></p>
 
-<a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-en.svg" height="56" alt="DOWNLOAD FOR ANDROID"></a>
+<p align="center"><sub>Free · Android 7.0+ · English, Русский, O'zbekcha · <a href="CHANGELOG.md">What's new</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Privacy</a></sub><br><sub><b>English</b> · <a href="README.ru.md">Русский</a> · <a href="README.uz.md">O'zbekcha</a></sub></p>
 
-<sub>Free · Android 7.0+ · English, Русский, O'zbekcha · <a href="CHANGELOG.md">What's new</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Privacy</a></sub>
-
-<sub><b>English</b> · <a href="README.ru.md">Русский</a> · <a href="README.uz.md">O'zbekcha</a></sub>
-
-</div>
-
-<br>
+<br clear="left">
 
 ## How it works
 
