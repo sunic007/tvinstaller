@@ -21,6 +21,9 @@ on:
         description: 'Удалить посты канала: номера через пробел (из ссылки t.me/sunicapps_uzb/N)'
         required: false
 
+permissions:
+  contents: read
+
 jobs:
   manage:
     if: github.event_name == 'workflow_dispatch' && (inputs.text != '' || inputs.delete != '')

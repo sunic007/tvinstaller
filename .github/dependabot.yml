@@ -1,0 +1,10 @@
+# Обновления GitHub Actions (закреплены по SHA) — раз в месяц, одним PR.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      actions:
+        patterns: ["*"]
