@@ -11,7 +11,7 @@
 
 <p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-en.svg" height="40" alt="Download APK"></a></p>
 
-<p align="center"><sub>Free · Android 7.0+ · English, Русский, O'zbekcha · <a href="CHANGELOG.md">What's new</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Privacy</a></sub></p>
+<p align="center"><sub>Free · Android 7.0+ · <a href="CHANGELOG.md">What's new</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Privacy</a></sub></p>
 
 <p align="center"><img src="https://flagcdn.com/24x18/gb.png" width="24" height="18" alt="English"> <b>English</b> &nbsp;·&nbsp; <a href="README.ru.md"><img src="https://flagcdn.com/24x18/ru.png" width="24" height="18" alt="Русский"> Русский</a> &nbsp;·&nbsp; <a href="README.uz.md"><img src="https://flagcdn.com/24x18/uz.png" width="24" height="18" alt="O'zbekcha"> O'zbekcha</a></p>
 
