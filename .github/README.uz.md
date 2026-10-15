@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Samsung-Tizen%20TV-1428a0?style=flat-square" alt="Samsung Tizen TV">
 </p>
 
-<p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-uz.svg" height="52" alt="ANDROID UCHUN YUKLAB OLISH"></a></p>
+<p align="center"><a href="https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk"><img src="../docs/badges/download-uz.svg" height="40" alt="APK'ni yuklab olish"></a></p>
 
 <p align="center"><sub>Bepul · Android 7.0+ · <a href="CHANGELOG.md">Yangiliklar</a> · <a href="https://sunic007.github.io/tvinstaller/privacy.html">Maxfiylik</a></sub></p>
 
