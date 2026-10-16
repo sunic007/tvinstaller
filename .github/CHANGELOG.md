@@ -2,6 +2,10 @@
 
 [Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)
 
+## 2.3.8 — без тихих удалений, ключ сохраняется, свежие библиотеки / no silent uninstall, key kept, fresh libraries
+- **EN:** TV Installer never removes an app from the TV by itself anymore: if the TV refuses an update, you're asked first (the app's data on the TV would be deleted). Your Samsung author key is kept when you add another TV or renew — updates install over the old version. Cancel stops an install right away; a TV that hangs is no longer taken for success. The "no background service" fallback is only used on old TVs. Fresh libraries (Compose, OkHttp).
+- **RU:** TV Installer больше никогда сам не удаляет приложение с ТВ: если телевизор не принял обновление, сначала спросит (данные приложения на ТВ пропали бы). Ключ автора Samsung сохраняется при подключении нового ТВ и продлении — обновления ставятся поверх. «Отмена» сразу прерывает установку, зависание ТВ больше не считается успехом. Установка «без фоновой службы» — только для старых ТВ. Свежие библиотеки (Compose, OkHttp).
+
 ## 2.3.6 — privacy and reliability / приватность и надёжность
 - **EN:** "Report a problem" now hides email addresses and the last part of IP addresses in the log. The system Back gesture shows the predictive-back preview on Android 13+. The privacy policy is updated: what stays on your home network and what goes over the internet. Nothing else changes in how the app works.
 - **RU:** «Сообщить о проблеме» теперь скрывает в журнале адреса почты и последнюю часть IP-адресов. Жест «Назад» на Android 13+ показывает предпросмотр. Обновлена политика конфиденциальности: что остаётся в домашней сети, а что идёт через интернет. В остальном приложение работает как раньше.
