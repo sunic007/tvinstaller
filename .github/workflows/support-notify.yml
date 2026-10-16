@@ -1,0 +1,41 @@
+name: Support notify
+
+# Задача из группы Telegram (метка from-telegram) закрыта — бот отвечает в группе на исходное сообщение:
+# «✅ Готово» (+ версия, если уже вышла) и кнопки ⭐1…⭐5, или «пока не планируем» с причиной из последнего
+# комментария. Один и тот же файл лежит в sunic007/lampa-samsung и sunic007/tvinstaller: код бота всегда
+# берётся из sunic007/lampa-samsung (.github/support/bot.py). Нужен секрет TELEGRAM_BOT_TOKEN.
+on:
+  issues:
+    types: [closed]
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: support-notify-${{ github.event.issue.number }}
+  cancel-in-progress: false
+
+jobs:
+  notify:
+    if: contains(github.event.issue.labels.*.name, 'from-telegram')
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          repository: sunic007/lampa-samsung
+          ref: main
+          persist-credentials: false
+          sparse-checkout: .github/support
+
+      - uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
+        with:
+          python-version: '3.12'
+
+      - name: Tell the Telegram group
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
+          SUPPORT_CHAT_ID: ${{ vars.SUPPORT_CHAT_ID }}
+        run: python3 .github/support/bot.py notify
