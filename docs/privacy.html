@@ -16,11 +16,11 @@
 <body>
 
 <h1>Политика конфиденциальности — TV Installer</h1>
-<p class="muted">Разработчик: sunic007<br>
-Последнее обновление: 7 сентября 2026 г.</p>
+<p class="muted">Приложение: <code>com.sunicapps.tvinstaller</code> · Разработчик: Sunic Apps<br>
+Последнее обновление: 16 октября 2026 г.</p>
 
 <p>TV Installer («приложение») помогает устанавливать приложения на телевизоры
-Samsung (Tizen) и управлять телевизором по домашней сети. Мы уважаем
+Samsung (Tizen) и LG (webOS) и управлять телевизором по домашней сети. Мы уважаем
 вашу приватность. Эта политика описывает, какие данные приложение использует и как.</p>
 
 <h2>Какие данные мы собираем</h2>
@@ -42,13 +42,27 @@ Samsung (Tizen) и управлять телевизором по домашне
 <p>Приложение выходит в сеть только для своих функций:</p>
 <ul>
   <li><strong>Ваши телевизоры</strong> в локальной сети — для установки приложений и
-      управления;</li>
+      управления. Здесь используются протоколы самих телевизоров, и не все они
+      шифруются: установка на Samsung (протокол SDB, порт 26101) и поиск телевизоров
+      (SSDP/UPnP по HTTP) идут открытым текстом. Эти данные не выходят за пределы
+      вашей домашней сети и нам не передаются;</li>
   <li><strong>Серверы Samsung</strong> — только когда вы сами входите в аккаунт Samsung
-      для выпуска сертификатов устройства; данные передаются между вами и Samsung,
-      не нам;</li>
+      для выпуска сертификатов устройства; данные передаются между вами и Samsung
+      по HTTPS, не нам;</li>
+  <li><strong>Сервер подписи</strong> — только если вы сами укажете его адрес в
+      настройках. Ему отправляются пакет приложения и идентификатор телевизора (DUID),
+      чтобы выпустить для него сертификат. Этот сервер выбираете вы, по умолчанию он
+      не задан;</li>
   <li><strong>Источники приложений</strong> (каталоги и прямые ссылки, которые вы
-      добавили) — для загрузки пакетов по защищённому протоколу HTTPS.</li>
+      добавили) — для загрузки пакетов по HTTPS.</li>
 </ul>
+
+<h2>Сообщение о проблеме</h2>
+<p>Пункт «Сообщить о проблеме» готовит журнал работы приложения и короткую сводку
+(версия приложения, модель телефона, версия Android, модель телевизора). Из журнала
+заранее убираются ключи, токены, идентификаторы устройств, адреса почты и последняя
+часть IP-адресов. Ничего не отправляется само: вы выбираете, куда и кому отправить
+(например, в Telegram или по почте), и можете заранее посмотреть журнал в приложении.</p>
 
 <h2>Разрешения</h2>
 <p>Приложение запрашивает доступ к интернету и сведения о сети Wi-Fi, чтобы находить
@@ -64,16 +78,17 @@ Samsung (Tizen) и управлять телевизором по домашне
 дополнена сведениями о собираемых рекламных данных.</p>
 
 <h2>Контакты</h2>
-<p>По вопросам приватности: <a href="https://github.com/sunic007/tvinstaller/discussions">обсуждения на GitHub</a> или <a href="https://github.com/sunic007/tvinstaller/issues">GitHub Issues</a>.
-<br><span class="muted"></span></p>
+<p>По вопросам приватности: <a href="mailto:Sunic007@gmail.com">Sunic007@gmail.com</a><br>
+Поддержка в Telegram: <a href="https://t.me/sunicapps">t.me/sunicapps</a></p>
 
 <hr>
 
 <h1 lang="en">Privacy Policy — TV Installer</h1>
-<p class="muted">Developer: sunic007<br>
-Last updated: 7 September 2026</p>
+<p class="muted">App: <code>com.sunicapps.tvinstaller</code> · Developer: Sunic Apps<br>
+Last updated: 16 October 2026</p>
 
-<p lang="en">TV Installer (the “app”) helps you install apps on Samsung (Tizen) TVs and control the TV over your home network. We respect your privacy. This
+<p lang="en">TV Installer (the “app”) helps you install apps on Samsung (Tizen) and LG
+(webOS) TVs and control the TV over your home network. We respect your privacy. This
 policy explains what data the app uses and how.</p>
 
 <h2 lang="en">Data we collect</h2>
@@ -93,11 +108,25 @@ The app contains no analytics, ads, or tracking.</p>
 
 <h2 lang="en">Network connections</h2>
 <ul lang="en">
-  <li><strong>Your TVs</strong> on the local network — to install apps and control them;</li>
+  <li><strong>Your TVs</strong> on the local network — to install apps and control them.
+      This uses the TVs' own protocols, and not all of them are encrypted: installing
+      on Samsung (SDB protocol, port 26101) and TV discovery (SSDP/UPnP over HTTP) are
+      plain text. This traffic stays inside your home network and is not sent to us;</li>
   <li><strong>Samsung servers</strong> — only when you sign in to your Samsung account
-      to issue device certificates; data flows between you and Samsung, not to us;</li>
+      to issue device certificates; data flows between you and Samsung over HTTPS,
+      not to us;</li>
+  <li><strong>Signing server</strong> — only if you enter its address in the settings
+      yourself. It receives the app package and the TV identifier (DUID) to issue a
+      certificate for that TV. You choose this server; none is set by default;</li>
   <li><strong>App sources</strong> you added — to download packages over HTTPS.</li>
 </ul>
+
+<h2 lang="en">Problem reports</h2>
+<p lang="en">“Report a problem” prepares the app log and a short summary (app version,
+phone model, Android version, TV model). Keys, tokens, device identifiers, email
+addresses and the last part of IP addresses are removed from the log beforehand.
+Nothing is sent automatically: you choose where and to whom to send it (for example,
+Telegram or email), and you can review the log in the app first.</p>
 
 <h2 lang="en">Permissions</h2>
 <p lang="en">The app requests internet and Wi-Fi state to find and talk to TVs. It does
@@ -111,7 +140,8 @@ not request contacts, location, camera, microphone, or files beyond those you pi
 date. If ads are added in the future, this policy will be updated accordingly.</p>
 
 <h2 lang="en">Contact</h2>
-<p lang="en">Privacy questions: <a href="https://github.com/sunic007/tvinstaller/discussions">GitHub Discussions</a> or <a href="https://github.com/sunic007/tvinstaller/issues">GitHub Issues</a>.</p>
+<p lang="en">Privacy questions: <a href="mailto:Sunic007@gmail.com">Sunic007@gmail.com</a><br>
+Support on Telegram: <a href="https://t.me/sunicapps">t.me/sunicapps</a></p>
 
 </body>
 </html>
