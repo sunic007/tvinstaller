@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Sunic Apps — TikTok</title>
+<link rel="icon" type="image/png" href="icon.png">
+<style>
+  :root { --bg: #0b0f17; --card: #151b26; --text: #eef2f8; --muted: #9aa6b8; --blue: #4d94ff; --red: #ff6b6b; }
+  body { margin: 0; min-height: 100vh; display: flex; align-items: center; justify-content: center; background: var(--bg);
+    color: var(--text); font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; padding: 16px; box-sizing: border-box; }
+  .card { background: var(--card); border-radius: 16px; padding: 24px; max-width: 520px; width: 100%; }
+  h1 { font-size: 1.3rem; margin: 0 0 8px; } p { color: var(--muted); line-height: 1.5; }
+  .code { font-family: Consolas, monospace; background: #0b0f17; border-radius: 10px; padding: 12px; word-break: break-all;
+    color: var(--text); margin: 12px 0; font-size: .95rem; }
+  button { background: var(--blue); color: #fff; border: 0; border-radius: 10px; padding: 12px 18px; font-size: 1rem; cursor: pointer; }
+  .err { color: var(--red); }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>Sunic Apps — вход в TikTok</h1>
+  <div id="ok" hidden>
+    <p>Готово. Скопируйте код и вставьте его в окно программы на компьютере (<code>tiktok.py auth</code>). Никому его не отправляйте.</p>
+    <div class="code" id="code"></div>
+    <button id="copy">Скопировать код</button>
+    <p id="done" hidden>Скопировано — теперь вставьте в окно программы.</p>
+  </div>
+  <p id="bad" class="err" hidden></p>
+  <p style="font-size:.85rem">Эта страница ничего не отправляет и не сохраняет: код виден только вам.</p>
+</div>
+<script>
+  // Код входа TikTok приходит в адресе страницы (?code=…&state=…). Показываем его владельцу — копирует в tiktok.py.
+  var q = new URLSearchParams(location.search), code = q.get('code'), state = q.get('state') || '', err = q.get('error');
+  if (code) {
+    var v = code + (state ? '|' + state : '');
+    document.getElementById('code').textContent = v;
+    document.getElementById('ok').hidden = false;
+    document.getElementById('copy').onclick = function () {
+      navigator.clipboard.writeText(v).then(function () { document.getElementById('done').hidden = false; });
+    };
+    history.replaceState(null, '', location.pathname);   // убрать код из адреса и истории
+  } else {
+    var b = document.getElementById('bad');
+    b.textContent = err ? 'TikTok вернул ошибку: ' + (q.get('error_description') || err) : 'Кода нет — начните вход заново из программы.';
+    b.hidden = false;
+  }
+</script>
+</body>
+</html>
