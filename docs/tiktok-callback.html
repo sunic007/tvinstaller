@@ -27,13 +27,22 @@
     <button id="copy">Скопировать код</button>
     <p id="done" hidden>Скопировано — теперь вставьте в окно программы.</p>
   </div>
+  <p id="sent" hidden>Готово — код передан на компьютер. Эту страницу можно закрыть.</p>
   <p id="bad" class="err" hidden></p>
-  <p style="font-size:.85rem">Эта страница ничего не отправляет и не сохраняет: код виден только вам.</p>
+  <p style="font-size:.85rem">Код одноразовый: без ключей приложения он бесполезен и через 10 минут удаляется.</p>
 </div>
 <script>
   // Код входа TikTok приходит в адресе страницы (?code=…&state=…). Показываем его владельцу — копирует в tiktok.py.
   var q = new URLSearchParams(location.search), code = q.get('code'), state = q.get('state') || '', err = q.get('error');
-  if (code) {
+  if (code && /^pc-/.test(state)) {
+    // вход начат на компьютере (QR-код tiktok.py): код уходит туда сам через посредник, копировать ничего не нужно
+    var b0 = document.getElementById('bad');
+    fetch('https://sunicapps-tiktok.sunic007.workers.dev/code', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ state: state, code: code }) })
+      .then(function (r) { if (!r.ok) throw 0; document.getElementById('sent').hidden = false; })
+      .catch(function () { b0.textContent = 'Не удалось передать код на компьютер — запустите вход ещё раз.'; b0.hidden = false; });
+    history.replaceState(null, '', location.pathname);
+  } else if (code) {
     var v = code + (state ? '|' + state : '');
     document.getElementById('code').textContent = v;
     document.getElementById('ok').hidden = false;
