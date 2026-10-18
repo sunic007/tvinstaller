@@ -37,7 +37,7 @@
   if (code && /^pc-/.test(state)) {
     // вход начат на компьютере (QR-код tiktok.py): код уходит туда сам через посредник, копировать ничего не нужно
     var b0 = document.getElementById('bad');
-    fetch('https://sunicapps-tiktok.sunic007.workers.dev/code', { method: 'POST', headers: { 'Content-Type': 'application/json' },
+    fetch('https://sunicapps-poster.sunic007.workers.dev/code', { method: 'POST', headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ state: state, code: code }) })
       .then(function (r) { if (!r.ok) throw 0; document.getElementById('sent').hidden = false; })
       .catch(function () { b0.textContent = 'Не удалось передать код на компьютер — запустите вход ещё раз.'; b0.hidden = false; });
