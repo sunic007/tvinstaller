@@ -2,6 +2,14 @@
 
 [Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)
 
+## 2.3.10 — точное управление пультом Samsung / exact remote control for Samsung
+- **EN:** Remote → More → «Exact control»: on Samsung models that accept the usual remote's buttons but ignore them, the buttons are pressed by code on the TV itself (arrows, OK, Back, Home, volume, channels). Off by default. While it's on, Lampa on the TV runs with a debug port visible on your home network, so the mode switches itself off after 15 minutes without presses. «Check the remote» tells whether you need it at all.
+- **RU:** Пульт → Ещё → «Точное управление»: на моделях Samsung, которые кнопки обычного пульта принимают, но не выполняют, кнопки нажимает код на самом телевизоре (стрелки, OK, «Назад», «Домой», громкость, каналы). По умолчанию выключено. Пока режим включён, Lampa на ТВ работает с портом отладки, который виден в домашней сети, — поэтому режим сам выключается через 15 минут без нажатий. «Проверить пульт» подскажет, нужно ли оно вообще.
+
+## 2.3.9 — без ложных ошибок установки / no false install errors
+- **EN:** TV Installer reads the installer's own result line first: harmless words in the TV's log no longer turn a successful install into an error. After deleting a distributor certificate the list refreshes right away. An oversized answer from the certificate server is a clear error, not a crash.
+- **RU:** TV Installer сначала смотрит на итог самого установщика: безобидные слова в журнале ТВ больше не превращают удачную установку в ошибку. После удаления сертификата дистрибьютора список сразу обновляется. Слишком большой ответ сервера сертификатов — понятная ошибка, а не вылет.
+
 ## 2.3.8 — без тихих удалений, ключ сохраняется, свежие библиотеки / no silent uninstall, key kept, fresh libraries
 - **EN:** TV Installer never removes an app from the TV by itself anymore: if the TV refuses an update, you're asked first (the app's data on the TV would be deleted). Your Samsung author key is kept when you add another TV or renew — updates install over the old version. Cancel stops an install right away; a TV that hangs is no longer taken for success. The "no background service" fallback is only used on old TVs. Fresh libraries (Compose, OkHttp).
 - **RU:** TV Installer больше никогда сам не удаляет приложение с ТВ: если телевизор не принял обновление, сначала спросит (данные приложения на ТВ пропали бы). Ключ автора Samsung сохраняется при подключении нового ТВ и продлении — обновления ставятся поверх. «Отмена» сразу прерывает установку, зависание ТВ больше не считается успехом. Установка «без фоновой службы» — только для старых ТВ. Свежие библиотеки (Compose, OkHttp).

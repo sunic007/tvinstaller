@@ -58,7 +58,7 @@
 - <b>Samsung certificate just once</b> — via your Samsung account. A reminder a month before it expires, renewal in one tap, backup and restore.
 - <b>Catalog of 40+ apps</b> — media centers, players, streaming, IPTV and our picks — or your own <code>.wgt</code> file or link.
 - <b>One‑tap install</b> — with every step shown. The <b>On TV</b> list has Open, Remove and <b>Update all</b>, plus a daily update notification.
-- <b>TV remote</b> — in your phone, and turning the TV on over the network (Wake‑on‑LAN).
+- <b>TV remote</b> — in your phone, and turning the TV on over the network (Wake‑on‑LAN). For a Samsung that ignores the usual remote — «Exact control»: buttons are pressed by code on the TV itself.
 - <b><a href="https://github.com/sunic007/lampa-samsung">Lampa for Samsung</a></b> — is installed from its latest GitHub release and then keeps itself up to date on the TV.
 - <b>Updates itself</b> — without a browser: downloads the new version, verifies it and opens Android's installer.
 

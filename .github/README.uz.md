@@ -58,7 +58,7 @@
 - <b>Samsung sertifikati bir marta</b> — Samsung hisobi orqali. Muddati tugashidan bir oy oldin eslatma, bir bosishda yangilash, zaxira nusxa va tiklash.
 - <b>40+ ilovali katalog</b> — mediatekalar, pleyerlar, striming, IPTV va «Tavsiya etamiz» — yoki o'zingizning <code>.wgt</code> faylingiz va havola.
 - <b>Bir bosishda o'rnatish</b> — har bir qadam ekranda. «TV'da» ro'yxatida — «Ochish», «O'chirish» va «Hammasini yangilash», kuniga bir marta yangilanishlar haqida bildirishnoma.
-- <b>Pult</b> — telefoningizda va televizorni tarmoq orqali yoqish (Wake‑on‑LAN).
+- <b>Pult</b> — telefoningizda va televizorni tarmoq orqali yoqish (Wake‑on‑LAN). Oddiy pult tugmalarini bajarmaydigan Samsung uchun — «Aniq boshqaruv»: tugmalarni televizorning o'zidagi kod bosadi.
 - <b><a href="https://github.com/sunic007/lampa-samsung">Lampa for Samsung</a></b> — GitHub'dagi oxirgi relizdan o'rnatiladi va keyin televizorda o'zi yangilanadi.
 - <b>O'zini yangilaydi</b> — brauzersiz: yangi versiyani yuklab oladi, tekshiradi va Android o'rnatuvchisini ochadi.
 
