@@ -1,6 +1,6 @@
 name: Telegram post
 
-# Новый релиз — пост в канал новостей (@sunicapps_uzb): название, раздел «что нового» на русском и ссылка.
+# Новый релиз — пост в группу @sunicapps (канал новостей удалён): название, раздел «что нового» на русском и ссылка.
 # Нужен секрет TELEGRAM_BOT_TOKEN — бот-публикатор, админ канала с правом «Публикация сообщений».
 on:
   release:
@@ -18,7 +18,7 @@ on:
         type: boolean
         default: false
       delete:
-        description: 'Удалить посты канала: номера через пробел (из ссылки t.me/sunicapps_uzb/N)'
+        description: 'Удалить посты канала: номера через пробел (из ссылки t.me/sunicapps/N)'
         required: false
 
 permissions:
@@ -32,7 +32,7 @@ jobs:
       - name: Own post / delete posts
         env:
           TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          CHANNEL: '@sunicapps_uzb'
+          CHANNEL: '@sunicapps'
           TEXT: ${{ inputs.text }}
           PIN: ${{ inputs.pin }}
           DELETE: ${{ inputs.delete }}
@@ -64,7 +64,7 @@ jobs:
       - name: Post to Telegram
         env:
           TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          CHANNEL: '@sunicapps_uzb'
+          CHANNEL: '@sunicapps'
           GH_TOKEN: ${{ github.token }}
           REPO: ${{ github.repository }}
           TAG: ${{ github.event.release.tag_name || inputs.tag }}
