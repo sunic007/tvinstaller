@@ -2,6 +2,10 @@
 
 [Download the latest APK / Скачать последнюю версию](https://github.com/sunic007/tvinstaller/releases/latest/download/SunicTvInstaller.apk)
 
+## 2.3.11 — надёжнее на слабых телефонах / more reliable on low-end phones
+- **EN:** Re-signing an app no longer loads the whole package into memory — large apps install on phones with little RAM. The remote stops all its background work when you close it. Cancelling an install on an LG TV stops right away. The «News» item is removed (news are in the Telegram group now).
+- **RU:** Пересборка приложения больше не загружает весь пакет в память — большие приложения ставятся и на телефонах с малым объёмом памяти. Пульт полностью останавливает свою фоновую работу, когда его закрыли. Отмена установки на ТВ LG срабатывает сразу. Пункт «Новости» убран — новости теперь в группе Telegram.
+
 ## 2.3.10 — точное управление пультом Samsung / exact remote control for Samsung
 - **EN:** Remote → More → «Exact control»: on Samsung models that accept the usual remote's buttons but ignore them, the buttons are pressed by code on the TV itself (arrows, OK, Back, Home, volume, channels). Off by default. While it's on, Lampa on the TV runs with a debug port visible on your home network, so the mode switches itself off after 15 minutes without presses. «Check the remote» tells whether you need it at all.
 - **RU:** Пульт → Ещё → «Точное управление»: на моделях Samsung, которые кнопки обычного пульта принимают, но не выполняют, кнопки нажимает код на самом телевизоре (стрелки, OK, «Назад», «Домой», громкость, каналы). По умолчанию выключено. Пока режим включён, Lampa на ТВ работает с портом отладки, который виден в домашней сети, — поэтому режим сам выключается через 15 минут без нажатий. «Проверить пульт» подскажет, нужно ли оно вообще.
