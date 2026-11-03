@@ -28,7 +28,9 @@
       "source_repo": "PatrickSt1991/chorus2-tizen",
       "required_version": "5.0",
       "package_id": "chorus2tzn",
-      "icon_asset": "icons/kodi-chorus.png"
+      "icon_asset": "icons/kodi-chorus.png",
+      "app_id": "chorus2tzn.Chorus2",
+      "package_version": "1.0.0"
     },
     {
       "id": "plex-flixor",
@@ -43,7 +45,9 @@
       "source_repo": "PatrickSt1991/flixor-tizen",
       "required_version": "2.4",
       "package_id": "FlixTVApp1",
-      "icon_asset": "icons/plex-flixor.png"
+      "icon_asset": "icons/plex-flixor.png",
+      "app_id": "FlixTVApp1.Flixor",
+      "package_version": "1.0.1"
     },
     {
       "id": "webos-com-immich-webos",
@@ -100,7 +104,9 @@
       "source_repo": "jeppevinkel/jellyfin-tizen-builds",
       "required_version": "2.3",
       "package_id": "AprZAARz4r",
-      "icon_asset": "icons/jellyfin-10-10-z.png"
+      "icon_asset": "icons/jellyfin-10-10-z.png",
+      "app_id": "AprZAARz4r.Jellyfin",
+      "package_version": "0.1.0"
     },
     {
       "id": "jellyfin-10-11-z",
@@ -115,7 +121,9 @@
       "source_repo": "jeppevinkel/jellyfin-tizen-builds",
       "required_version": "2.3",
       "package_id": "AprZAARz4r",
-      "icon_asset": "icons/jellyfin-10-11-z.png"
+      "icon_asset": "icons/jellyfin-10-11-z.png",
+      "app_id": "AprZAARz4r.Jellyfin",
+      "package_version": "0.1.0"
     },
     {
       "id": "webos-org-xbmc-kodi",
@@ -144,7 +152,9 @@
       "source_repo": "PatrickSt1991/tex-tizen",
       "required_version": "5.0",
       "package_id": "texkoditzn",
-      "icon_asset": "icons/kodi-tex.png"
+      "icon_asset": "icons/kodi-tex.png",
+      "app_id": "texkoditzn.TeX",
+      "package_version": "1.0.0"
     },
     {
       "id": "webos-lampa-bs",
@@ -187,7 +197,9 @@
       "source_repo": "NuvioMedia/NuvioWeb",
       "required_version": "4.0",
       "package_id": "NuvioTV001",
-      "icon_asset": "icons/nuviotv-official.png"
+      "icon_asset": "icons/nuviotv-official.png",
+      "app_id": "NuvioTV001.NuvioTV",
+      "package_version": "1.2.9"
     },
     {
       "id": "pelagica-tizen",
@@ -202,7 +214,9 @@
       "source_repo": "PelagicaApp/pelagica",
       "required_version": "6.5",
       "package_id": "Pel4g1c4Ap",
-      "icon_asset": "icons/pelagica-tizen.png"
+      "icon_asset": "icons/pelagica-tizen.png",
+      "app_id": "Pel4g1c4Ap.pelagica",
+      "package_version": "4.14.0"
     },
     {
       "id": "reiverr",
@@ -217,7 +231,9 @@
       "source_repo": "aleksilassila/reiverr",
       "required_version": "2.3",
       "package_id": "JZUbM5WimZ",
-      "icon_asset": "icons/reiverr.png"
+      "icon_asset": "icons/reiverr.png",
+      "app_id": "JZUbM5WimZ.Reiverr",
+      "package_version": "1.0.0"
     },
     {
       "id": "webos-com-sendspin-cinema",
@@ -246,7 +262,9 @@
       "source_repo": "Apps2Samsung/tizen-community-packages",
       "required_version": "2.3",
       "package_id": "newslO9NqF",
-      "icon_asset": "icons/stremio-tizen4.png"
+      "icon_asset": "icons/stremio-tizen4.png",
+      "app_id": "newslO9NqF.stremio",
+      "package_version": "1.5.0"
     },
     {
       "id": "tacplayer",
@@ -261,7 +279,9 @@
       "source_repo": "sfsdffesfsfg-cloud/tacplayer",
       "required_version": "2.3",
       "package_id": "AprZAARz4r",
-      "icon_asset": "icons/tacplayer.png"
+      "icon_asset": "icons/tacplayer.png",
+      "app_id": "AprZAARz4r.Jellyfin",
+      "package_version": "0.1.0"
     },
     {
       "id": "velvet-tv",
@@ -276,7 +296,9 @@
       "source_repo": "aroundmyroom/Velvet",
       "required_version": "5.5",
       "package_id": "VelvetTV00",
-      "icon_asset": "icons/velvet-tv.png"
+      "icon_asset": "icons/velvet-tv.png",
+      "app_id": "VelvetTV00.VelvetTV",
+      "package_version": "__VELVET_TV_VERSION__"
     },
     {
       "id": "beam-tv",
@@ -291,7 +313,9 @@
       "source_repo": "TAGISWILD/beam-tv",
       "required_version": "6.0",
       "package_id": "b41x9K7qTn",
-      "icon_asset": "icons/beam-tv.png"
+      "icon_asset": "icons/beam-tv.png",
+      "app_id": "b41x9K7qTn.Beam",
+      "package_version": "1.0.1"
     },
     {
       "id": "playeravplay",
@@ -306,7 +330,9 @@
       "source_repo": "yadPe/PlayerAVPlay",
       "required_version": "2.3",
       "package_id": "Tgm0wE9QkY",
-      "icon_asset": "icons/playeravplay.png"
+      "icon_asset": "icons/playeravplay.png",
+      "app_id": "Tgm0wE9QkY.PlayerAVPlay",
+      "package_version": "0.2.1"
     },
     {
       "id": "webos-io-dyptan-punktfunk-webos",
@@ -349,7 +375,9 @@
       "source_repo": "KaashDev/TVapp",
       "required_version": "2.3",
       "package_id": "wAKjt4yhqx",
-      "icon_asset": "icons/tvapp.png"
+      "icon_asset": "icons/tvapp.png",
+      "app_id": "wAKjt4yhqx.TVapp",
+      "package_version": "1.0.0"
     },
     {
       "id": "videoplayer",
@@ -364,7 +392,9 @@
       "source_repo": "TizenTVWebApp/TVideoPlayer",
       "required_version": "2.3",
       "package_id": "IiieP4mr3S",
-      "icon_asset": "icons/videoplayer.png"
+      "icon_asset": "icons/videoplayer.png",
+      "app_id": "IiieP4mr3S.TVideoPlayer",
+      "package_version": "1.0.0"
     },
     {
       "id": "vlc-tv",
@@ -379,7 +409,9 @@
       "source_repo": "PatrickSt1991/vlc-tizen-tv",
       "required_version": "4.0",
       "package_id": "madebypatk",
-      "icon_asset": "icons/vlc-tv.png"
+      "icon_asset": "icons/vlc-tv.png",
+      "app_id": "madebypatk.vlcweb",
+      "package_version": "1.4.0"
     },
     {
       "id": "webos-com-biliwebos-app",
@@ -450,7 +482,9 @@
       "source_repo": "corekill/kick-tv-tizen",
       "required_version": "4.0",
       "package_id": "CrKckTV001",
-      "icon_asset": "icons/kicktv.png"
+      "icon_asset": "icons/kicktv.png",
+      "app_id": "CrKckTV001.KickTV",
+      "package_version": "2.2.3"
     },
     {
       "id": "ruvlive",
@@ -465,7 +499,9 @@
       "source_repo": "sverrirs/ruv-live-samsung",
       "required_version": "2.3",
       "package_id": "cFFG22dMoM",
-      "icon_asset": "icons/ruvlive.png"
+      "icon_asset": "icons/ruvlive.png",
+      "app_id": "cFFG22dMoM.RuvLive",
+      "package_version": "5.0.0"
     },
     {
       "id": "ruvkids",
@@ -480,7 +516,9 @@
       "source_repo": "sverrirs/ruv-app-samsung",
       "required_version": "2.3",
       "package_id": "XDg7NvGl3M",
-      "icon_asset": "icons/ruvkids.png"
+      "icon_asset": "icons/ruvkids.png",
+      "app_id": "XDg7NvGl3M.RuvKids",
+      "package_version": "1.2.0"
     },
     {
       "id": "ruvmennta",
@@ -495,7 +533,9 @@
       "source_repo": "sverrirs/ruv-app-samsung",
       "required_version": "2.3",
       "package_id": "tAqY1qJuC5",
-      "icon_asset": "icons/ruvmennta.png"
+      "icon_asset": "icons/ruvmennta.png",
+      "app_id": "tAqY1qJuC5.RuvMennta",
+      "package_version": "1.0.0"
     },
     {
       "id": "ruvung",
@@ -510,7 +550,9 @@
       "source_repo": "sverrirs/ruv-app-samsung",
       "required_version": "2.3",
       "package_id": "ivydJ95guO",
-      "icon_asset": "icons/ruvung.png"
+      "icon_asset": "icons/ruvung.png",
+      "app_id": "ivydJ95guO.RuvUng",
+      "package_version": "1.0.0"
     },
     {
       "id": "ruvutvarp",
@@ -525,7 +567,9 @@
       "source_repo": "sverrirs/ruv-app-samsung",
       "required_version": "2.3",
       "package_id": "Dng1NvQl3R",
-      "icon_asset": "icons/ruvutvarp.png"
+      "icon_asset": "icons/ruvutvarp.png",
+      "app_id": "Dng1NvQl3R.RuvUtvarp",
+      "package_version": "1.0.0"
     },
     {
       "id": "ruvvod",
@@ -540,7 +584,9 @@
       "source_repo": "sverrirs/ruv-app-samsung",
       "required_version": "2.3",
       "package_id": "FDg1NvGl3W",
-      "icon_asset": "icons/ruvvod.png"
+      "icon_asset": "icons/ruvvod.png",
+      "app_id": "FDg1NvGl3W.RuvVod",
+      "package_version": "3.0.0"
     },
     {
       "id": "webos-com-tbsniller-smarttwitchwebostv",
@@ -583,7 +629,9 @@
       "source_repo": "reisxd/TizenTube",
       "required_version": "3.0",
       "package_id": "xvvl3S1TT1",
-      "icon_asset": "icons/tizentube.png"
+      "icon_asset": "icons/tizentube.png",
+      "app_id": "xvvl3S1TT1.TizenTubeStandalone",
+      "package_version": "2.0.1"
     },
     {
       "id": "tizenyoutube",
@@ -598,7 +646,9 @@
       "source_repo": "sunnyden/TizenYoutube",
       "required_version": "2.3",
       "package_id": "9Ur5IzDKqV",
-      "icon_asset": "icons/tizenyoutube.png"
+      "icon_asset": "icons/tizenyoutube.png",
+      "app_id": "9Ur5IzDKqV.TizenYouTube",
+      "package_version": "0.2.1"
     },
     {
       "id": "webos-com-willinux-tvh-app",
@@ -627,7 +677,9 @@
       "source_repo": "fgl27/smarttv-twitch",
       "required_version": "2.3",
       "package_id": "flbtxFhd64",
-      "icon_asset": "icons/smarttv-twitch.png"
+      "icon_asset": "icons/smarttv-twitch.png",
+      "app_id": "flbtxFhd64.SmartTV",
+      "package_version": "4.0.1"
     },
     {
       "id": "webos-twitch-adamffdev-v1",
@@ -684,7 +736,9 @@
       "source_repo": "Trent407/chiaki-tizen",
       "required_version": "5.5",
       "package_id": "ChIaKiTiZ0",
-      "icon_asset": "icons/chiaki-tizen.png"
+      "icon_asset": "icons/chiaki-tizen.png",
+      "app_id": "ChIaKiTiZ0.ChiakiTizen",
+      "package_version": "0.2.0"
     },
     {
       "id": "webos-org-mariotaku-ihsplay",
@@ -713,7 +767,9 @@
       "source_repo": "OneLiberty/moonlight-chrome-tizen",
       "required_version": "5.5",
       "package_id": "MoonLightS",
-      "icon_asset": "icons/moonlight-chrome.png"
+      "icon_asset": "icons/moonlight-chrome.png",
+      "app_id": "MoonLightS.MoonlightWasm",
+      "package_version": "1.2.1"
     },
     {
       "id": "webos-com-limelight-webos",
@@ -742,7 +798,9 @@
       "source_repo": "MrPhaze62/moonlight-chrome-tizen-no-gamemode",
       "required_version": "5.5",
       "package_id": "MoonLightS",
-      "icon_asset": "icons/moonlight-chrome-nogame.png"
+      "icon_asset": "icons/moonlight-chrome-nogame.png",
+      "app_id": "MoonLightS.MoonlightWasm",
+      "package_version": "1.2.1"
     },
     {
       "id": "moonlight-chrome-toypoodlegaming",
@@ -757,7 +815,9 @@
       "source_repo": "toypoodlegaming/moonlight-chrome-tizen",
       "required_version": "5.5",
       "package_id": "MoonLightS",
-      "icon_asset": "icons/moonlight-chrome-toypoodlegaming.png"
+      "icon_asset": "icons/moonlight-chrome-toypoodlegaming.png",
+      "app_id": "MoonLightS.MoonlightWasm",
+      "package_version": "1.2.1"
     },
     {
       "id": "moonlight-tizen",
@@ -772,7 +832,9 @@
       "source_repo": "brightcraft/moonlight-tizen",
       "required_version": "5.5",
       "package_id": "MoonLightS",
-      "icon_asset": "icons/moonlight-tizen.png"
+      "icon_asset": "icons/moonlight-tizen.png",
+      "app_id": "MoonLightS.MoonlightWasm",
+      "package_version": "1.19.0"
     },
     {
       "id": "moonlight-forcegm-tizen",
@@ -787,7 +849,9 @@
       "source_repo": "brightcraft/moonlight-tizen",
       "required_version": "5.5",
       "package_id": "MoonLightS",
-      "icon_asset": "icons/moonlight-forcegm-tizen.png"
+      "icon_asset": "icons/moonlight-forcegm-tizen.png",
+      "app_id": "MoonLightS.MoonlightWasm",
+      "package_version": "1.19.0"
     },
     {
       "id": "webos-org-chocolate-doom-demo",
@@ -816,7 +880,9 @@
       "source_repo": "dos-ise/doom-tizen",
       "required_version": "5.5",
       "package_id": "doomwasm01",
-      "icon_asset": "icons/doom.png"
+      "icon_asset": "icons/doom.png",
+      "app_id": "doomwasm01.Doom",
+      "package_version": "1.10.2"
     },
     {
       "id": "webos-com-halfbrick-fruitninja",
@@ -845,7 +911,9 @@
       "source_repo": "dos-ise/GB-EMU_Tizen",
       "required_version": "5.5",
       "package_id": "gbemutzn01",
-      "icon_asset": "icons/gameboy-emulator.png"
+      "icon_asset": "icons/gameboy-emulator.png",
+      "app_id": "gbemutzn01.GBEmu",
+      "package_version": "1.0.0"
     },
     {
       "id": "webos-com-leondrolio-x-openttd",
@@ -902,7 +970,9 @@
       "source_repo": "dos-ise/openttd-tizen",
       "required_version": "5.5",
       "package_id": "NM5CXQae71",
-      "icon_asset": "icons/transporttycoondeluxe.png"
+      "icon_asset": "icons/transporttycoondeluxe.png",
+      "app_id": "NM5CXQae71.OpenTTD",
+      "package_version": "14.0.0"
     },
     {
       "id": "airtizen",
@@ -917,7 +987,9 @@
       "source_repo": "MrHumanRebel/airtizen",
       "required_version": "3.0",
       "package_id": "AirTizen01",
-      "icon_asset": "icons/airtizen.png"
+      "icon_asset": "icons/airtizen.png",
+      "app_id": "AirTizen01.AirTizen",
+      "package_version": "2.2.34"
     },
     {
       "id": "fcastreceiver",
@@ -932,7 +1004,9 @@
       "source_repo": "futo-org/FCastReceiver",
       "required_version": "5.0",
       "package_id": "qL5oFoTHoJ",
-      "icon_asset": "icons/fcastreceiver.png"
+      "icon_asset": "icons/fcastreceiver.png",
+      "app_id": "qL5oFoTHoJ.FCastReceiver",
+      "package_version": "1.0.0"
     },
     {
       "id": "webos-org-webosbrew-bridge-64to32",
@@ -1030,7 +1104,9 @@
       "size_bytes": 635407925,
       "source_repo": "thonythony/fireplace",
       "required_version": "2.3",
-      "package_id": "lo9m3aevej"
+      "package_id": "lo9m3aevej",
+      "app_id": "lo9m3aevej.firetv",
+      "package_version": "0.0.1"
     },
     {
       "id": "webos-org-webosbrew-hbchannel",
@@ -1115,7 +1191,9 @@
       "source_repo": "DmitryMaksakov/samsung-tv-iperf3",
       "required_version": "2.4",
       "package_id": "Iperf3TvAp",
-      "icon_asset": "icons/iperf3-tv.png"
+      "icon_asset": "icons/iperf3-tv.png",
+      "app_id": "Iperf3TvAp.iperf3tv",
+      "package_version": "1.0.0"
     },
     {
       "id": "webos-org-webosbrew-appupdateblocker",
@@ -1200,7 +1278,9 @@
       "source_repo": "vzakharchenko/rtsp-samsung-tv",
       "required_version": "2.3",
       "package_id": "rfhFEcdD35",
-      "icon_asset": "icons/rtsp-camera-viewer.png"
+      "icon_asset": "icons/rtsp-camera-viewer.png",
+      "app_id": "rfhFEcdD35.CameraDevice",
+      "package_version": "1.0.0"
     },
     {
       "id": "webos-eu-depau-webos-soundmodefix",
@@ -1229,7 +1309,9 @@
       "source_repo": "reisxd/TizenBrew",
       "required_version": "3.0",
       "package_id": "xvvl3S1bvH",
-      "icon_asset": "icons/tizenbrew.png"
+      "icon_asset": "icons/tizenbrew.png",
+      "app_id": "xvvl3S1bvH.TizenBrewStandalone",
+      "package_version": "2.0.5"
     },
     {
       "id": "tizenbrew-standalone-old",
@@ -1243,7 +1325,9 @@
       "size_bytes": 914982,
       "source_repo": "reisxd/TizenBrew",
       "required_version": "3.0",
-      "package_id": "xvvl3S1bvH"
+      "package_id": "xvvl3S1bvH",
+      "app_id": "xvvl3S1bvH.TizenBrewStandalone",
+      "package_version": "2.0.5"
     },
     {
       "id": "tizenfeed",
@@ -1258,7 +1342,9 @@
       "source_repo": "judithsirera/TizenFeed",
       "required_version": "2.3",
       "package_id": "y3ckmhs1Ds",
-      "icon_asset": "icons/tizenfeed.png"
+      "icon_asset": "icons/tizenfeed.png",
+      "app_id": "y3ckmhs1Ds.Tizengram",
+      "package_version": "1.0.0"
     },
     {
       "id": "audiorecorder",
@@ -1273,7 +1359,9 @@
       "source_repo": "TizenTVWebApp/TizenTVAudioRecorder",
       "required_version": "2.3",
       "package_id": "yKdEw6j88z",
-      "icon_asset": "icons/audiorecorder.png"
+      "icon_asset": "icons/audiorecorder.png",
+      "app_id": "yKdEw6j88z.TizenTVAudioRecorder",
+      "package_version": "1.0.0"
     },
     {
       "id": "webos-org-webosbrew-vncserver",

@@ -87,6 +87,8 @@ def refresh(entry, cache, taken=()):
     entry["sha256"] = sha
     entry["size_bytes"] = asset.get("size") or entry.get("size_bytes")
     entry["version"] = tag[1:] if re.match(r"^v\d", tag) else tag
+    # Версия внутри нового пакета (config.xml) здесь неизвестна: старая была бы неправдой.
+    entry.pop("package_version", None)
     return f"updated {old_tag} -> {tag}"
 
 
