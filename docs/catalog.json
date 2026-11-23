@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T12:44:42+00:00",
+  "generated": "2026-11-23T14:35:54+00:00",
   "services": [
     {
       "id": "webos-com-breezyfin-app",
@@ -14,7 +14,7 @@
       "source_repo": "botagas/Breezyfin",
       "package_id": "com.breezyfin.app",
       "root_required": false,
-      "downloads": 15044
+      "downloads": 15560
     },
     {
       "id": "kodi-chorus",
@@ -22,9 +22,9 @@
       "description": "Chorus2-Tizen (Kodi) Samsung Tizen.",
       "category": "Медиатеки и медиасерверы",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Kodi-Chorus.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Kodi-Chorus.wgt",
       "sha256": "65b0512a4b3e29780a307cc2caa51e4b6f8c0c7d56a91f82c62125fa79447e39",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 2023846,
       "source_repo": "PatrickSt1991/chorus2-tizen",
       "required_version": "5.0",
@@ -40,16 +40,16 @@
       "description": "Modern cross-platform Plex client. Ported to Tizen OS.",
       "category": "Медиатеки и медиасерверы",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Plex-Flixor.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Plex-Flixor.wgt",
       "sha256": "d51d2f9b1afa142ddaadc03e3b6b12c9a31be399d5a83d7ee6d859879bcab9c7",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 837692,
       "source_repo": "PatrickSt1991/flixor-tizen",
       "required_version": "2.4",
       "package_id": "FlixTVApp1",
       "icon_asset": "icons/plex-flixor.png",
       "app_id": "FlixTVApp1.Flixor",
-      "downloads": 1831,
+      "downloads": 2549,
       "package_version": "1.0.1"
     },
     {
@@ -65,7 +65,7 @@
       "source_repo": "aneeshtigga/immich-webos",
       "package_id": "com.immich.webos",
       "root_required": false,
-      "downloads": 7008
+      "downloads": 7505
     },
     {
       "id": "webos-com-seeky91-immichtv",
@@ -80,7 +80,7 @@
       "source_repo": "Seeky91/immich-tv-webos",
       "package_id": "com.seeky91.immichtv",
       "root_required": false,
-      "downloads": 7749
+      "downloads": 8021
     },
     {
       "id": "webos-org-jellyfin-webos",
@@ -95,7 +95,7 @@
       "source_repo": "jellyfin/jellyfin-webos",
       "package_id": "org.jellyfin.webos",
       "root_required": false,
-      "downloads": 109161
+      "downloads": 110100
     },
     {
       "id": "jellyfin-10-10-z",
@@ -113,7 +113,7 @@
       "icon_asset": "icons/jellyfin-10-10-z.png",
       "app_id": "AprZAARz4r.Jellyfin",
       "package_version": "0.1.0",
-      "downloads": 6084
+      "downloads": 6263
     },
     {
       "id": "jellyfin-10-11-z",
@@ -121,16 +121,16 @@
       "description": "Клиент домашнего медиасервера Jellyfin",
       "category": "Медиатеки и медиасерверы",
       "platform": "tizen",
-      "package_url": "https://github.com/jeppevinkel/jellyfin-tizen-builds/releases/download/2026-11-15-1045/Jellyfin-10.11.z.wgt",
-      "sha256": "219cab522904a7d9647a8c527564ee80b21809b7050f7800a84cee3240e9c8aa",
-      "version": "2026-11-15-1045",
-      "size_bytes": 10612132,
+      "package_url": "https://github.com/jeppevinkel/jellyfin-tizen-builds/releases/download/2026-11-22-0305/Jellyfin-10.11.z.wgt",
+      "sha256": "23e7c00a5a7fe1847b5127d8766aa85e2277852f8c519d32f56cb3ccdb5986ba",
+      "version": "2026-11-22-0305",
+      "size_bytes": 10612127,
       "source_repo": "jeppevinkel/jellyfin-tizen-builds",
       "required_version": "2.3",
       "package_id": "AprZAARz4r",
       "icon_asset": "icons/jellyfin-10-11-z.png",
       "app_id": "AprZAARz4r.Jellyfin",
-      "downloads": 6084,
+      "downloads": 6263,
       "package_version": "0.1.0"
     },
     {
@@ -153,16 +153,16 @@
       "description": "Kodi TeX web interface ported to Samsung Tizen.",
       "category": "Медиатеки и медиасерверы",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Kodi-TeX.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Kodi-TeX.wgt",
       "sha256": "0a52da7d2dba3a365310ee7d6c4d799d1dbbaeb548584a8344d686f6be66f047",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 2746767,
       "source_repo": "PatrickSt1991/tex-tizen",
       "required_version": "5.0",
       "package_id": "texkoditzn",
       "icon_asset": "icons/kodi-tex.png",
       "app_id": "texkoditzn.TeX",
-      "downloads": 1962,
+      "downloads": 2279,
       "package_version": "1.0.0"
     },
     {
@@ -192,7 +192,7 @@
       "source_repo": "Moonfin-Client/Smart-TV",
       "package_id": "org.moonfin.webos",
       "root_required": false,
-      "downloads": 21711
+      "downloads": 21714
     },
     {
       "id": "nuviotv-official",
@@ -200,17 +200,17 @@
       "description": "TV-first streaming UI for Samsung Tizen.",
       "category": "Медиатеки и медиасерверы",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/NuvioTV-Official.wgt",
-      "sha256": "7941b13837944a99cbd5bedfc8c82c0e50aaa50bfdfdb528f29838807350d94f",
-      "version": "community-880",
-      "size_bytes": 8215927,
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/NuvioTV-Official.wgt",
+      "sha256": "86e37f0b47e3faa3ddada0c5d379de667ff3c2468282c6c929d6cd7298d31086",
+      "version": "community-919",
+      "size_bytes": 8243946,
       "source_repo": "NuvioMedia/NuvioWeb",
       "required_version": "4.0",
       "package_id": "NuvioTV001",
       "icon_asset": "icons/nuviotv-official.png",
       "app_id": "NuvioTV001.NuvioTV",
-      "downloads": 15217,
-      "package_version": "1.4.2"
+      "downloads": 16675,
+      "package_version": "1.4.5"
     },
     {
       "id": "pelagica-tizen",
@@ -218,17 +218,17 @@
       "description": "A modern web, desktop and TV client for Jellyfin",
       "category": "Медиатеки и медиасерверы",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/pelagica-tizen.wgt",
-      "sha256": "e8055bfabe5231a0ce53216115000160ac1c0d5ae1e6330cddfa5f50687b9d11",
-      "version": "community-880",
-      "size_bytes": 2820311,
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/pelagica-tizen.wgt",
+      "sha256": "3f46f518abee545e35c605a155a30d9ff9befc43f293208690d106ba22e3a11b",
+      "version": "community-919",
+      "size_bytes": 2820340,
       "source_repo": "PelagicaApp/pelagica",
       "required_version": "6.5",
       "package_id": "Pel4g1c4Ap",
       "icon_asset": "icons/pelagica-tizen.png",
       "app_id": "Pel4g1c4Ap.pelagica",
-      "downloads": 1187,
-      "package_version": "4.16.0"
+      "downloads": 1308,
+      "package_version": "4.17.0"
     },
     {
       "id": "reiverr",
@@ -236,16 +236,16 @@
       "description": "A clean combined interface for Jellyfin, TMDB, Radarr and Sonarr, as well as a replacement to Overseerr.",
       "category": "Медиатеки и медиасерверы",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Reiverr.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Reiverr.wgt",
       "sha256": "faf2ef23fa73d527ee3e8d581952051016e543f61d0b7b44d6b87fd6dfd92239",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 7656286,
       "source_repo": "aleksilassila/reiverr",
       "required_version": "2.3",
       "package_id": "JZUbM5WimZ",
       "icon_asset": "icons/reiverr.png",
       "app_id": "JZUbM5WimZ.Reiverr",
-      "downloads": 1612,
+      "downloads": 1711,
       "package_version": "1.0.0"
     },
     {
@@ -261,7 +261,7 @@
       "source_repo": "zonya/sendspin-cinema-webos",
       "package_id": "com.sendspin.cinema",
       "root_required": false,
-      "downloads": 5095
+      "downloads": 5361
     },
     {
       "id": "stremio-tizen4",
@@ -269,16 +269,16 @@
       "description": "Stremio media center packaged for Tizen 4.0 devices.",
       "category": "Медиатеки и медиасерверы",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Stremio-Tizen4.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Stremio-Tizen4.wgt",
       "sha256": "37375e1315fd9fe215d9e96984c2eadbe1aff4a1ae6d01edf7f688cf0c212d31",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 3130441,
       "source_repo": "Apps2Samsung/tizen-community-packages",
       "required_version": "2.3",
       "package_id": "newslO9NqF",
       "icon_asset": "icons/stremio-tizen4.png",
       "app_id": "newslO9NqF.stremio",
-      "downloads": 7394,
+      "downloads": 8265,
       "package_version": "1.5.0"
     },
     {
@@ -287,16 +287,16 @@
       "description": "Custom Jellyfin Tizen client with cinematic red UI for Samsung TV",
       "category": "Медиатеки и медиасерверы",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/tacplayer.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/tacplayer.wgt",
       "sha256": "db85db6ff7e05658f7d3666ec0b6794d5fb8e542ebfd7572ae550ea4040a40e1",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 13844074,
       "source_repo": "sfsdffesfsfg-cloud/tacplayer",
       "required_version": "2.3",
       "package_id": "AprZAARz4r",
       "icon_asset": "icons/tacplayer.png",
       "app_id": "AprZAARz4r.Jellyfin",
-      "downloads": 768,
+      "downloads": 887,
       "package_version": "0.1.0"
     },
     {
@@ -305,16 +305,16 @@
       "description": "Big-screen TV client for the Velvet self-hosted music server.",
       "category": "Медиатеки и медиасерверы",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Velvet-TV.wgt",
-      "sha256": "09b6f9241ff804be23722bb8c0b8e2000d46aaf7c49e31bfc88984e808c14ec1",
-      "version": "community-880",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Velvet-TV.wgt",
+      "sha256": "720289b40103b2d56400aed362e99c58a31c60f6c3ef77bce2cd741d1872ef1f",
+      "version": "community-919",
       "size_bytes": 188522,
       "source_repo": "aroundmyroom/Velvet",
       "required_version": "5.5",
       "package_id": "VelvetTV00",
       "icon_asset": "icons/velvet-tv.png",
       "app_id": "VelvetTV00.VelvetTV",
-      "downloads": 1305,
+      "downloads": 1403,
       "package_version": "__VELVET_TV_VERSION__"
     },
     {
@@ -323,16 +323,16 @@
       "description": "Open-source USB and DLNA media player for Samsung Tizen TVs — subtitles, resume playback, remote navigation, and a local companion server.",
       "category": "Видео и плееры",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Beam-TV.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Beam-TV.wgt",
       "sha256": "b5b32946c894e723bed908734ac47ccd545ed32aa7ff6a224ba76a397aec492f",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 275493,
       "source_repo": "TAGISWILD/beam-tv",
       "required_version": "6.0",
       "package_id": "b41x9K7qTn",
       "icon_asset": "icons/beam-tv.png",
       "app_id": "b41x9K7qTn.Beam",
-      "downloads": 2856,
+      "downloads": 3204,
       "package_version": "1.0.1"
     },
     {
@@ -341,16 +341,16 @@
       "description": "AVPlayer app",
       "category": "Видео и плееры",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/PlayerAVPlay.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/PlayerAVPlay.wgt",
       "sha256": "f282742691b83118fad6498948947b039d8e26dc36c39442e180559c3c5d354d",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 32385,
       "source_repo": "yadPe/PlayerAVPlay",
       "required_version": "2.3",
       "package_id": "Tgm0wE9QkY",
       "icon_asset": "icons/playeravplay.png",
       "app_id": "Tgm0wE9QkY.PlayerAVPlay",
-      "downloads": 1787,
+      "downloads": 1949,
       "package_version": "0.2.1"
     },
     {
@@ -381,7 +381,7 @@
       "source_repo": "pando85/subsonic-player-webos",
       "package_id": "com.subsonic.player",
       "root_required": false,
-      "downloads": 10424
+      "downloads": 10657
     },
     {
       "id": "tvapp",
@@ -389,16 +389,16 @@
       "description": "Enable seamless playback of HLS/m3u8 streams as channels.",
       "category": "Видео и плееры",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/TVApp.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/TVApp.wgt",
       "sha256": "65d6db96b3a9bbf266c372e4e57b21e644942eb0f1bf4fcec3ea20cf9452957e",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 979034,
       "source_repo": "KaashDev/TVapp",
       "required_version": "2.3",
       "package_id": "wAKjt4yhqx",
       "icon_asset": "icons/tvapp.png",
       "app_id": "wAKjt4yhqx.TVapp",
-      "downloads": 7773,
+      "downloads": 8274,
       "package_version": "1.0.0"
     },
     {
@@ -407,16 +407,16 @@
       "description": "Tizen TV HTML video player based on videojs.",
       "category": "Видео и плееры",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/VideoPlayer.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/VideoPlayer.wgt",
       "sha256": "04345240c0e6ed017041520cb84e68fb2a2b0bc77a6ed55263abe8df67e61f2b",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 61404893,
       "source_repo": "TizenTVWebApp/TVideoPlayer",
       "required_version": "2.3",
       "package_id": "IiieP4mr3S",
       "icon_asset": "icons/videoplayer.png",
       "app_id": "IiieP4mr3S.TVideoPlayer",
-      "downloads": 3132,
+      "downloads": 3303,
       "package_version": "1.0.0"
     },
     {
@@ -435,7 +435,7 @@
       "icon_asset": "icons/vlc-tv.png",
       "app_id": "madebypatk.vlcweb",
       "package_version": "1.4.0",
-      "downloads": 6533
+      "downloads": 6539
     },
     {
       "id": "webos-com-biliwebos-app",
@@ -450,7 +450,7 @@
       "source_repo": "asdf17128/bili-webos",
       "package_id": "com.biliwebos.app",
       "root_required": false,
-      "downloads": 15136
+      "downloads": 15815
     },
     {
       "id": "webos-com-crunchyroll-webos",
@@ -465,7 +465,7 @@
       "source_repo": "mateussouzaweb/crunchyroll-webos",
       "package_id": "com.crunchyroll.webos",
       "root_required": false,
-      "downloads": 123995
+      "downloads": 124788
     },
     {
       "id": "webos-com-crunchyroll-stream-app",
@@ -480,7 +480,7 @@
       "source_repo": "ediaz23/crunchyroll-webos-stream",
       "package_id": "com.crunchyroll.stream.app",
       "root_required": false,
-      "downloads": 37141
+      "downloads": 37570
     },
     {
       "id": "webos-com-cheerchen-decotv",
@@ -495,7 +495,7 @@
       "source_repo": "CheerChen/decotv-webos",
       "package_id": "com.cheerchen.decotv",
       "root_required": false,
-      "downloads": 2790
+      "downloads": 3031
     },
     {
       "id": "kicktv",
@@ -503,16 +503,16 @@
       "description": "Kick.com streaming client for Samsung Tizen TVs.",
       "category": "Онлайн-сервисы и эфир",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/KickTV.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/KickTV.wgt",
       "sha256": "f8e792344868217e5f52b0dc9edbf51c952dde2885bc0891cfae260f2b41b7c4",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 257866,
       "source_repo": "corekill/kick-tv-tizen",
       "required_version": "4.0",
       "package_id": "CrKckTV001",
       "icon_asset": "icons/kicktv.png",
       "app_id": "CrKckTV001.KickTV",
-      "downloads": 3066,
+      "downloads": 3507,
       "package_version": "2.4.2"
     },
     {
@@ -521,16 +521,16 @@
       "description": "Live TV from RÚV, the Icelandic national broadcaster: the RÚV and RÚV 2 channels, with the running schedule and rewind inside the live window (not affiliated with RÚV)",
       "category": "Онлайн-сервисы и эфир",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/RUVLive.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/RUVLive.wgt",
       "sha256": "62ced405c97a0feb9920accb7545ef292e0ec7bf49bb2215f9eb974f269c36ff",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 447181,
       "source_repo": "sverrirs/ruv-live-samsung",
       "required_version": "2.3",
       "package_id": "cFFG22dMoM",
       "icon_asset": "icons/ruvlive.png",
       "app_id": "cFFG22dMoM.RuvLive",
-      "downloads": 540,
+      "downloads": 632,
       "package_version": "5.0.0"
     },
     {
@@ -539,16 +539,16 @@
       "description": "Apps for RÚV, the Icelandic national broadcaster: Sarpur on demand, Barnaefni for children, Unglingar for teens, Menntun for education, and Útvarp radio (not affiliated with RÚV)",
       "category": "Онлайн-сервисы и эфир",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/RUVKids.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/RUVKids.wgt",
       "sha256": "697ccc915c85e80d5a18d77966c739a43d054eb8f09a802a98c81003d8a3d70a",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 714463,
       "source_repo": "sverrirs/ruv-app-samsung",
       "required_version": "2.3",
       "package_id": "XDg7NvGl3M",
       "icon_asset": "icons/ruvkids.png",
       "app_id": "XDg7NvGl3M.RuvKids",
-      "downloads": 527,
+      "downloads": 626,
       "package_version": "1.2.0"
     },
     {
@@ -557,16 +557,16 @@
       "description": "Apps for RÚV, the Icelandic national broadcaster: Sarpur on demand, Barnaefni for children, Unglingar for teens, Menntun for education, and Útvarp radio (not affiliated with RÚV)",
       "category": "Онлайн-сервисы и эфир",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/RUVMennta.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/RUVMennta.wgt",
       "sha256": "ae0483e2bd22295050e160b6197a10ce1d6364b44b7670da367922d6ea9eb507",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 659600,
       "source_repo": "sverrirs/ruv-app-samsung",
       "required_version": "2.3",
       "package_id": "tAqY1qJuC5",
       "icon_asset": "icons/ruvmennta.png",
       "app_id": "tAqY1qJuC5.RuvMennta",
-      "downloads": 293,
+      "downloads": 372,
       "package_version": "1.0.0"
     },
     {
@@ -575,16 +575,16 @@
       "description": "Apps for RÚV, the Icelandic national broadcaster: Sarpur on demand, Barnaefni for children, Unglingar for teens, Menntun for education, and Útvarp radio (not affiliated with RÚV)",
       "category": "Онлайн-сервисы и эфир",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/RUVUng.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/RUVUng.wgt",
       "sha256": "3447d4bf60c95b553a29040f11768b812d177bf2e4a1ac2a0b69f41d726d4e20",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 663925,
       "source_repo": "sverrirs/ruv-app-samsung",
       "required_version": "2.3",
       "package_id": "ivydJ95guO",
       "icon_asset": "icons/ruvung.png",
       "app_id": "ivydJ95guO.RuvUng",
-      "downloads": 321,
+      "downloads": 402,
       "package_version": "1.0.0"
     },
     {
@@ -593,16 +593,16 @@
       "description": "Apps for RÚV, the Icelandic national broadcaster: Sarpur on demand, Barnaefni for children, Unglingar for teens, Menntun for education, and Útvarp radio (not affiliated with RÚV)",
       "category": "Онлайн-сервисы и эфир",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/RUVUtvarp.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/RUVUtvarp.wgt",
       "sha256": "265960ea45e92e95963ec6155e6cd0c70aff4baf50bf570170935bfd098d7423",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 690285,
       "source_repo": "sverrirs/ruv-app-samsung",
       "required_version": "2.3",
       "package_id": "Dng1NvQl3R",
       "icon_asset": "icons/ruvutvarp.png",
       "app_id": "Dng1NvQl3R.RuvUtvarp",
-      "downloads": 297,
+      "downloads": 374,
       "package_version": "1.0.0"
     },
     {
@@ -611,16 +611,16 @@
       "description": "Apps for RÚV, the Icelandic national broadcaster: Sarpur on demand, Barnaefni for children, Unglingar for teens, Menntun for education, and Útvarp radio (not affiliated with RÚV)",
       "category": "Онлайн-сервисы и эфир",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/RUVVod.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/RUVVod.wgt",
       "sha256": "87cb240650c139314bad866a9e7a57fc725379069791adedb3cc3ad62c14c208",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 670098,
       "source_repo": "sverrirs/ruv-app-samsung",
       "required_version": "2.3",
       "package_id": "FDg1NvGl3W",
       "icon_asset": "icons/ruvvod.png",
       "app_id": "FDg1NvGl3W.RuvVod",
-      "downloads": 420,
+      "downloads": 502,
       "package_version": "3.0.0"
     },
     {
@@ -636,7 +636,7 @@
       "source_repo": "TBSniller/SmartTwitchWebOSTV",
       "package_id": "com.tbsniller.smarttwitchwebostv",
       "root_required": false,
-      "downloads": 8191
+      "downloads": 8573
     },
     {
       "id": "webos-org-webosbrew-streamkatze",
@@ -651,7 +651,7 @@
       "source_repo": "informatic/streamkatze",
       "package_id": "org.webosbrew.streamkatze",
       "root_required": true,
-      "downloads": 40737
+      "downloads": 40906
     },
     {
       "id": "tizentube",
@@ -669,7 +669,7 @@
       "icon_asset": "icons/tizentube.png",
       "app_id": "xvvl3S1TT1.TizenTubeStandalone",
       "package_version": "2.0.1",
-      "downloads": 7214
+      "downloads": 7245
     },
     {
       "id": "tizenyoutube",
@@ -687,7 +687,7 @@
       "icon_asset": "icons/tizenyoutube.png",
       "app_id": "9Ur5IzDKqV.TizenYouTube",
       "package_version": "0.2.1",
-      "downloads": 7082
+      "downloads": 7092
     },
     {
       "id": "webos-com-willinux-tvh-app",
@@ -702,7 +702,7 @@
       "source_repo": "willinuX-code/webos-tvheadend",
       "package_id": "com.willinux.tvh.app",
       "root_required": false,
-      "downloads": 85547
+      "downloads": 86050
     },
     {
       "id": "smarttv-twitch",
@@ -710,16 +710,16 @@
       "description": "Twitch client for Samsung Smart TVs 2015 and newer models.",
       "category": "Онлайн-сервисы и эфир",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/SmartTV_Twitch.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/SmartTV_Twitch.wgt",
       "sha256": "25d121f5b4fa448101e02a9d0f10473a19c8882877821d2425043b94be916fed",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 424747,
       "source_repo": "fgl27/smarttv-twitch",
       "required_version": "2.3",
       "package_id": "flbtxFhd64",
       "icon_asset": "icons/smarttv-twitch.png",
       "app_id": "flbtxFhd64.SmartTV",
-      "downloads": 3277,
+      "downloads": 3512,
       "package_version": "4.0.1"
     },
     {
@@ -735,7 +735,7 @@
       "source_repo": "adamff-dev/twitch-adfree-webos",
       "package_id": "twitch.adamffdev.v1",
       "root_required": false,
-      "downloads": 53730
+      "downloads": 55438
     },
     {
       "id": "webos-com-sk-app-lgtv-vpn",
@@ -750,7 +750,7 @@
       "source_repo": "sekrell/lgtv-vpn",
       "package_id": "com.sk.app.lgtv-vpn",
       "root_required": true,
-      "downloads": 22603
+      "downloads": 23348
     },
     {
       "id": "webos-youtube-leanback-v4",
@@ -765,7 +765,7 @@
       "source_repo": "webosbrew/youtube-webos",
       "package_id": "youtube.leanback.v4",
       "root_required": false,
-      "downloads": 1025734
+      "downloads": 1039264
     },
     {
       "id": "chiaki-tizen",
@@ -773,16 +773,16 @@
       "description": "An open source PlayStation remote play project serving as the next-generation of Chiaki.",
       "category": "Игровой стриминг",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Chiaki-Tizen.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Chiaki-Tizen.wgt",
       "sha256": "05a5e63d711fb06644ea30a4e6315581dd508fddec4dd9f0a1986b380edb0473",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 1846734,
       "source_repo": "Trent407/chiaki-tizen",
       "required_version": "5.5",
       "package_id": "ChIaKiTiZ0",
       "icon_asset": "icons/chiaki-tizen.png",
       "app_id": "ChIaKiTiZ0.ChiakiTizen",
-      "downloads": 1993,
+      "downloads": 2549,
       "package_version": "0.2.0"
     },
     {
@@ -798,7 +798,7 @@
       "source_repo": "mariotaku/ihsplay",
       "package_id": "org.mariotaku.ihsplay",
       "root_required": false,
-      "downloads": 77085
+      "downloads": 77573
     },
     {
       "id": "moonlight-chrome",
@@ -806,16 +806,16 @@
       "description": "Open-source client for NVIDIA GameStream and Sunshine.",
       "category": "Игровой стриминг",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Moonlight-Chrome.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Moonlight-Chrome.wgt",
       "sha256": "00c20f3bea765890fa8fb6816aebbc0ae1f3195c6ed9d95a5a8ce7368f31ffd6",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 1289417,
       "source_repo": "OneLiberty/moonlight-chrome-tizen",
       "required_version": "5.5",
       "package_id": "MoonLightS",
       "icon_asset": "icons/moonlight-chrome.png",
       "app_id": "MoonLightS.MoonlightWasm",
-      "downloads": 2894,
+      "downloads": 3013,
       "package_version": "1.2.1"
     },
     {
@@ -831,7 +831,7 @@
       "source_repo": "mariotaku/moonlight-tv",
       "package_id": "com.limelight.webos",
       "root_required": false,
-      "downloads": 310904
+      "downloads": 315232
     },
     {
       "id": "moonlight-chrome-nogame",
@@ -839,16 +839,16 @@
       "description": "Open-source client for NVIDIA GameStream and Sunshine with gamemode disabled.",
       "category": "Игровой стриминг",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Moonlight-Chrome-NoGame.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Moonlight-Chrome-NoGame.wgt",
       "sha256": "1c73e8f6895be39f10ac36d83e00c4c095801ec4ad89d23d9d5630a16fc6c056",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 1291214,
       "source_repo": "MrPhaze62/moonlight-chrome-tizen-no-gamemode",
       "required_version": "5.5",
       "package_id": "MoonLightS",
       "icon_asset": "icons/moonlight-chrome-nogame.png",
       "app_id": "MoonLightS.MoonlightWasm",
-      "downloads": 1277,
+      "downloads": 1376,
       "package_version": "1.2.1"
     },
     {
@@ -857,16 +857,16 @@
       "description": "Moonlight NVIDIA GameStream / Sunshine client (ToypoodleGaming fork).",
       "category": "Игровой стриминг",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Moonlight-Chrome-ToypoodleGaming.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Moonlight-Chrome-ToypoodleGaming.wgt",
       "sha256": "02a687d3d6d34770f3fd0f1ec3ace653128c0d92a84b8eb47a899ef4159fd7ec",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 1294679,
       "source_repo": "toypoodlegaming/moonlight-chrome-tizen",
       "required_version": "5.5",
       "package_id": "MoonLightS",
       "icon_asset": "icons/moonlight-chrome-toypoodlegaming.png",
       "app_id": "MoonLightS.MoonlightWasm",
-      "downloads": 1238,
+      "downloads": 1346,
       "package_version": "1.2.1"
     },
     {
@@ -875,16 +875,16 @@
       "description": "Open-source client for NVIDIA GameStream and Sunshine Tizen OS 5.5 or higher.",
       "category": "Игровой стриминг",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Moonlight-Tizen.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Moonlight-Tizen.wgt",
       "sha256": "1792975033be111c5f958b06dd659fc3f5a212d821df457a34a67ae2cb4febc4",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 2382796,
       "source_repo": "brightcraft/moonlight-tizen",
       "required_version": "5.5",
       "package_id": "MoonLightS",
       "icon_asset": "icons/moonlight-tizen.png",
       "app_id": "MoonLightS.MoonlightWasm",
-      "downloads": 34632,
+      "downloads": 36771,
       "package_version": "1.20.0"
     },
     {
@@ -893,16 +893,16 @@
       "description": "Open-source client for NVIDIA GameStream and Sunshine Tizen OS 5.5 or higher.",
       "category": "Игровой стриминг",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Moonlight-ForceGM-Tizen.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Moonlight-ForceGM-Tizen.wgt",
       "sha256": "5b6967c1e405016c70637632769b7f5f3187987cb37cdc133b8098e19244871f",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 2382799,
       "source_repo": "brightcraft/moonlight-tizen",
       "required_version": "5.5",
       "package_id": "MoonLightS",
       "icon_asset": "icons/moonlight-forcegm-tizen.png",
       "app_id": "MoonLightS.MoonlightWasm",
-      "downloads": 5351,
+      "downloads": 5644,
       "package_version": "1.20.0"
     },
     {
@@ -918,7 +918,7 @@
       "source_repo": "webosbrew/chocolate-doom",
       "package_id": "org.chocolate-doom.demo",
       "root_required": false,
-      "downloads": 49926
+      "downloads": 50277
     },
     {
       "id": "doom",
@@ -926,16 +926,16 @@
       "description": "A WebAssembly-powered port of Doom packaged as a Samsung Tizen TV application.",
       "category": "Игры",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/Doom.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/Doom.wgt",
       "sha256": "6f7c9b7c5be5121684924ae12f8a9e245f19de4be8cdcb485fec4abefd735a61",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 2907034,
       "source_repo": "dos-ise/doom-tizen",
       "required_version": "5.5",
       "package_id": "doomwasm01",
       "icon_asset": "icons/doom.png",
       "app_id": "doomwasm01.Doom",
-      "downloads": 4448,
+      "downloads": 4627,
       "package_version": "1.21"
     },
     {
@@ -951,7 +951,7 @@
       "source_repo": "mariotaku/FruitNinja",
       "package_id": "com.halfbrick.fruitninja",
       "root_required": false,
-      "downloads": 10664
+      "downloads": 11694
     },
     {
       "id": "gameboy-emulator",
@@ -959,16 +959,16 @@
       "description": "A Game Boy (DMG) emulator.",
       "category": "Игры",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/GameBoy-Emulator.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/GameBoy-Emulator.wgt",
       "sha256": "9522e11954ce99e2c86468b27ce2c1ff377906cf862ad329168c5424a9054079",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 151207,
       "source_repo": "dos-ise/GB-EMU_Tizen",
       "required_version": "5.5",
       "package_id": "gbemutzn01",
       "icon_asset": "icons/gameboy-emulator.png",
       "app_id": "gbemutzn01.GBEmu",
-      "downloads": 2910,
+      "downloads": 3135,
       "package_version": "1.2.1"
     },
     {
@@ -984,7 +984,7 @@
       "source_repo": "7coil/webos-openttd",
       "package_id": "com.leondrolio.x.openttd",
       "root_required": false,
-      "downloads": 11876
+      "downloads": 12051
     },
     {
       "id": "webos-com-github-k4zmu2a-space-cadet-pinball",
@@ -999,7 +999,7 @@
       "source_repo": "webosbrew/SpaceCadetPinball",
       "package_id": "com.github.k4zmu2a.space-cadet-pinball",
       "root_required": false,
-      "downloads": 84416
+      "downloads": 85167
     },
     {
       "id": "webos-com-retroarch-webos",
@@ -1014,7 +1014,7 @@
       "source_repo": "webosbrew/RetroArch",
       "package_id": "com.retroarch.webos",
       "root_required": false,
-      "downloads": 48372
+      "downloads": 49348
     },
     {
       "id": "transporttycoondeluxe",
@@ -1022,16 +1022,16 @@
       "description": "OpenTTD is an open source simulation game based upon Transport Tycoon Deluxe.",
       "category": "Игры",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/TransportTycoonDeluxe.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/TransportTycoonDeluxe.wgt",
       "sha256": "d2e9f2d46d1b6702c049e40e8cb799277e8a747436d3d8f60151242db2350ade",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 4621391,
       "source_repo": "dos-ise/openttd-tizen",
       "required_version": "5.5",
       "package_id": "NM5CXQae71",
       "icon_asset": "icons/transporttycoondeluxe.png",
       "app_id": "NM5CXQae71.OpenTTD",
-      "downloads": 1275,
+      "downloads": 1379,
       "package_version": "15.3"
     },
     {
@@ -1040,16 +1040,16 @@
       "description": "AirPlay receiver for Samsung Tizen TV — stream audio/video to older Samsung TVs.",
       "category": "Трансляция с телефона",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/AirTizen.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/AirTizen.wgt",
       "sha256": "26c38fed140763ed4f7c3b2298c708f599006f25db275bc8a3f97c9140f14c45",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 3731579,
       "source_repo": "MrHumanRebel/airtizen",
       "required_version": "3.0",
       "package_id": "AirTizen01",
       "icon_asset": "icons/airtizen.png",
       "app_id": "AirTizen01.AirTizen",
-      "downloads": 12929,
+      "downloads": 13436,
       "package_version": "2.2.34"
     },
     {
@@ -1058,16 +1058,16 @@
       "description": "FCast is an open source protocol that enables wireless streaming of audio and video content between devices.",
       "category": "Трансляция с телефона",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/FCastReceiver.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/FCastReceiver.wgt",
       "sha256": "cd8c8d9fbfea5c37ec541a7f91a6f2c761c2687b1a191dc32d1ddae095dd553c",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 6669120,
       "source_repo": "futo-org/FCastReceiver",
       "required_version": "5.0",
       "package_id": "qL5oFoTHoJ",
       "icon_asset": "icons/fcastreceiver.png",
       "app_id": "qL5oFoTHoJ.FCastReceiver",
-      "downloads": 2958,
+      "downloads": 3151,
       "package_version": "1.0.0"
     },
     {
@@ -1083,7 +1083,7 @@
       "source_repo": "webosbrew/webos-bridge-64to32",
       "package_id": "org.webosbrew.bridge-64to32",
       "root_required": false,
-      "downloads": 5140
+      "downloads": 5412
     },
     {
       "id": "webos-com-amazoff-patcher",
@@ -1098,7 +1098,7 @@
       "source_repo": "azoffshowy/AmazOff",
       "package_id": "com.amazoff.patcher",
       "root_required": true,
-      "downloads": 17162
+      "downloads": 17996
     },
     {
       "id": "webos-com-pirate-refresh",
@@ -1113,7 +1113,7 @@
       "source_repo": "LucifersCircle/WebOS-Token-Refresh-App",
       "package_id": "com.pirate.refresh",
       "root_required": false,
-      "downloads": 87245
+      "downloads": 90833
     },
     {
       "id": "webos-org-webosbrew-cccbib",
@@ -1128,7 +1128,7 @@
       "source_repo": "volkovmqx/cccbib",
       "package_id": "org.webosbrew.cccbib",
       "root_required": false,
-      "downloads": 22272
+      "downloads": 22479
     },
     {
       "id": "webos-org-webosbrew-custom-screensaver",
@@ -1143,7 +1143,7 @@
       "source_repo": "webosbrew/custom-screensaver",
       "package_id": "org.webosbrew.custom-screensaver",
       "root_required": true,
-      "downloads": 58224
+      "downloads": 58677
     },
     {
       "id": "webos-io-github-beatcracker-decoderbench",
@@ -1158,7 +1158,7 @@
       "source_repo": "beatcracker/decoder-bench",
       "package_id": "io.github.beatcracker.decoderbench",
       "root_required": true,
-      "downloads": 3126
+      "downloads": 3302
     },
     {
       "id": "fireplace",
@@ -1218,7 +1218,7 @@
       "source_repo": "webosbrew/hyperhdr-webos-loader",
       "package_id": "org.webosbrew.hyperhdr.loader",
       "root_required": true,
-      "downloads": 55380
+      "downloads": 55961
     },
     {
       "id": "webos-org-webosbrew-hyperion-ng-loader",
@@ -1233,7 +1233,7 @@
       "source_repo": "webosbrew/hyperion.ng-webos-loader",
       "package_id": "org.webosbrew.hyperion.ng.loader",
       "root_required": true,
-      "downloads": 42743
+      "downloads": 43027
     },
     {
       "id": "webos-org-oted-idlegif",
@@ -1248,7 +1248,7 @@
       "source_repo": "Oted/idlegif",
       "package_id": "org.oted.idlegif",
       "root_required": true,
-      "downloads": 4201
+      "downloads": 4395
     },
     {
       "id": "iperf3-tv",
@@ -1256,16 +1256,16 @@
       "description": "Measures your Samsung TV's network throughput to an iperf3 server, upload or download. Requires a small WebSocket-to-TCP relay on your LAN.",
       "category": "Инструменты",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/iperf3-TV.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/iperf3-TV.wgt",
       "sha256": "79f6f09e8fe4488bfb07998df2911bdc6cd798990bbd7495b47ce8c89b949269",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 60796,
       "source_repo": "DmitryMaksakov/samsung-tv-iperf3",
       "required_version": "2.4",
       "package_id": "Iperf3TvAp",
       "icon_asset": "icons/iperf3-tv.png",
       "app_id": "Iperf3TvAp.iperf3tv",
-      "downloads": 1582,
+      "downloads": 1727,
       "package_version": "1.0.0"
     },
     {
@@ -1281,7 +1281,7 @@
       "source_repo": "dr0dr1dr2dr3/lgappupdateblocker",
       "package_id": "org.webosbrew.appupdateblocker",
       "root_required": true,
-      "downloads": 21655
+      "downloads": 22593
     },
     {
       "id": "webos-org-webosbrew-inputhook",
@@ -1296,7 +1296,7 @@
       "source_repo": "Simon34545/lginputhook",
       "package_id": "org.webosbrew.inputhook",
       "root_required": true,
-      "downloads": 70765
+      "downloads": 71876
     },
     {
       "id": "webos-org-litefin-app",
@@ -1304,14 +1304,14 @@
       "description": "Native Jellyfin client for WebOS",
       "category": "Инструменты",
       "platform": "webos",
-      "package_url": "https://github.com/MoazSalem/litefin/releases/download/v2.0.20/Litefin-2.0.20-webOS-Legacy.ipk",
-      "sha256": "62ab1f83d1c18b71476d5ab536b4674b996f4b0f2fef6df6094cac44bb329dc2",
-      "version": "2.0.20",
-      "size_bytes": 6353160,
+      "package_url": "https://github.com/MoazSalem/litefin/releases/download/v2.10.0/Litefin-2.10.0-webOS-Legacy.ipk",
+      "sha256": "01f7ae7d9b9bd409c2f94b16096455d6d2933f512d16ada8e6b584b1313d7a2a",
+      "version": "2.10.0",
+      "size_bytes": 4032518,
       "source_repo": "MoazSalem/litefin",
       "package_id": "org.litefin.app",
       "root_required": false,
-      "downloads": 14002
+      "downloads": 15464
     },
     {
       "id": "webos-org-webosbrew-piccap",
@@ -1326,7 +1326,7 @@
       "source_repo": "TBSniller/piccap",
       "package_id": "org.webosbrew.piccap",
       "root_required": true,
-      "downloads": 62670
+      "downloads": 63241
     },
     {
       "id": "webos-ui30",
@@ -1341,7 +1341,7 @@
       "source_repo": "Bahoue/OnOff-Remote",
       "package_id": "ui30",
       "root_required": false,
-      "downloads": 22014
+      "downloads": 22208
     },
     {
       "id": "rtsp-camera-viewer",
@@ -1349,16 +1349,16 @@
       "description": "Display RTSP streams from IP cameras on your Samsung TV, with numpad channel switching and a 4-camera grid. Requires the companion rtsp-samsung-tv server (Node or Docker) running on your LAN.",
       "category": "Инструменты",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/RTSP-Camera-Viewer.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/RTSP-Camera-Viewer.wgt",
       "sha256": "4113c8617d693f0ed45d5a8185ca13871f4aad23d255432aba2c879fd3a1756b",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 97191,
       "source_repo": "vzakharchenko/rtsp-samsung-tv",
       "required_version": "2.3",
       "package_id": "rfhFEcdD35",
       "icon_asset": "icons/rtsp-camera-viewer.png",
       "app_id": "rfhFEcdD35.CameraDevice",
-      "downloads": 1414,
+      "downloads": 1587,
       "package_version": "1.0.0"
     },
     {
@@ -1374,7 +1374,7 @@
       "source_repo": "depau/webos-sound-mode-fix.git",
       "package_id": "eu.depau.webos.soundmodefix",
       "root_required": true,
-      "downloads": 18010
+      "downloads": 18256
     },
     {
       "id": "tizenbrew",
@@ -1382,16 +1382,16 @@
       "description": "A way to experience modded websites and you can install newer apps without fighting with Tizen Studio.",
       "category": "Инструменты",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/TizenBrew.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/TizenBrew.wgt",
       "sha256": "4ff4f1d7e400b13ab40e56d928c714e0a0858a818ada180f6c90719398503fbc",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 914982,
       "source_repo": "reisxd/TizenBrew",
       "required_version": "3.0",
       "package_id": "xvvl3S1bvH",
       "icon_asset": "icons/tizenbrew.png",
       "app_id": "xvvl3S1bvH.TizenBrewStandalone",
-      "downloads": 17438,
+      "downloads": 19255,
       "package_version": "2.0.5"
     },
     {
@@ -1409,7 +1409,7 @@
       "package_id": "xvvl3S1bvH",
       "app_id": "xvvl3S1bvH.TizenBrewStandalone",
       "package_version": "2.0.5",
-      "downloads": 200237
+      "downloads": 204435
     },
     {
       "id": "tizenfeed",
@@ -1427,7 +1427,7 @@
       "icon_asset": "icons/tizenfeed.png",
       "app_id": "y3ckmhs1Ds.Tizengram",
       "package_version": "1.0.0",
-      "downloads": 1391
+      "downloads": 1394
     },
     {
       "id": "audiorecorder",
@@ -1435,16 +1435,16 @@
       "description": "HTML5 Audio Recorder (kalaoke App).",
       "category": "Инструменты",
       "platform": "tizen",
-      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-880/AudioRecorder.wgt",
+      "package_url": "https://github.com/Apps2Samsung/tizen-community-packages/releases/download/community-919/AudioRecorder.wgt",
       "sha256": "1eb8429cd8efbbf3d5f39a31d8f2b19e08f9df8bf4c6c7fb7dbc18163788180b",
-      "version": "community-880",
+      "version": "community-919",
       "size_bytes": 29724428,
       "source_repo": "TizenTVWebApp/TizenTVAudioRecorder",
       "required_version": "2.3",
       "package_id": "yKdEw6j88z",
       "icon_asset": "icons/audiorecorder.png",
       "app_id": "yKdEw6j88z.TizenTVAudioRecorder",
-      "downloads": 1346,
+      "downloads": 1484,
       "package_version": "1.0.0"
     },
     {
@@ -1460,7 +1460,7 @@
       "source_repo": "Informatic/webos-vncserver",
       "package_id": "org.webosbrew.vncserver",
       "root_required": true,
-      "downloads": 34703
+      "downloads": 34927
     },
     {
       "id": "webos-org-aabytt-webos-custom-screensaver-aerial",
@@ -1468,14 +1468,14 @@
       "description": "Aerial custom webOS Screensaver",
       "category": "Инструменты",
       "platform": "webos",
-      "package_url": "https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.0.4/org.aabytt.webos.custom-screensaver-aerial_3.0.4_all.ipk",
-      "sha256": "b8e7ff480a85462c28d9ed39eca797348b501493e621098b8ce70c21bd3c85a4",
-      "version": "3.0.4",
-      "size_bytes": 8731582,
+      "package_url": "https://github.com/aabytt/custom-screensaver-aerial/releases/download/v3.1.1/org.aabytt.webos.custom-screensaver-aerial_3.1.1_all.ipk",
+      "sha256": "4c9c0ae4ed5ca90867cf495de991e420c3aaf054e424d63e41fcf3bf96c7d393",
+      "version": "3.1.1",
+      "size_bytes": 9663098,
       "source_repo": "aabytt/custom-screensaver-aerial",
       "package_id": "org.aabytt.webos.custom-screensaver-aerial",
       "root_required": true,
-      "downloads": 41474
+      "downloads": 42460
     },
     {
       "id": "webos-org-rchalaaa-webos-custom-screensaver",
@@ -1490,7 +1490,7 @@
       "source_repo": "rchalaaa/custom-screensaver",
       "package_id": "org.rchalaaa.webos.custom-screensaver",
       "root_required": true,
-      "downloads": 8901
+      "downloads": 9550
     },
     {
       "id": "webos-pl-krzywro-webos-bluetooth-disabler",
@@ -1505,7 +1505,7 @@
       "source_repo": "krzywro/webos-bluetooth-disabler",
       "package_id": "pl.krzywro.webos-bluetooth-disabler",
       "root_required": true,
-      "downloads": 13914
+      "downloads": 14252
     },
     {
       "id": "webos-com-github-gprot42-webosterminal",
@@ -1520,7 +1520,7 @@
       "source_repo": "gprot42/webos-terminal",
       "package_id": "com.github.gprot42.webosterminal",
       "root_required": true,
-      "downloads": 7399
+      "downloads": 7895
     },
     {
       "id": "webos-com-open-hidden-menu",
@@ -1535,7 +1535,7 @@
       "source_repo": "nguy3nloan1986-dotcom/Open-Service-Menu",
       "package_id": "com.open.hidden.menu",
       "root_required": false,
-      "downloads": 7984
+      "downloads": 8608
     }
   ]
 }
